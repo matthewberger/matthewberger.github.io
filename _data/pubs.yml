@@ -1,0 +1,100 @@
+- title: "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+  pdf: "/papers/cite2vec.pdf"
+  snap: "/papersnaps/cite2vec.jpg"
+  pubinfo: "Infovis"
+  date: "2016"
+  authors: ["Matthew Berger", "Katherine McDonough", "Lee M. Seversky"]
+
+- title: "On Time-Series Topological Data Analysis: New Data and Opportunities"
+  pdf: "http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/papers/Seversky_On_Time-Series_Topological_CVPR_2016_paper.pdf"
+  project: "https://github.com/gpersistence/tstop"
+  snap: "/papersnaps/tstopo.jpg"
+  pubinfo: "CVPR Workshop on Differential Geometry in Computer Vision and Machine Learning"
+  date: "2016"
+  authors: ["Lee M. Seversky", "Shelby Davis", "Matthew Berger"]
+
+- title: "Spatial Active Learning for Cost-Effective Sensing and Feature Extraction"
+  pdf: "/papers/sal.pdf"
+  snap: "/papersnaps/sal.jpg"
+  pubinfo: "ICML Workshop in Data-Efficient Machine Learning"
+  date: "2016"
+  authors: ["Matthew Berger", "Lucas Magee", "Eric Heim", "Lee M. Seversky"]
+
+- title: "Classifying Swarm Behavior via Compressive Subspace Learning"
+  pdf: "/papers/swarm.pdf"
+  snap: "/papersnaps/swarm.jpg"
+  pubinfo: "ICRA"
+  date: "2016"
+  authors: ["Matthew Berger", "Lee M. Seversky", "Daniel S. Brown"]
+
+- title: "Efficient Online Relative Comparison Kernel Learning"
+  pdf: "/papers/eorckle.pdf"
+  snap: "/papersnaps/eorckle.jpg"
+  pubinfo: "SDM"
+  date: "2015"
+  authors: ["Eric Heim", "Matthew Berger", "Lee M. Seversky", "Milos Hauskrecht"]
+
+- title: "Matrix Completion with Columns in Union and Sums of Subspaces"
+  pdf: "https://ecse.rpi.edu/~wang/pub/GlobalSIP2015.pdf"
+  snap: "/papersnaps/uos.jpg"
+  pubinfo: "GlobalSIP"
+  date: "2015"
+  authors: ["Pengzhi Gao", "Meng Wang", "Joe H. Chow", "Matthew Berger", "Lee M. Seversky"]
+
+- title: "Subspace Tracking Under Dynamic Dimensionality for Online Background Subtraction"
+  pdf: "http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Berger_Subspace_Tracking_under_2014_CVPR_paper.pdf"
+  snap: "/papersnaps/studd.jpg"
+  pubinfo: "CVPR"
+  date: "2014"
+  authors: ["Matthew Berger", "Lee M. Seversky"]
+
+- title: "State of the Art in Surface Reconstruction from Point Clouds"
+  pdf: "papers/reconstar.pdf"
+  project: "http://lgg.epfl.ch/publications/2014/reconstar/index.php"
+  snap: "/papersnaps/reconstar.jpg"
+  pubinfo: "Eurographics (State of the Art Reports)"
+  date: "2014"
+  authors: ["Matthew Berger", "Andrea Tagliasacchi", "Lee M. Seversky", "Pierre Alliez", "Joshua A. Levine", "Andrei Sharf", "Claudio T. Silva"]
+
+- title: "Using Physically Based Rendering to Benchmark Structured Light Scanners"
+  pdf: "papers/sl.pdf"
+  snap: "/papersnaps/sl.jpg"
+  pubinfo: "Pacific Graphics"
+  date: "2014"
+  authors: ["Esdras Medeiros", "Harish Doraiswamy", "Matthew Berger", "Claudio T. Silva"]
+
+- title: "A Benchmark for Surface Reconstruction"
+  pdf: "papers/bench.pdf"
+  project: "http://reconbench.org"
+  snap: "/papersnaps/bench.jpg"
+  pubinfo: "ACM Transactions on Graphics"
+  date: "2013"
+  authors: ["Matthew Berger", "Joshua A. Levine", "Luis Gustavo Nonato", "Gabriel Taubin", "Claudio T. Silva"]
+
+- title: "Nonrigid Matching of Undersampled Shapes via Medial Diffusion"
+  pdf: "papers/mkmatch.pdf"
+  snap: "/papersnaps/mkmatch.jpg"
+  pubinfo: "Symposium on Geometry Processing"
+  date: "2012"
+  authors: ["Matthew Berger", "Claudio T. Silva"]
+
+- title: "Medial Kernels"
+  pdf: "papers/mk.pdf"
+  snap: "/papersnaps/mk.jpg"
+  pubinfo: "Eurographics"
+  date: "2012"
+  authors: ["Matthew Berger", "Claudio T. Silva"]
+
+- title: "Harmonic Point Cloud Orientation"
+  doi: "http://www.sciencedirect.com/science/article/pii/S0097849311000513"
+  snap: "/papersnaps/harmonic.jpg"
+  pubinfo: "Shape Modeling International"
+  date: "2011"
+  authors: ["Lee M. Seversky", "Matthew Berger", "Lijun Yin"]
+
+- title: "Fiedler Trees for Multiscale Surface Analysis"
+  pdf: "/papers/fiedler.pdf"
+  snap: "/papersnaps/fiedler.jpg"
+  pubinfo: "Shape Modeling International"
+  date: "2010"
+  authors: ["Matthew Berger", "Luis Gustavo Nonato", "Valerio Pascucci", "Claudio T. Silva"]
