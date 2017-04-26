@@ -8,7 +8,7 @@ layout: default
 Postdoctoral Scholar <br>
 University of Arizona, Department of Computer Science <br>
 Email: <a href="mailto:matthew.sh.berger@gmail.com">matthew.sh.berger@gmail.com</a><br>
-Office: Gould-Simpson, 835<br>
+Office: Gould-Simpson, 838<br>
 
 <hr style="height:10pt; visibility:hidden;" />
 
