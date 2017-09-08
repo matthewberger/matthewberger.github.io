@@ -4,8 +4,8 @@
 <img class="" style="float: left;" hspace="10" align="left" src="{{ pub.snap }}" />
 {{ pub.authors | join: ', '}} <br/>
 {{ pub.title }} <br/>
-{{ pub.pubinfo }} {{ pub.date }} <br/>
-{% if pub.pdf %} (<a href="{{pub.pdf}}">pdf</a>) {% endif %} {% if pub.doi %} (<a href="{{pub.doi}}">doi</a>) {% endif %} {% if pub.project %} (<a href="{{pub.project}}">project</a>) {% endif %} <br/>
+{% if pub.pubinfo %} {{pub.pubinfo}}, {% endif %} {{ pub.date }} <br/>
+{% if pub.pdf %} (<a href="{{pub.pdf}}">pdf</a>) {% endif %} {% if pub.arxiv %} (<a href="{{pub.arxiv}}">arxiv</a>) {% endif %} {% if pub.doi %} (<a href="{{pub.doi}}">doi</a>) {% endif %} {% if pub.video %} (<a href="{{pub.video}}">video</a>) {% endif %} {% if pub.project %} (<a href="{{pub.project}}">project</a>) {% endif %} <br/>
 <br/>
 
 {% endfor %}
