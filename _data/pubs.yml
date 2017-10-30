@@ -1,18 +1,3 @@
-- title: "A Generative Model for Volume Rendering"
-  arxiv: "https://arxiv.org/abs/1710.09545"
-  snap: "/papersnaps/tfgan.jpg"
-  video: "/videos/tfgan.mp4"
-  project: "https://github.com/matthewberger/tfgan"
-  date: "2017"
-  authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
-
-- title: "Visualizing Time-Varying Particle Flows with Diffusion Geometry"
-  arxiv: "https://arxiv.org/abs/1708.03686"
-  snap: "/papersnaps/flowdiffusionmap.jpg"
-  video: "/videos/flowdiffusionmap.mp4"
-  date: "2017"
-  authors: ["Matthew Berger", "Joshua A. Levine"]
-
 - title: "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
   pdf: "/papers/cite2vec.pdf"
   snap: "/papersnaps/cite2vec.jpg"

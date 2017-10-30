@@ -22,4 +22,5 @@ I am a postdoctoral scholar in the Department of Computer Science at the <a href
 # Research Interests
 My current research interests are in the areas of visualization, computer vision, and machine learning. I am particularly interested in how machine learning techniques can help various visualization problems, across the spectrum of scientific visualization (scalar field and flow visualization) and information visualization (document visualization).
 
+{% include subs.html %}
 {% include pubs.html %}
