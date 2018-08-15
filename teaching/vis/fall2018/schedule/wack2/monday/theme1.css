@@ -1,0 +1,9 @@
+body  {
+	background-color: lightblue;
+	opacity: 0.5;
+}
+
+p  {
+	font-size: 20px;
+	color: darkgreen;
+}

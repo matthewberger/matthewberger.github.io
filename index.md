@@ -5,22 +5,28 @@ layout: default
 {% include image.html url="/images/iceland.jpg" caption="Matthew Berger" width=1024 align="center" %}
 
 # Matthew Berger
-Postdoctoral Scholar <br>
-University of Arizona, Department of Computer Science <br>
-Email: <a href="mailto:matthew.sh.berger@gmail.com">matthew.sh.berger@gmail.com</a><br>
-Office: Gould-Simpson, 826<br>
+Assistant Professor <br>
+Vanderbilt University, Department of Electrical Engineering and Computer Science <br>
+Office: Jacobs Hall 379<br>
+Phone: (615)-343-2016<br>
+Email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.edu</a><br>
 
-<hr style="height:10pt; visibility:hidden;" />
-
-<hr width="600px">
-
-<hr style="height:10pt; visibility:hidden;" />
+---
 
 # About Me
-I am a postdoctoral scholar in the Department of Computer Science at the <a href="https://www2.cs.arizona.edu">University of Arizona</a>, advised by <a href="https://jalevine.bitbucket.io/">Prof. Joshua A. Levine</a>, and am a member of the <a href="http://hdc.cs.arizona.edu/">HDC Lab</a> here at UA. Previously I was a researcher with the Air Force Research Laboratory. I received my PhD in Computing from the <a href="https://www.cs.utah.edu">University of Utah</a>, where my advisor was <a href="https://vgc.poly.edu/~csilva/">Prof. Claudio T. Silva</a>, and did my MS and undergrad in Computer Science at <a href="https://www.cs.binghamton.edu">Binghamton University</a>.
+I am an assistant professor in the Department of Electrical Engineering and Computer Science at [Vanderbilt University](https://engineering.vanderbilt.edu/eecs). I was previously a postdoc at the [University of Arizona](https://www2.cs.arizona.edu), advised by [Prof. Joshua A. Levine](https://jalevine.bitbucket.io/). Before that, I was a researcher with the Air Force Research Laboratory. I received my PhD in Computing from the [University of Utah](https://www.cs.utah.edu), where my advisor was [Claudio T. Silva](https://vgc.poly.edu/~csilva), and did my MS and undergrad in Computer Science at [Binghamton University](https://www.cs.binghamton.edu).
+
 
 # Research Interests
-My current research interests are in the areas of visualization, computer vision, and machine learning. I am particularly interested in how machine learning techniques can help various visualization problems, across the spectrum of scientific visualization (scalar field and flow visualization) and information visualization (document visualization).
 
-{% include subs.html %}
+My research is in the area of data visualization. I develop techniques that help people visually explore and make sense of large and complex data. I am particuarly interested in leveraging and developing machine learning techniques for this purpose. My research considers what can be learned from all aspects of visualization, such as data, visual encodings, and user interactions, in order to improve the process of visual exploration.
+
+**Update.** I am actively looking for PhD students and postdocs. If you are interested in visualization or machine learning please feel free to contact me.
+
+---
+
 {% include pubs.html %}
+
+---
+
+{% include teaching.html %}

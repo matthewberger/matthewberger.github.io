@@ -1,8 +1,46 @@
+- title: "Visual Supervision in Bootstrapped Information Extraction"
+  snap: "/papersnaps/visboot.png"
+  pubinfo: "EMNLP (to appear)"
+  date: "2018"
+  authors: ["Matthew Berger", "Ajay Nagesh", "Joshua A. Levine", "Mihai Surdeanu", "Helen Zhang"]
+
+- title: "A Generative Model for Volume Rendering"
+  arxiv: "https://arxiv.org/abs/1710.09545"
+  snap: "/papersnaps/tfgan.jpg"
+  video: "/videos/tfgan.mp4"
+  project: "https://github.com/matthewberger/tfgan"
+  pubinfo: "IEEE TVCG (to appear)"
+  date: "2018"
+  authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
+
+- title: "Topological Eulerian Synthesis of Slow Motion Periodic Videos"
+  pdf: "http://www.ctralie.com/Research/SloMoLoops/paper.pdf"
+  snap: "/papersnaps/slomo.gif"
+  project: "https://github.com/ctralie/SloMoLoops"
+  pubinfo: "ICIP"
+  date: "2018"
+  authors: ["Christopher J. Tralie", "Matthew Berger"]
+
+- title: "Visualizing Time-Varying Particle Flows with Diffusion Geometry"
+  arxiv: "https://arxiv.org/abs/1708.03686"
+  snap: "/papersnaps/flowdiffusionmap.jpg"
+  video: "/videos/flowdiffusionmap.mp4"
+  pubinfo: "arXiv"
+  date: "2017"
+  authors: ["Matthew Berger", "Joshua A. Levine"]
+
+- title: "A Survey of Surface Reconstruction from Point Clouds"
+  pdf: "papers/reconsurvey.pdf"
+  snap: "/papersnaps/pacmanrecon.png"
+  pubinfo: "Computer Graphics Forum (extended version of STAR)"
+  date: "2017"
+  authors: ["Matthew Berger", "Andrea Tagliasacchi", "Lee M. Seversky", "Pierre Alliez", "Gael Guennebaud", "Joshua A. Levine", "Andrei Sharf", "Claudio T. Silva"]
+
 - title: "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
   pdf: "/papers/cite2vec.pdf"
   snap: "/papersnaps/cite2vec.jpg"
   video: "/videos/cite2vec.mp4"
-  pubinfo: "Infovis"
+  pubinfo: "IEEE Infovis"
   date: "2016"
   authors: ["Matthew Berger", "Katherine McDonough", "Lee M. Seversky"]
 

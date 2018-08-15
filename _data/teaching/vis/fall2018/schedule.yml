@@ -1,0 +1,70 @@
+- week-title: "Introduction, What do we draw for visualization?"
+  week-date: "August 20"
+  wednesday-title: "Course Introduction"
+  wednesday-required-reading: "**Munzner** Ch. 1"
+  wednesday-recommended-reading: "[Visualization Zoo](https://idl.cs.washington.edu/files/2012-VisualizationZoo-CACM.pdf)"
+  nop-wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Posted**"
+  friday-title: "Data, Visual Marks and Channels"
+  friday-required-reading: "**Munzner** Ch. 2 Ch. 5.1-5.3"
+  friday-recommended-reading: "[Polaris](https://graphics.stanford.edu/papers/polaris/polaris.pdf), [Information Visualization Design Space](https://ieeexplore.ieee.org/document/636792/)"
+
+- week-title: "How do we draw? Pt. 1"
+  week-date: "August 27"
+  monday-title: "Web Programming, Javascript, SVG"
+  nop-monday-recommended-reading: "**Murray** Ch. 3"
+  wednesday-title: "D3: selection and transformation"
+  nop-wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Due**, Assignment 1 **Posted**"
+  friday-title: "D3: the data join"
+
+- week-title: "How do we draw? Pt. 2"
+  week-date: "September 3"
+  wednesday-title: "D3: scales"
+  friday-title: "D3: events and transitions"
+
+- week-title: "What _should_ we draw?"
+  week-date: "September 10"
+  monday-title: "Channel Effectiveness"
+  nop-monday-required-reading: "**Munzner** Ch. 5.4-5.6, [Graphical Perception](https://www.jstor.org/stable/2288400)"
+  wednesday-title: "Color Pt. 1"
+  friday-title: "Color Pt. 2"
+
+- week-title: "Why do we draw?"
+  week-date: "September 17"
+  monday-title: "Tasks"
+  wednesday-title: "Design, Pt. 1"
+  nop-wednesday-required-reading: "**Munzner** Ch. 3"
+  friday-title: "Design, Pt. 2"
+  nop-friday-required-reading: "**Munzner** Ch. 4"
+
+- week-title: "Spatial Arrangements"
+  week-date: "September 24"
+
+- week-title: "Interaction"
+  week-date: "October 1"
+
+- week-title: "Time-Series Data"
+  week-date: "October 8"
+
+- week-title: "Hierarchical Data"
+  week-date: "October 15"
+
+- week-title: "Graph Data"
+  week-date: "October 22"
+
+- week-title: "High-Dimensional Data"
+  week-date: "October 29"
+
+- week-title: "Text Data"
+  week-date: "November 5"
+
+- week-title: "Geospatial Data"
+  week-date: "November 12"
+
+- week-title: "Scalar and Vector Data, Pt. 1"
+  week-date: "November 19"
+
+- week-title: "Scalar and Vector Data, Pt. 2"
+  week-date: "November 26"
+
+- week-title: "Selected Topics, Wrap Up"
+  week-date: "December 3"

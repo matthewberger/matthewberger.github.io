@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<title>D3 Selection Example 0</title>
+		<script type='text/javascript' src='d3.js'></script>
+	</head>
+		<svg id='svg' width='500' height='500'>
+		</svg>
+			<script type='text/javascript'>
+			{
+				var old_circle_data = [];
+				for(var i = 0; i < 13; i++)
+					old_circle_data.push([10+30*Math.random(),10+30*Math.random()]);
+				d3.selectAll('circle').data(old_circle_data).enter().append('circle')
+			}
+			</script>
+	</body>
+</html>
