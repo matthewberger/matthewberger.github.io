@@ -151,7 +151,7 @@ See [resources](/teaching/vis/fall2018/resources).
 
 ### Late Submission Policy
 
-If an assignment is not submitted on its due date, it may still be submitted within the proceeding 24 hours, but the submission will receive a 15% penality. The submission for such an assignment on Brightspace will be closed past the due date, thus please email the instructor directly with the assignment for late submissions. Beyond 24 hours, no credit for assignments will be given. No exceptions.
+If an assignment is not submitted on its due date, it may still be submitted within the proceeding 24 hours, but the submission will receive a 15% penality. Beyond 24 hours, no credit for assignments will be given. No exceptions.
 
 ### Regrading Policy
 
@@ -169,6 +169,14 @@ Studuents should adhere to the [Vanderbilt Honor System](https://www.vanderbilt.
 ### Academic Integrity
 
 More generally, students should act in accordance with the academic integrity policies of the university, please see [Vanderbilt's Academic Integrity](https://www.vanderbilt.edu/studentaccountability/academic-integrity) for more information.
+
+### Privacy
+
+All student data and information will be protected under FERPA laws. Please refer to the [Vanderbilt Student Privacy Statement](https://registrar.vanderbilt.edu/ferpa/vanderbilt-student-privacy-statement.php). Please take care to not disclose any private information during lectures and when submitting assignments.
+
+### Nondiscrimination and Anti-Harassment
+
+Vanderbilt is committed to an environment that is free of discrimination and harassment of any kind. If you feel you are being sexually harassed, please see [Project Safe](https://www.vanderbilt.edu/projectsafe/). If you feel unsafe, taken advantage of in any way, or mentally/emotionally unwell, please reach out to the [Student Care Network](https://www.vanderbilt.edu/studentcarenetwork/).
 
 ## Subject to Change Statement
 
