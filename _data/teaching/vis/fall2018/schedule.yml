@@ -10,7 +10,7 @@
 
 - week-title: "How do we draw? Pt. 1"
   week-date: "August 27"
-  monday-title: "Web Programming, Javascript, SVG"
+  monday-title: "Web Programming, Javascript, SVG ([slides](https://vanderbilt.box.com/s/ffrsa8wy7kx3btf000oxkfjee5cxpav5))"
   monday-recommended-reading: "**Murray** Ch. 3"
   wednesday-title: "D3: selection and transformation"
   wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Due**"
