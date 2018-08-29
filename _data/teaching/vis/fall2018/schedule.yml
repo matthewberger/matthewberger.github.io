@@ -12,10 +12,9 @@
   week-date: "August 27"
   monday-title: "Web Programming, Javascript, SVG ([slides](https://vanderbilt.box.com/s/ffrsa8wy7kx3btf000oxkfjee5cxpav5))"
   monday-recommended-reading: "**Murray** Ch. 3"
-  wednesday-title: "D3: selection and transformation"
-  wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Due**"
+  wednesday-title: "D3: selection and transformation ([slides](https://vanderbilt.box.com/s/gvngrzplw9m7g2h51i9ocbqpo98f9ph0))"
+  wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Due**, [Assignment 1](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment1) **Posted**"
   wednesday-recommended-reading: "**Murray** Ch. 6,12 (selection parts)"
-  nop-wednesday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0) **Due**, [Assignment 1](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment1) **Posted**"
   friday-title: "D3: the data join"
   friday-recommended-reading: "**Murray** Ch. 6,12 (everything)"
 
