@@ -57,6 +57,14 @@ email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.
 
 office hours: MW 2:00-3:00, JH 379
 
+### TA
+
+Yubo Fan
+
+email: <a href="mailto:yubo.fan@vanderbilt.edu">yubo.fan@vanderbilt.edu</a><br>
+
+office hours: TH 2:00-3:00, JH 385
+
 ## Lectures
 
 MWF, 9:10-10:00, FGH 129

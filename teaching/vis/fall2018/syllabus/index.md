@@ -92,6 +92,14 @@ email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.
 
 office hours: MW 2:00-3:00, JH 379
 
+### TA
+
+Yubo Fan
+
+email: <a href="mailto:yubo.fan@vanderbilt.edu">yubo.fan@vanderbilt.edu</a><br>
+
+office hours: TH 2:00-3:00, JH 385
+
 ## Discussion
 
 We will use Brightspace for any discussion related to the course: questions on lecture content, programming assignments, etc.. Brightspace will also be used for any announcements.
