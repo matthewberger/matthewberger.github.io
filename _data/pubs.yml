@@ -1,5 +1,14 @@
+- title: "NNCubes: Learned Structures for Visual Data Exploration"
+  arxiv: "https://arxiv.org/abs/1808.08983"
+  snap: "/papersnaps/nncubes.png"
+  pubinfo: "arXiv"
+  date: "2018"
+  authors: ["Zhe Wang", "Dylan Cashman", "Mingwei Li", "Jixian Li", "Matthew Berger", "Joshua A. Levine", "Remco Chang", "Carlos Scheidegger"]
+
 - title: "Visual Supervision in Bootstrapped Information Extraction"
   snap: "/papersnaps/visboot.png"
+  pdf: "papers/visboot.pdf"
+  supplemental: "supplemental/visboot.html"
   pubinfo: "EMNLP (to appear)"
   date: "2018"
   authors: ["Matthew Berger", "Ajay Nagesh", "Joshua A. Levine", "Mihai Surdeanu", "Helen Zhang"]
