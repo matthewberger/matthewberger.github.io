@@ -55,6 +55,15 @@
 
 - week-title: "Spatial Arrangements"
   week-date: "September 24"
+  monday-title: "Single Views"
+  monday-required-reading: "**Munzner** Ch. 7"
+  monday-recommended-reading: "[Multi-Scale Banking to 45](https://vanderbilt.box.com/s/arz7k70y409zb3zzg7m091iplkl0h2fh), [Cartesian vs. Radial](https://vanderbilt.box.com/s/yc8msdi5ogoviok89v1wdeeu3putcsmo)"
+  wednesday-title: "Multiple Views"
+  wednesday-required-reading: "**Munzner** Ch. 12.1-12.4"
+  wednesday-recommended-reading: "[Multiple View Guidelines](https://vanderbilt.box.com/s/z1depzpd2k0ufu96et6cbz4t3lk2yoik), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/2yoxas2yth2guj73z5otxkeie7pyznlo)"
+  friday-title: "Composite Views"
+  friday-required-reading: "**Munzner** Ch. 12.5"
+  friday-recommended-reading: "[Composite View Design Space](https://vanderbilt.box.com/s/rofhgpmzl9ir68ejnnocrtsg5rnpidec), [Points in PCs](https://vanderbilt.box.com/s/46hbuuy405m889f34ikndwkc883tjqf1)"
 
 - week-title: "Interaction"
   week-date: "October 1"
