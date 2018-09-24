@@ -55,9 +55,10 @@
 
 - week-title: "Spatial Arrangements"
   week-date: "September 24"
-  monday-title: "Single Views"
+  monday-title: "Single Views ([slides](https://vanderbilt.box.com/s/c90gnnvw6pevbu13qgt67mo0soo2o898), [pdf](https://vanderbilt.box.com/s/znlivq5iq5wfy2dpj6phuzb0clau07i1))"
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Multi-Scale Banking to 45](https://vanderbilt.box.com/s/arz7k70y409zb3zzg7m091iplkl0h2fh), [Cartesian vs. Radial](https://vanderbilt.box.com/s/yc8msdi5ogoviok89v1wdeeu3putcsmo)"
+  monday-assignment: "[Assignment 3](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment3) **Posted**"
   wednesday-title: "Multiple Views"
   wednesday-required-reading: "**Munzner** Ch. 12.1-12.4"
   wednesday-recommended-reading: "[Multiple View Guidelines](https://vanderbilt.box.com/s/z1depzpd2k0ufu96et6cbz4t3lk2yoik), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/2yoxas2yth2guj73z5otxkeie7pyznlo)"
@@ -67,6 +68,10 @@
 
 - week-title: "Interaction"
   week-date: "October 1"
+  monday-title: "Manipulating Views"
+  wednesday-title: "Brushing"
+  wednesday-assignment: "[Assignment 3](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment3) **Due**"
+  friday-title: "Coordinated Views"
 
 - week-title: "Time-Series Data"
   week-date: "October 8"
