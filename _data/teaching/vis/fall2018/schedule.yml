@@ -59,9 +59,9 @@
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Multi-Scale Banking to 45](https://vanderbilt.box.com/s/arz7k70y409zb3zzg7m091iplkl0h2fh), [Cartesian vs. Radial](https://vanderbilt.box.com/s/yc8msdi5ogoviok89v1wdeeu3putcsmo)"
   monday-assignment: "[Assignment 3](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment3) **Posted**"
-  wednesday-title: "Multiple Views"
+  wednesday-title: "Multiple Views ([slides](https://vanderbilt.box.com/s/tw8y1slzd2q55nc9mhhz840c5ibj0trp), [pdf](https://vanderbilt.box.com/s/93q7633d2dotgje1pavjsuwpkzle6ccq))"
   wednesday-required-reading: "**Munzner** Ch. 12.1-12.4"
-  wednesday-recommended-reading: "[Multiple View Guidelines](https://vanderbilt.box.com/s/z1depzpd2k0ufu96et6cbz4t3lk2yoik), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/2yoxas2yth2guj73z5otxkeie7pyznlo)"
+  wednesday-recommended-reading: "[Multiple View Guidelines](https://vanderbilt.box.com/s/z1depzpd2k0ufu96et6cbz4t3lk2yoik), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/2yoxas2yth2guj73z5otxkeie7pyznlo), [Scagnostics](https://vanderbilt.box.com/s/l8h17priykucgq2cbjl9e5kevwze69am)"
   friday-title: "Composite Views"
   friday-required-reading: "**Munzner** Ch. 12.5"
   friday-recommended-reading: "[Composite View Design Space](https://vanderbilt.box.com/s/rofhgpmzl9ir68ejnnocrtsg5rnpidec), [Points in PCs](https://vanderbilt.box.com/s/46hbuuy405m889f34ikndwkc883tjqf1)"
@@ -73,28 +73,29 @@
   wednesday-assignment: "[Assignment 3](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment3) **Due**"
   friday-title: "Coordinated Views"
 
-- week-title: "Time-Series Data"
+- week-title: "Hierarchical Data"
   week-date: "October 8"
 
-- week-title: "Hierarchical Data"
+- week-title: "Graph Data"
   week-date: "October 15"
 
-- week-title: "Graph Data"
+- week-title: "Project, Midterm, Guest Lecture"
   week-date: "October 22"
+  wednesday-title: "**midterm**"
 
-- week-title: "High-Dimensional Data"
+- week-title: "Guest Lecture, Text Data"
   week-date: "October 29"
 
-- week-title: "Text Data"
+- week-title: "Guest Lecture, Geospatial Data"
   week-date: "November 5"
 
-- week-title: "Geospatial Data"
+- week-title: "High-dimensional Data"
   week-date: "November 12"
 
-- week-title: "Scalar and Vector Data, Pt. 1"
+- week-title: "Sets, Rankings"
   week-date: "November 19"
 
-- week-title: "Scalar and Vector Data, Pt. 2"
+- week-title: "Scalar and Vector Data"
   week-date: "November 26"
 
 - week-title: "Selected Topics, Wrap Up"
