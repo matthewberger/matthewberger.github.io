@@ -124,14 +124,15 @@ And specific to the project types:
 
 ### Technique
 
-* **Visualization Technique:** Provide a link to the paper you are going to implement, and a detailed description of how you plan on implementing it. What data analysis is necessary? How are you going to visually encode the data? If you are only going to consider parts of the paper, please specify which parts. If you plan on extending certain aspects of the paper, using other techniques, please include these details.
-* **Evaluation:** What did you learn about the technique by applying it to the different datasets? How can you characterize the technique's strengths and weaknesses in terms of the data?
+* **Visualization Technique:** What were the difficulties in implementing the paper? What did you have to learn, above and beyond the paper, in order to implement it? 
+* **Evaluation:** What did you choose to evaluate the technique? Did you follow the experimental setup as described by the paper, or did you pursue a different form of evaluation?
+* **Analysis:** What did you learn about the technique by applying it to the different datasets? How can you characterize the technique's strengths and weaknesses in terms of the data?
 
 ### Design Study
 
 * **Exploratory Data Analysis:** What visualizations did you use to initially look at your data? What insights did you gain? How did these insights inform your design?
-* **Design Evolution:** What are the different visualizations you considered? Justify the design decisions you made using the perceptual and design principles you learned in the course. Did you deviate from your proposal?
-* **Evaluation:** What did you learn about the data by using your visualizations? How did you answer your questions? How well does your visualization work, and how could you further improve it?
+* **Design Evolution:** What were the different visualizations you considered? Justify the design decisions you made using the perceptual and design principles you learned in the course. Did you deviate from your proposal?
+* **Analysis:** What did you learn about the data by using your visualizations? How did you answer your questions? How well does your visualization work, and how could you further improve it?
 
 ## Presentation
 
@@ -156,18 +157,28 @@ It is important to provide positive feedback to people who truly worked hard for
 
 * **Preparation:** Were they prepared during team meetings?
 * **Contribution:** Did they contribute productively to the team discussion and work?
-* **Respect:** Did your team papers encourage others to contribute their ideas?
+* **Respect:** Did your team members encourage others to contribute their ideas?
 * **Flexibility:** Were they flexible when disagreements occurred?
 
 Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score.
 
 ## Project Assessment
 
-TBD
+* Team formation and project description: 5%
+* Proposal: 10%
+* Updates: 5% (total, between the 2 updates)
+* Prototype: 20%
+* Presentation: 10%
+* Final Project Submission: 50%
 
 ## Schedule
 
-TBD
+* **Team formation and project description:** October 29
+* **Proposal:** November 7
+* **Update 1:** November 14
+* **Prototype Submission:** November 21
+* **Update 2:** November 28
+* **Presentation, Final Project Submission:** December 7
 
 ## Acknowledgements
 
