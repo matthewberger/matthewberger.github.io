@@ -77,10 +77,20 @@ title: Resources
 * [Semantic Zooming](https://bl.ocks.org/mbostock/3680957)
 * [Lab and HCL Color Spaces](https://bl.ocks.org/mbostock/3014589)
 
+## Visualizing Visualization Techniques
+
+* [Tree Vis](http://treevis.net/)
+* [Text Vis](http://textvis.lnu.se/)
+* [Set Vis](http://www.cvast.tuwien.ac.at/~alsallakh/SetViz/literature/www/index.html)
+* [Dynamic Graph Vis](http://dynamicgraphs.fbeck.com/)
+* [High-Dimensional Data Vis](http://www.sci.utah.edu/~shusenl/highDimSurvey/website/)
+
 ## Data Sources
 
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch) - This is brand new, and looks to be a great resource for datasets!
 * [Nashville Open Data](https://data.nashville.gov/)
 * [US Government Open Data](https://www.data.gov/)
 * [Kaggle](https://www.kaggle.com/)
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 * [SNAP: Network Data](https://snap.stanford.edu/data/)
+* [Humanities Data](https://humanitiesdata.com/)
