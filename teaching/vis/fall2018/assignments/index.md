@@ -45,3 +45,19 @@ title: Assignments
 <br>
 
 # Assignments
+
+* [Assignment 0](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment0)
+	* **Posted:** August 22
+	* **Due:** August 29
+* [Assignment 1](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment1)
+	* **Posted:** August 29
+	* **Due:** September 7
+* [Assignment 2](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment2)
+	* **Posted:** September 7
+	* **Due:** September 21
+* [Assignment 3](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment3)
+	* **Posted:** September 24
+	* **Due:** October 3
+* [Assignment 4](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment4)
+	* **Posted:** October 3
+	* **Due:** October 15
