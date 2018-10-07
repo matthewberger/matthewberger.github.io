@@ -67,7 +67,7 @@ Equipped with an understanding of visualization basics, we will then delve into 
 * Spatial arrangements: spatial layouts, small multiples
 * Interaction: camera manipulation, transitions, linked views, brushing
 * Time-series data: horizon maps, streamgraphs, sankey diagrams
-* Hierarchical data: tree maps, arcburst
+* Hierarchical data: tree maps, sunburst
 * Graph data: node-link diagrams, adjacency matrices, graph layout techniques
 * High-dimensional data: parallel coordinates, scatterplot matrices, dimensionality reduction
 * Text data: topic models, word embeddings
