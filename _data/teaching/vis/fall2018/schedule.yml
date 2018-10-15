@@ -93,7 +93,7 @@
 
 - week-title: "Graph Data"
   week-date: "October 15"
-  monday-title: "Graph Layouts"
+  monday-title: "Graph Layouts ([slides](https://vanderbilt.box.com/s/3xi9livf28r93iyjjib1nbwc1zgueor3), [pdf](https://vanderbilt.box.com/s/6lelusic332azq79krpwkohz97o1u6ou))"
   monday-required-reading: "[Force-directed Graph Layout](https://vanderbilt.box.com/s/c1x7fr08a3d3hwkamf2b1t5ihnj3kt3j)"
   monday-recommended-reading: "[Multi-level Graph Layout](https://vanderbilt.box.com/s/aomirhpco0273dsiiov2aleylb5yd9g9)"
   monday-assignment: "[Assignment 4](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment4) **Due**, [Assignment 5](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment5) **Posted**"
