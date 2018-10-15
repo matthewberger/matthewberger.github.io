@@ -96,7 +96,7 @@
   monday-title: "Graph Layouts"
   monday-required-reading: "[Force-directed Graph Layout](https://vanderbilt.box.com/s/c1x7fr08a3d3hwkamf2b1t5ihnj3kt3j)"
   monday-recommended-reading: "[Multi-level Graph Layout](https://vanderbilt.box.com/s/aomirhpco0273dsiiov2aleylb5yd9g9)"
-  monday-assignment: "[Assignment 4](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment4) **Due**"
+  monday-assignment: "[Assignment 4](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment4) **Due**, [Assignment 5](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment5) **Posted**"
   wednesday-title: "Matrix Views, Compound Views"
   wednesday-required-reading: "**Munzner** Ch. 9.2-9.4"
   wednesday-recommended-reading: "[NodeTrix](https://vanderbilt.box.com/s/p374oskyknoszradyiwywdgfcr6qbt1c), [Comparison of Node-link and Matrix](https://vanderbilt.box.com/s/ce2s5kxppzoklrvyy3r5p97z2rdqmqrp)"
@@ -104,7 +104,10 @@
 
 - week-title: "Project, Midterm, Guest Lecture"
   week-date: "October 22"
+  monday-title: "Midterm Review, Project Discussion"
   wednesday-title: "**midterm**"
+  friday-title: "Guest Lecture"
+  friday-assignment: "[Assignment 5](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment5) **Due**"
 
 - week-title: "Guest Lecture, Text Data"
   week-date: "October 29"
