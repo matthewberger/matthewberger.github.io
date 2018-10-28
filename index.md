@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include image.html url="/images/me-2018.png" caption="Matthew Berger" width=1024 align="center" %}
+{% include image.html url="/images/me-2018.jpg" caption="Matthew Berger" width=1024 align="center" %}
 
 # Matthew Berger
 Assistant Professor <br>
