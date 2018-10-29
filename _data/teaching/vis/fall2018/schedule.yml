@@ -109,10 +109,13 @@
   friday-title: "Guest Lecture"
   friday-assignment: "[Assignment 5](https://github.com/matthewberger/vis-fall2018-assignments/tree/master/assignment5) **Due**"
 
-- week-title: "Guest Lecture, Text Data"
+- week-title: "Geospatial Data, Guest Lecture"
   week-date: "October 29"
+  monday-title: "Nuts & Bolts ([slides](https://vanderbilt.box.com/s/8gw5t596bnsqsdk14leosgewsgdih7c7), [pdf](https://vanderbilt.box.com/s/ost23smujla4rpmdmxu0vqjo4mweht0z)), [choropleth examples](https://vanderbilt.box.com/s/6shrhogrxdwoarrd2yersbm7voa4mfxf)"
+  wednesday-title: "Projection, Simplification"
+  friday-title: "Guest Lecture"
 
-- week-title: "Guest Lecture, Geospatial Data"
+- week-title: "Guest Lecture, Text Data"
   week-date: "November 5"
 
 - week-title: "High-dimensional Data"
