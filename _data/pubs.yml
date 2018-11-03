@@ -8,8 +8,9 @@
 - title: "Visual Supervision in Bootstrapped Information Extraction"
   snap: "/papersnaps/visboot.png"
   pdf: "papers/visboot.pdf"
+  poster: "posters/visboot-poster.pdf"
   supplemental: "supplemental/visboot.html"
-  pubinfo: "EMNLP (to appear)"
+  pubinfo: "EMNLP"
   date: "2018"
   authors: ["Matthew Berger", "Ajay Nagesh", "Joshua A. Levine", "Mihai Surdeanu", "Helen Zhang"]
 
