@@ -119,7 +119,7 @@
   monday-title: "Guest Lecture"
   wednesday-title: "Projections, Simplification, Density ([slides](https://vanderbilt.box.com/s/4d1u3s6zmxydjuecct21ik8xg6c4xtu1), [pdf](https://vanderbilt.box.com/s/f8uys3dc671hsixr1u9xuvc9ftxr928g)), [density example](https://vanderbilt.box.com/s/clwp0ic4b7j9xefvrz3a82ie8wm7ttsl)"
   wednesday-assignment: "Project Proposal **Due**"
-  friday-title: "DR: Fundamentals, PCA"
+  friday-title: "DR: Fundamentals, PCA ([slides](https://vanderbilt.box.com/s/48tsvo6milxda7yaot92hjynwso6sygt), [pdf](https://vanderbilt.box.com/s/sb0gdt6yz9xu5u9x6by04zloa2yqryu7))"
   week-date: "November 5"
 
 - week-title: "Dimensionality Reduction, Text Data"
