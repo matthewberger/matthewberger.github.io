@@ -123,7 +123,9 @@
   week-date: "November 5"
 
 - week-title: "Dimensionality Reduction, Text Data"
-  monday-title: "DR: Nonlinear Methods"
+  monday-title: "DR: Nonlinear Methods ([slides](https://vanderbilt.box.com/s/l810qkaxngpwocv7ax03f2izyisp22lx), [pdf](https://vanderbilt.box.com/s/bivn02pcir7p5xqrtlfheq5ev1egw5m7))"
+  monday-required-reading: "**Munzner** Ch. 13.4.3"
+  monday-recommended-reading: "[Isomaps](https://vanderbilt.box.com/s/qvsnppho36v7a3rabqwls4g8yo2k8khg), [Laplacian Eigenmaps](https://vanderbilt.box.com/s/4qac7trrwf3eo7xtsxzwges2tno8mhd6)"
   wednesday-title: "DR: tSNE, Text Data"
   wednesday-assignment: "Project Update 1 **Due**"
   friday-title: "Text Data"
