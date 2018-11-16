@@ -126,10 +126,11 @@
   monday-title: "DR: Nonlinear Methods ([slides](https://vanderbilt.box.com/s/l810qkaxngpwocv7ax03f2izyisp22lx), [pdf](https://vanderbilt.box.com/s/bivn02pcir7p5xqrtlfheq5ev1egw5m7))"
   monday-required-reading: "**Munzner** Ch. 13.4.3"
   monday-recommended-reading: "[Isomaps](https://vanderbilt.box.com/s/qvsnppho36v7a3rabqwls4g8yo2k8khg), [Laplacian Eigenmaps](https://vanderbilt.box.com/s/4qac7trrwf3eo7xtsxzwges2tno8mhd6)"
-  wednesday-title: "DR continued, Text Data ([slides](https://vanderbilt.box.com/s/0f8b3e5c7tcosfp4mbl94q13dhwo4zex), [pdf](https://vanderbilt.box.com/s/x2d5udxrz6txpcn8q4585p8xz9lo9i97))"
+  wednesday-title: "DR continued"
   wednesday-recommended-reading: "[Docuburst](https://vanderbilt.box.com/s/d98idss6bm887i0qhdrnywwtq4upolr6), [Word Tree](https://vanderbilt.box.com/s/5wc4ozm7cudi3fppe00gcbpws75u6u1v)"
   wednesday-assignment: "Project Update 1 **Due**"
-  friday-title: "Text Data"
+  friday-title: "Text Data ([slides](https://vanderbilt.box.com/s/0f8b3e5c7tcosfp4mbl94q13dhwo4zex), [pdf](https://vanderbilt.box.com/s/x2d5udxrz6txpcn8q4585p8xz9lo9i97))"
+  friday-recommended-reading: "[Visualizing Topic Models](https://vanderbilt.box.com/s/8k1bl0ja1v63q4yrfxcr2fkk5h74df8f), [ParallelTopics](https://vanderbilt.box.com/s/mjg8fxpjx4ukmxl24qc67gpfnzsrm19j)"
   week-date: "November 12"
 
 - week-title: "Thanksgiving Break"

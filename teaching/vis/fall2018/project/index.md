@@ -178,7 +178,8 @@ Your teammate's assessment of your contributions and the accuracy of your self-a
 * **Update 1:** November 14
 * **Prototype Submission:** November 21
 * **Update 2:** November 28
-* **Presentation, Final Project Submission:** December 7
+* **Presentation:** December 7
+* **Final Project Submission:** December 14
 
 ## Acknowledgements
 
