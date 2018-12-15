@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matthewberger.github.io" # the base hostname & protocol for your site
 
 permalink: /teaching/vis/fall2018
+permalink: /teaching/vaml/spring2019
 
 # Build settings
 markdown: kramdown
