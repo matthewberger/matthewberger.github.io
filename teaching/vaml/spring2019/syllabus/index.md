@@ -84,7 +84,7 @@ Machine learning can also be used as a means to improve the visualization proces
 
 ## Course Format
 
-The course will primarily be lecture-based. There is no textbook for the course - all lectures will be based on papers I have listed in the [papers section](/teaching/vaml/spring2019/papers) of the website. I will list papers that will be covered in lecture, on a week-to-week basis, in the [schedule section](/teaching/vaml/spring2019/schedule) of the website. It is expected that, prior to the lecture, you have read the corresponding papers.
+The course will primarily be lecture-based. There is no textbook for the course - all lectures will be based on papers I have listed in the [papers section](/teaching/vaml/spring2019/papers) of the website. The [schedule section](/teaching/vaml/spring2019/schedule) lists papers that will be covered during each lecture. It is expected that, prior to the lecture, you have read the corresponding papers.
 
 **Class participation is expected during lectures.** As you will quickly see, designing an effective visual analytics solution often boils down to _making good decisions_. Put simply, there are lots of approaches to visualizing and interacting with data, but most are bad. Discerning good visualization choices from bad ones will be a common theme in the lectures, and should prove invaluable for the visual analytics techniques you develop for the class; thus, I expect everyone to participate in these discussions.
 
