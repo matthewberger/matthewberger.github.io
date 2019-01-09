@@ -70,9 +70,9 @@ Last, you will need to provide a **Schedule** for the project, on a week-to-week
 * **Project Updates**: what do you plan to have done by each of the updates? Be as specific as possible: outline all of the work that you will need to consider for each update.
 * **Project Submission**: post-updates, what do you need to do to wrap up the project? How do you plan to perform evaluation? Compare against your baseline?
 
-**Project Proposals are due on January 21st**. This refers to the document consisting of the above information.
+**Proposal Presentations will be held on January 23rd**. You will be expected to present your proposed work to the class, as a 5-minute presentation.
 
-**Proposal Presentations will be held on January 21st**. You will be expected to present your proposed work to the class, as a 5-minute presentation.
+**Project Proposals are due on January 28th**. This refers to the document consisting of the above information.
 
 ## Baseline (Related Work)
 
