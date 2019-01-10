@@ -73,9 +73,66 @@ The above tools may not be sufficient for creating more complex visualizations t
 * [Paraview](https://www.paraview.org/) Visualization tool for creating 3D visualizations. Large support of filters for data processing and visualization. Has support for scripting, so it is customizable to a certain extent.
 * [OpenGL](https://www.khronos.org/opengl/wiki/Getting_Started) When all else fails ... you can't beat using straight OpenGL for creating data visualizations. Available for most languages: C++/Python/Javascript, etc.. Steep learning curve, however.
 
+## D3 Resources
+
+Should you decide to use D3 as your library for visualization, please see the additional resources below for further reference:
+
+### SVG Reference
+
+* [Basic Shapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
+* [Attributes](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute)
+* [Group](https://developer.mozilla.org/en/docs/Web/SVG/Element/g)
+* [Transform](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/transform)
+
+### Javascript Basics
+
+* [Javascript Guide](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
+* [Anonymous Functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
+* [Closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+
+### D3 Basics
+
+* [API Reference](https://github.com/d3/d3/blob/master/API.md)
+* [How Selections Work](https://bost.ocks.org/mike/selection/)
+* General Update Pattern [I](https://bl.ocks.org/mbostock/3808218), [II](https://bl.ocks.org/mbostock/3808221), and [III](https://bl.ocks.org/mbostock/3808234)
+* [Nested Selections](https://bost.ocks.org/mike/nest/)
+* [Thinking with Joins](https://bost.ocks.org/mike/join/)
+* [Mister Nester](http://bl.ocks.org/shancarter/raw/4748131/)
+
+### Useful Blocks
+
+* [Mouse Enter/Exit](https://bl.ocks.org/mbostock/5247027)
+* [Mouse Move](https://bl.ocks.org/mbostock/4198499)
+* [Circle-Polygon Intersection](https://bl.ocks.org/mbostock/4218871)
+* [Geometric Zooming](https://bl.ocks.org/mbostock/3680999)
+* [Semantic Zooming](https://bl.ocks.org/mbostock/3680957)
+* [Lab and HCL Color Spaces](https://bl.ocks.org/mbostock/3014589)
+
+In addition, I have a series of lectures on D3 that you might find useful. These are intended for you to download and experiment with on your computer.
+
+* [Web Programming, Javascript, SVG](https://vanderbilt.box.com/s/ffrsa8wy7kx3btf000oxkfjee5cxpav5)
+* [D3: selection and transformation](https://vanderbilt.box.com/s/gvngrzplw9m7g2h51i9ocbqpo98f9ph0)
+* [D3: the data join](https://vanderbilt.box.com/s/da6rxhggulrxue1vfj9g8kdvzjg742o9)
+* [D3: scales](https://vanderbilt.box.com/s/yhvue3rujq6onehw1nwa9khct1uhteao)
+* [D3: events and transitions](https://vanderbilt.box.com/s/dsuwqwg3lgjkk47cb6j3auj4sch0cwfm)
+* [D3: odds and ends](https://vanderbilt.box.com/s/9frorw67d77gfegbmrkbkc023j6i9fqq)
+
 ## Machine Learning Libraries
 
 * [TensorFlow](https://www.tensorflow.org/)
 * [PyTorch](https://pytorch.org/) TensorFlow and PyTorch are the predominant deep learning libraries for Python. They allow one to build computation graphs (e.g. your network), loss functions, optimization methods, and some support for data management in training the model. They have similar learning curves.
 * [Keras](https://github.com/keras-team/keras) Keras wraps a lot of the functionality in existing ML libraries, including TensorFlow, to make it easier for experimentation.
 * [scikit-learn](https://scikit-learn.org/stable/) scikit-learn offers a whole host of ML techniques (classification, clustering, dimensionality reduction, etc..), but does not have support for training deep neural networks.
+
+## Demos
+
+Here are a set of web-enabled demos for some of the papers we will cover throughout the semester: 
+
+* [InterAxis](http://va.gatech.edu/live-projects/interaxis/)
+* [ConceptVector](http://conceptvector.org/#/concepts/7)
+* [GAN Lab](https://poloclub.github.io/ganlab/)
+* [Seq2SeqVis](http://seq2seq-vis.res.ibm.com/client/index.html?in=die%20l%C3%A4ngsten%20reisen%20fangen%20an%20,%20wenn%20es%20auf%20den%20stra%C3%9Fen%20dunkel%20wird%20.)
+* [RNNBow](https://www.eecs.tufts.edu/~dcashm01/rnn_vis/d3_code/)
+* [SeekAView](http://nyuvis.github.io/SeekAView/)
+* [Word Embedding Vis](http://embvis.flovis.net/)
+
