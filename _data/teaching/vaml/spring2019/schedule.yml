@@ -44,7 +44,7 @@
   week-date: "February 18"
   monday-title: "Deep Learning: Dataflows, Training  ([slides](https://vanderbilt.box.com/s/vxw7nk3zs1gtv7ow87h9penqsrnvghu1), [pdf](https://vanderbilt.box.com/s/gzcecfopckk9zvpvqkrr6u5jjxly5cts), [d3-squares](https://vanderbilt.box.com/s/5qxw6mi9bnjxkj2usgjzrrjghktw5mtz))"
   monday-required-reading: "[Visualizing Deep Network Graphs](https://vanderbilt.box.com/s/4o4ma3g3bnygbxyspyns1a931p9lkzax), [DeepTracker](https://vanderbilt.box.com/s/al20ax1ei2kg83c23pk7iutbmutvqd7n), [Generative Model Training](https://vanderbilt.box.com/s/97bifntcv1iq3hrsjbx10zaqd9abbirs)"
-  wednesday-title: "Understanding Convolutional Networks"
+  wednesday-title: "Understanding Convolutional Networks ([slides](https://vanderbilt.box.com/s/bn30e50os0spup9qu1vv9j8z62vo94fx), [pdf](https://vanderbilt.box.com/s/cz63duub06zmruyv7r5vj2un41jgqsqw))"
   wednesday-required-reading: "[Analyzing CNNs](https://vanderbilt.box.com/s/sczjay4neczs97cytdkceib3ipjox5vw), [DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a), [CNN Class Hierarchies](https://vanderbilt.box.com/s/lx7bvfs8v6isgw4cmas0gur8gqv1kr6g)"
 
 - week-title: "Project Baseline Presentations"
