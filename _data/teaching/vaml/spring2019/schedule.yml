@@ -60,7 +60,7 @@
   week-date: "March 11"
   monday-title: "Understanding Generative Models ([slides](https://vanderbilt.box.com/s/zwhnw4rd3xtyb905oi0rusczt2tewhai), [pdf](https://vanderbilt.box.com/s/obhqobtjd78q74j0qwov7d6meb92azhr))"
   monday-required-reading: "[GANViz](https://vanderbilt.box.com/s/fyicadaojeefmk4i0eo2kts3t2lotpsm), [GAN Lab](https://vanderbilt.box.com/s/llh2hbuwsklksk25wu6fgljg0o4dg9nv)"
-  wednesday-title: "Understanding Recurrent Models"
+  wednesday-title: "Understanding Recurrent Models ([slides](https://vanderbilt.box.com/s/m0gb0op0pzhcjzzqbsz75ukci707re1s), [pdf](https://vanderbilt.box.com/s/toibtyduujba926bgjmytxntkttqffvr))"
   wednesday-required-reading: "[LSTMVis](https://vanderbilt.box.com/s/911upb6y5tkliqbtunviar3oti0qx79q), [Hidden Memories](https://vanderbilt.box.com/s/valjs0gm66754k89cavw45bg01vtmrrd), [RNNbow](https://vanderbilt.box.com/s/h0b38dpxu60dt4xyndo3u8ioh5c977lo), [Seq2Seq-Vis](https://vanderbilt.box.com/s/zrvj3ldvkjrmqbj7os6eo0kukwpbcmdc)"
 
 - week-title: "Model Understanding Wrapup, Visual Analytics for Model Training, Pt. 1"
