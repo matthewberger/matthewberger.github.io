@@ -65,7 +65,7 @@
 
 - week-title: "Model Understanding Wrapup, Visual Analytics for Model Training, Pt. 1"
   week-date: "March 18"
-  monday-title: "Understanding Neural Language Models"
+  monday-title: "Understanding Neural Language Models ([slides](https://vanderbilt.box.com/s/ufr2dyh4s04g7yo31f89909nmiahuenx), [pdf](https://vanderbilt.box.com/s/lvdgdz74cexgvfwqtgfpperjufe6tak8))"
   monday-required-reading: "[Semantics in Word Embeddings](https://vanderbilt.box.com/s/tlf8wzju40rv933a29vft49dz8zblpwy), [Interactions with Word Embeddings](https://vanderbilt.box.com/s/dy95g2c2y3b3to4p8buk7hs453no4z9l), [NLIZE](https://vanderbilt.box.com/s/puvvwqlt6u9m0rp02t3px6kwpqwrqujp)"
   wednesday-title: "Visually Constructing Classifiers"
   wednesday-required-reading: "[iVisClassifier](https://vanderbilt.box.com/s/fd7fj0mmnhnz5rrg61qryx0lf6w70djy), [Visual Document Classifier](https://vanderbilt.box.com/s/53nepj1ho250hi2dpekvz2ffi0fvhg9t), [Video Classifiers](https://vanderbilt.box.com/s/i1gu8getjai670wmnuyqlc466mdcx1a7), [Incremental Visual Data Classification](https://vanderbilt.box.com/s/c09fc9wdnx6gjbao82i9usgutky86ql6)"
