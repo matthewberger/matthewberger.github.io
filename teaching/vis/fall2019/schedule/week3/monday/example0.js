@@ -9,5 +9,3 @@ for(var i = 0; i < data.length; i++)  {
 	circle_elem.setAttribute('r',10);
 	svg_elem.appendChild(circle_elem);
 }
-
-d3.select('#svg0').selectAll('circle').attr('r', (d,i) => i+1)

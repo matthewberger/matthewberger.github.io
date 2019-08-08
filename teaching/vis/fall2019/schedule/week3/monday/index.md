@@ -227,32 +227,6 @@ How do we actually create new DOM elements? We use `append`! For a given selecti
 
 And how do we remove DOM elements? We use `remove`! For a given selection, this will remove each element in the selection from the DOM.
 
-### call()
-
-So we can start to see the different ways in which we transform elements, but let's now suppose we would like to perform multiple transformations to different elements. This would normally require performing the same sequence of method chaining for each selection, which is redundant. A useful function to achieve this is `call`, which operates on a single selection and allows you to pass in an arbitrary function, as well as arguments to your liking.
-
-For instance, let's suppose we wanted a way to modify a circle's visual channels in terms of radius, fill color, stroke color, and stroke width. First let's create the function that will achieve this, given the selection of circles, and the above arguments:
-
-```javascript
-function circle_styler(selection, radius, fill_color, stroke_color, stroke_width)  {
-	selection.attr('r', radius)
-		.attr('fill', fill_color).attr('stroke', stroke_color)
-		.attr('stroke-width', stroke_width);
-}
-```
-
-Then, for any arbitrary selection of circles `sel`, and our prescribed arguments, we can invoke call:
-
-```javascript
-sel.call(circle_styler, r, fill, stroke, width);
-```
-
-Call also returns the selection itself, thus permitting chaining as well.
-
-### each()
-
-Call operates on a single selection. To specify an arbitrary function for _each_ element of a selection, use ... `each`. The `each` function takes in a function, for which its arguments will be populated by the element's datum and index (within the selection). Within the function, you may access the node itself, specifically the DOM element, with `this`.
-
 # D3: The Data Join
 
 Now let's move on to what makes D3 so powereful: data joins. The general pattern of using a data join consists of: specifying data for a given selection, updating the data of existing elements, handling the creation of new elements from new data items, and removing elements corresponding to data that no longer exists.

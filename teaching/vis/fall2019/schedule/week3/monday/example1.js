@@ -21,5 +21,3 @@ for(var g = 0; g < num_groups; g++)  {
 	}
 	svg_elem.appendChild(group_elem);
 }
-
-d3.select('#svg1').selectAll('circle').attr('r', (d,i) => i+1)
