@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matthewberger.github.io" # the base hostname & protocol for your site
 
 permalink: /teaching/vis/fall2018
+permalink: /teaching/vis/fall2019
 permalink: /teaching/vaml/spring2019
 
 # Build settings
@@ -29,3 +30,7 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+  - teaching/vis/fall2019/schedule/week1/wednesday.key
+  - teaching/vis/fall2019/schedule/week1/wednesday.pdf
+  - teaching/vis/fall2019/schedule/week2/*.pdf
+  - teaching/vis/fall2019/schedule/week4/*.pdf

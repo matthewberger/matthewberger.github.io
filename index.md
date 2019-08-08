@@ -21,8 +21,6 @@ I am an assistant professor in the Department of Electrical Engineering and Comp
 
 My research is in the area of data visualization. I develop techniques that help people visually explore and make sense of large and complex data. I am particuarly interested in leveraging and developing machine learning techniques for this purpose. My research considers what can be learned from all aspects of visualization, such as data, visual encodings, and user interactions, in order to improve the process of visual exploration.
 
-**Update.** I am actively looking for PhD students and postdocs. If you are interested in visualization or machine learning please feel free to contact me.
-
 ---
 
 {% include pubs.html %}
