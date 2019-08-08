@@ -30,7 +30,26 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+  - teaching/vis/fall2019/schedule/week1/*.pdf
   - teaching/vis/fall2019/schedule/week1/wednesday.key
   - teaching/vis/fall2019/schedule/week1/wednesday.pdf
   - teaching/vis/fall2019/schedule/week2/*.pdf
+  - teaching/vis/fall2019/schedule/week2/monday/monday.key
+  - teaching/vis/fall2019/schedule/week2/monday/monday.pdf
+  - teaching/vis/fall2019/schedule/week2/wednesday/wednesday.key
+  - teaching/vis/fall2019/schedule/week2/wednesday/wednesday.pdf
   - teaching/vis/fall2019/schedule/week4/*.pdf
+  - teaching/vis/fall2019/schedule/week4/monday/monday.key
+  - teaching/vis/fall2019/schedule/week4/monday/monday.pdf
+  - teaching/vis/fall2019/schedule/week4/wednesday/wednesday.key
+  - teaching/vis/fall2019/schedule/week4/wednesday/wednesday.pdf
+  - teaching/vis/fall2019/schedule/week5/*.pdf
+  - teaching/vis/fall2019/schedule/week5/monday/monday.key
+  - teaching/vis/fall2019/schedule/week5/monday/monday.pdf
+  - teaching/vis/fall2019/schedule/week5/wednesday/wednesday.key
+  - teaching/vis/fall2019/schedule/week5/wednesday/wednesday.pdf
+  - teaching/vis/fall2019/schedule/week6/*.pdf
+  - teaching/vis/fall2019/schedule/week6/monday/monday.key
+  - teaching/vis/fall2019/schedule/week6/monday/monday.pdf
+  - teaching/vis/fall2019/schedule/week6/wednesday/wednesday.key
+  - teaching/vis/fall2019/schedule/week6/wednesday/wednesday.pdf

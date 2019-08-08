@@ -64,12 +64,12 @@
 - week-title: "Hierarchies and Graphs"
   week-date: "October 14"
   monday-title: "Treemaps, Node-Link Diagrams"
-  wednesday-title: "Graph Layouts, Matrix Views"
+  wednesday-title: "Graph Layouts, Arc Diagrams, Matrix Views"
 
 - week-title: "Uncertainty Visualization"
   week-date: "October 21"
-  monday-title: "TBD"
-  wednesday-title: "TBD"
+  monday-title: "Probability Review, Box Plots, Violin Plots"
+  wednesday-title: "Hypothetical Outcome Plots, Quantile Dot Plots"
 
 - week-title: "Geographic Visualization"
   week-date: "November 4"
@@ -78,7 +78,7 @@
 
 - week-title: "High-Dimensional Data, Project Prototypes"
   week-date: "November 11"
-  monday-title: "Dimensionality Reduction: PCA, Manifold Learning"
+  monday-title: "Dimensionality Reduction, PCA, Manifold Learning"
   wednesday-title: "Project Prototypes"
 
 - week-title: "Spatial Data"
