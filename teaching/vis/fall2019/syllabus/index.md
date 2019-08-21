@@ -159,6 +159,24 @@ See [resources](/teaching/vis/fall2019/resources).
 * Exams (mid-term and final combined): 20%
 * Class Participation: 5%
 
+## Grades
+
+Your final grade will be numeric, and will be converted into a letter grade via the following:
+
+* 97-100 : A+
+* 94-96 : A
+* 90-93 : A-
+* 87-89 : B+
+* 84-86 : B
+* 80-83 : B-
+* 77-79 : C+
+* 74-76 : C
+* 70-73 : C-
+* 67-69 : D+
+* 64-66 : D
+* 60-63 : D-
+* < 60 : F
+
 ### Late Submission Policy
 
 If an assignment is not submitted on its due date, it may still be submitted within the proceeding 24 hours, but the submission will receive a 15% penality. Beyond 24 hours, no credit for assignments will be given. No exceptions.
