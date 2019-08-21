@@ -45,3 +45,7 @@ title: Assignments
 <br>
 
 # Assignments
+
+## Assignment 0
+
+Introduction to HTML and survey ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment0))
