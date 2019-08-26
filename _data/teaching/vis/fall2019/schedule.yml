@@ -7,10 +7,10 @@
 
 - week-title: "Graphical Marks and Visual Channels"
   week-date: "August 26"
-  monday-title: "Graphical Marks, Web-based Programming"
+  monday-title: "Graphical Marks, Web-based Programming ([slides](https://vanderbilt.box.com/s/kdt9zusv2lc41am3gdneknv42olfdgyu), [pdf](https://vanderbilt.box.com/s/uc7n1as3z5xdm2nzj6mz3zutsvidvqt8), [web-based visualization](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week2/monday/))"
   monday-required-reading: "**Munzner** Ch. 2.1-2.5, **Murray** Ch. 3"
   monday-recommended-reading: "[Protovis](https://vanderbilt.box.com/s/ppy1ti0ez7ux6cxmfhbk1r720dqgytu4), [Vega Marks](https://vega.github.io/vega/docs/marks/)"
-  monday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment0) **Due**"
+  monday-assignment: "[Assignment 0](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment0) **Due** [Assignment 1](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1) **Posted**"
   wednesday-title: "Scales, Visual Channels, Javascript"
   wednesday-required-reading: "**Munzner** Ch. 5.1-5.3, **Murray** Ch. 3, [closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)"
   wednesday-recommended-reading: "[Polaris](https://vanderbilt.box.com/s/i9iitqmbo1c5t6uokbmwkvrbrdylocvb), [Layered Grammar of Graphics](https://vanderbilt.box.com/s/rzy72vm02zp5rue5ske1bqj94jdr5idc)"
@@ -19,6 +19,7 @@
   week-date: "September 2"
   monday-title: "Selections and Data Joins"
   monday-required-reading: "**Murray** Ch. 6,12, [selections](https://bost.ocks.org/mike/selection/), [nested selections](https://bost.ocks.org/mike/nest/), [joins](https://bost.ocks.org/mike/join/)"
+  monday-assignment: "[Assignment 1](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1) **Due**"
   wednesday-title: "Scales, Axes, Shapes, Tips & Tricks"
   wednesday-required-reading: "**Murray** Ch. 7,8, [scales](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)"
 
