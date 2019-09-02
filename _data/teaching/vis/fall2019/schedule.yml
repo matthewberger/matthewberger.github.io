@@ -17,9 +17,9 @@
 
 - week-title: "D3"
   week-date: "September 2"
-  monday-title: "Selections and Data Joins"
+  monday-title: "Selections and Data Joins ([Javascript functions](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week2/wednesday/), [D3: Selections and Data Joins](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week3/monday/))"
   monday-required-reading: "**Murray** Ch. 6,12, [selections](https://bost.ocks.org/mike/selection/), [nested selections](https://bost.ocks.org/mike/nest/), [joins](https://bost.ocks.org/mike/join/)"
-  monday-assignment: "[Assignment 1](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1) **Due**"
+  monday-assignment: "[Assignment 1](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1) **Due** [Assignment 2](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment2) **Posted**"
   wednesday-title: "Scales, Axes, Shapes, Tips & Tricks"
   wednesday-required-reading: "**Murray** Ch. 7,8, [scales](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)"
 
@@ -28,6 +28,7 @@
   monday-title: "Gestalt Laws, Preattentive Processing, Graphical Perception"
   monday-required-reading: "**Munzner** Ch. 5.4-5.6, Gestalt Laws [Pt. 1](https://vanderbilt.box.com/s/23b62jb37lk3yuq6kkde2tm98pch3a0k) [Pt. 2](https://vanderbilt.box.com/s/2ec7bbrlp11b3jlckw6vz7zyzk8ita02), [Graphical Perception](https://vanderbilt.box.com/s/7d080d37179n0dk68ajdls0p4dvk3jiz)"
   monday-recommended-reading: "[Attention and Memory in Visualization](https://vanderbilt.box.com/s/c9mh2j1xuh2xik5zkgjsdjbb6q2obomd)"
+  monday-assignment: "[Assignment 2](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment2) **Due**"
   wednesday-title: "Ensemble Coding"
   wednesday-required-reading: "[Ensemble Coding Overview](https://vanderbilt.box.com/s/oh0q58lr8b4hxdn1nspj0exhg67akbl8)"
   wednesday-recommended-reading: "[Visually Extracting Averages](https://vanderbilt.box.com/s/qf7wfll6depcy3vu04ruv76qpqre493w), [Visually Estimating Correlation](https://vanderbilt.box.com/s/6b341og4ifvv4h1e0w9y4utne2aw7krm)"

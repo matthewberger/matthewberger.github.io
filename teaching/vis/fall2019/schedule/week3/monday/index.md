@@ -332,6 +332,10 @@ d3.select('#svg5').selectAll('circle')
 	.attr('r', 4);
 ```
 
+A couple of notes:
+* In contrast to the above, here we are using an anonymous function to access data, and then assigning an attribute to the element based on the data. This is, primarily, why D3 stands for Data-Driven Documents.
+* The `d` argument in the anonymous function will be filled in with the appropriate datum, namely each item in the array used to perform the data join. We just need to specify how we are going to customize the visual appearance of an element, given the datum.
+
 So this is ok, but there is one problem here...
 
 ... what if we only want to update those elements corresponding to new data? The downside is that `selectAll`, well, selects **ALL**.
