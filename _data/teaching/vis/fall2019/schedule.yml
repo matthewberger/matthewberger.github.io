@@ -17,11 +17,13 @@
 
 - week-title: "D3"
   week-date: "September 2"
-  monday-title: "Selections and Data Joins ([Javascript functions](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week2/wednesday/), [D3: Selections and Data Joins](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week3/monday/))"
+  monday-title: "Selections ([Javascript functions](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week2/wednesday/), [D3: Selections and Data Joins](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week3/monday/))"
   monday-required-reading: "**Murray** Ch. 6,12, [selections](https://bost.ocks.org/mike/selection/), [nested selections](https://bost.ocks.org/mike/nest/), [joins](https://bost.ocks.org/mike/join/)"
   monday-assignment: "[Assignment 1](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1) **Due** [Assignment 2](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment2) **Posted**"
-  wednesday-title: "Scales, Axes, Shapes, Tips & Tricks"
-  wednesday-required-reading: "**Murray** Ch. 7,8, [scales](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)"
+  wednesday-title: "Data Joins ([D3: Selections and Data Joins](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week3/monday/))"
+  wednesday-required-reading: "**Murray** Ch. 6,12, [selections](https://bost.ocks.org/mike/selection/), [nested selections](https://bost.ocks.org/mike/nest/), [joins](https://bost.ocks.org/mike/join/)"
+  thursday-title: "Scales, Axes, Shapes, Tips & Tricks ([D3: Selections and Data Joins](https://matthewberger.github.io/teaching/vis/fall2019/schedule/week3/monday/))"
+  thursday-required-reading: "**Murray** Ch. 7,8, [scales](https://medium.com/@mbostock/introducing-d3-scale-61980c51545f)"
 
 - week-title: "Perception"
   week-date: "September 9"
