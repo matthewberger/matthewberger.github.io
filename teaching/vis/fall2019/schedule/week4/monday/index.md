@@ -130,10 +130,6 @@ Takeaways:
 * In the case of a line mark, although our data is an array of (x,y) coordinates, we generate a **single** element, rather than an element per datum.
 * Also, `datum`: assigns _whatever_ is passed in to the selection. Kind of like a trivial data join, but useful in certain circumstances.
 
-Sidebar:
-
-* Under what circumstances should we plot a line mark? What about a scatterplot?
-
 ## d3.area()
 
 We can also generate area marks in a similar manner, using `d3.area`. Here we prescribe the coordinates of the polygon that will bound the area: rather than x and y coordinates, we specify the lower and upper bounds for x and y. Typically x is fixed, and we vary y. Let's see an example:
@@ -168,7 +164,7 @@ D3 supports a wide variety of other shapes that we will not get in to. The inten
 
 ## d3.call()
 
-Suppose we would like to perform multiple transformations to different elements. This would normally require performing the same sequence of method chaining for each selection, which is redundant. A useful function to achieve this is `call`, which operates on a single selection and allows you to pass in an arbitrary function, as well as arguments to your liking.
+Suppose we would like to perform multiple transformations to a selection. This would normally require performing the same sequence of method chaining, which is redundant. A useful function to achieve this is `call`, which operates on a single selection and allows you to pass in an arbitrary function, as well as arguments to your liking.
 
 For instance, let's suppose we wanted a way to modify a circle's visual channels in terms of radius, fill color, stroke color, and stroke width. First let's create the function that will achieve this, given the selection of circles, and the above arguments:
 
@@ -200,15 +196,37 @@ D3 has a lot of useful data structures. We will discuss some in more detail late
 
 D3 provides a number of useful functions for processing arrays (or more broadly "iterables", like maps, sets, strings). Please see the [full documentation](https://github.com/d3/d3-array) for more details. Here is a summary:
 
-* **Statistics**: For computing a variety of statistics (min, max, mean, median, sum, etc..), D3 follows a consistent pattern. Consider `mean` for concreteness. If your array `arr` is composed of numbers, then simply call `d3.mean(arr)`. However, if your array is composed of objects, then you can pass in an anonymous function to access a particular property, like so: `d3.mean(arr, d => d.value`.
+* **Statistics**: For computing a variety of statistics (min, max, mean, median, sum, etc..), D3 follows a consistent pattern. Consider `mean` for concreteness. If your array `arr` is composed of numbers, then simply call `d3.mean(arr)`. However, if your array is composed of objects, then you can pass in an anonymous function to access a particular property, like so: `d3.mean(arr, d => d.value)`.
 * `d3.range()`: analogous to Python's built-in `range` function, you can pass in an optional start, required end, optional spacing, to produce an array of sequential numbers.
 
 ### d3.collection()
 
 D3 allows for different ways of organizing and deriving data that is super useful. Please see the [full documentation](https://github.com/d3/d3-collection) for more details. A couple important functions:
 
-* `d3.set()`: produces a JS set object, identifying unique items in a given array. You can also pass in an anonymous function to specify what attribute you want to access (for more general objects).
-* `d3.nest()`: recall the "group-by" operation we went over in class. `d3.nest()` realizes this operation. We will cover examples of this in greater detail next lecture.
+* `d3.set()`: produces a JS set object, returning all unique items in a given array. You can also pass in an anonymous function to specify what attribute you want to access (for more general objects).
+
+### d3.nest()
+
+If you recall the "group-by" operation we went over in class, `d3.nest()` realizes this operation. It allows us to hierarchically group our data based on discrete attributes. There are two functions associated with a nest object that you will need to call:
+* `key`: specify the attribute along which you will group. This can be called multiple times over different attributes to give us a hierarchical structure (the depth being the number of calls `key` is made).
+* `entries`: pass in your data array.
+
+Another useful, but optional, function is `rollup`. You typically call `rollup` after you have set up your key functions (completely specifying the hierarchy). This function accepts an anonymous function for which is passed in a single argument, an array that consists of all items in your data at a leaf in the hierarchy (e.g. all combinations of attributes specified by `key`). You must then return _something_ as a result. You can do whatever you want with this array: summarize the data with a single value, a set of values, or just return the array as-is. It depends on your visualization design.
+
+The data structure returned by `d3.nest` is very handy for working with discrete data. Let's look at one example in detail:
+
+* Assume we are provided an array of car data. Each car has attributes origin (country/continent) and a weight (in lbs).
+* We would like to compare the _average_ weight of each country.
+* But we are not provided the average! We need to _derive_ it.
+* We do so with nest. We first "group-by" Origin, and then for all cars that have the same origin, we compute the mean of their weight.
+
+```javascript
+{% include_relative example10.js %}
+```
+---
+<svg id='svg10' width='700' height='450'></svg>
+<script type='text/javascript' src="example10.js"></script>
+---
 
 ## Advice
 
