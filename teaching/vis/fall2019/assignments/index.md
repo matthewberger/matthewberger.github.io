@@ -49,3 +49,15 @@ title: Assignments
 ## Assignment 0
 
 Introduction to HTML and survey ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment0))
+
+## Assignment 1
+
+Creating graphics with SVG and Javascript ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment1))
+
+## Assignment 2
+
+Scales ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment2))
+
+## Assignment 3
+
+D3: data joins, scales, axes ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment3))
