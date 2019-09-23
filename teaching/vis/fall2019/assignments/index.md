@@ -61,3 +61,7 @@ Scales ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/ma
 ## Assignment 3
 
 D3: data joins, scales, axes ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment3))
+
+## Assignment 4
+
+Diverging and stacked bars ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment4))

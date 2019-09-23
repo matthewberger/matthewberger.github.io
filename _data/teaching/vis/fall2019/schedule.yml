@@ -34,7 +34,7 @@
 
 - week-title: "Perception, Color"
   week-date: "September 16"
-  monday-title: "Ensemble Coding ([slides](https://vanderbilt.box.com/s/noi5ror9zep7kf5mlgakhk8bblyf3wfq), [pdf](https://vanderbilt.box.com/s/uosuv4zn5y1vhrju0h1gou9u1k8zm5jz) [Area JND Staircasing](/teaching/vis/fall2019/schedule/week5/monday/))"
+  monday-title: "Ensemble Coding ([slides](https://vanderbilt.box.com/s/noi5ror9zep7kf5mlgakhk8bblyf3wfq), [pdf](https://vanderbilt.box.com/s/uosuv4zn5y1vhrju0h1gou9u1k8zm5jz), [Area JND Staircasing](/teaching/vis/fall2019/schedule/week5/monday/))"
   monday-required-reading: "[Ensemble Coding Overview](https://vanderbilt.box.com/s/oh0q58lr8b4hxdn1nspj0exhg67akbl8)"
   monday-recommended-reading: "[Visually Extracting Averages](https://vanderbilt.box.com/s/qf7wfll6depcy3vu04ruv76qpqre493w), [Visually Estimating Correlation](https://vanderbilt.box.com/s/6b341og4ifvv4h1e0w9y4utne2aw7krm)"
   wednesday-title: "Color Spaces, Designing with Color ([slides](https://vanderbilt.box.com/s/pyaa6szvggbmv2kf01sfpzs8584tr9mp), [pdf](https://vanderbilt.box.com/s/b4g62j87kd3ka89jn6fd3cgrjn4rtbym), [D3: Color](/teaching/vis/fall2019/schedule/week5/wednesday/))"
@@ -44,9 +44,10 @@
 
 - week-title: "Spatial Arrangements"
   week-date: "September 23"
-  monday-title: "Single-View Arrangements"
+  monday-title: "Single-View Arrangements ([slides](https://vanderbilt.box.com/s/o343z22pv2vqlnr5vn0svzt6k9rmtdwf), [pdf](https://vanderbilt.box.com/s/jvn989e0la45dl34zbgkhi3urdvd80ab), [D3 Examples](/teaching/vis/fall2019/schedule/week6/monday/))"
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Horizon Plots](https://vanderbilt.box.com/s/xz5yl6jwswlvonamqlpnfhim91wzbzuj), [Unit Visualizations](https://vanderbilt.box.com/s/1mx3mcsqog2p3fofgd93sm4u6rj5a8jj), [Cartesian v. Radial](https://vanderbilt.box.com/s/gao0k8c71rau4zh1icmtkbo5ke0vovv8)"
+  monday-assignment: "[Assignment 4](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment4) **Posted**"
   wednesday-title: "Multiple-View Arrangements"
   wednesday-required-reading: "**Munzner** Ch. 12.1-12.2, 12.4"
   wednesday-recommended-reading: "[Composite View Design Space](https://vanderbilt.box.com/s/f1s8821pk6dqicu18ljcnu8s001vkv5n), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/sehlbx9l7cxu52bo5fzqkbokhrkepqcs)"
@@ -59,6 +60,8 @@
   wednesday-title: "Overview+Detail, Multiple Coordinated Views"
   wednesday-required-reading: "**Munzner** Ch. 12.3"
   wednesday-recommended-reading: "[Eyes Have It](https://vanderbilt.box.com/s/14lbf3jrg1d5vwxh0drzwsnkbbi4c8h9), [Crossfilter](http://crossfilter.github.io/crossfilter/), [Configurable Linked Brushing](https://vanderbilt.box.com/s/vkmfvqz2xa6ctj4v3cf4amgy6pj62ebo)"
+  friday-title: ""
+  friday-assignment: "[Assignment 4](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment4) **Due**"
 
 - week-title: "Tasks, Design, Midterm"
   week-date: "October 7"
