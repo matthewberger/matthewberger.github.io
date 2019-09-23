@@ -1,10 +1,10 @@
 d3.json('barley.json')
 	.then(function(data)  {
 		barley_data = data;
-		plot_it();
+		plot_it_0();
 	})
 
-function plot_it()  {
+function plot_it_0()  {
 	var svg0 = d3.select('#svg0-0');
 	var x_range_pad = 100, y_range_pad = 100;
 	var height = svg0.attr('height');
