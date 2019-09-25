@@ -14,12 +14,12 @@ function plot_sm()  {
 
 	var countries = Array.from(new Set(wdi_data.map(d => d.country))), indicators = Array.from(new Set(wdi_data.map(d => d.indicator)));
 	var gdp_extent = d3.extent(wdi_data, d => d.gdp), year_extent = d3.extent(wdi_data, d => d.year)
-	var band_amount = (gdp_extent[1]-gdp_extent[0])/n_levels;
+	var band_partitioner = d3.scaleBand().domain(d3.range(n_levels)).range(gdp_extent)
 
 	var nested_time_series = d3.nest()
 		.key(d => d.country)
 		.key(d => d.indicator)
-		.rollup(d => horizon_graph_process(d,n_levels,gdp_extent[0],band_amount))
+		.rollup(d => horizon_graph_process(d,n_levels,band_partitioner))
 		.entries(wdi_data);
 
 	var country_scale = d3.scaleBand().domain(countries).range([range_pad,height-range_pad]).paddingInner(0.25)
@@ -29,12 +29,15 @@ function plot_sm()  {
 	var ordinal_lum = d3.scalePoint().domain(d3.range(n_levels)).range([80,15]);
 	var ordinal_chroma = d3.scalePoint().domain(d3.range(n_levels)).range([30,80]);
 
+	var band_area = d3.area().x(d => area_scale_x(d.year))
+	var area_scale_y = d3.scaleLinear().range([country_scale.bandwidth(),0])
+
 	svg0.selectAll('countries').data(nested_time_series).enter().append('g')
 		.attr('transform', d => 'translate(0,'+country_scale(d.key)+')')
 		.selectAll('indicators').data(d => d.values).enter().append('g').attr('class', 'plot')
 		.attr('transform', d => 'translate('+indicator_scale(d.key)+',0)')
 		.each(function(d_arr,i)  {
-			horizon_graph_plot(d3.select(this),d_arr, gdp_extent[0],band_amount, country_scale.bandwidth(), area_scale_x,ordinal_lum,ordinal_chroma);
+			horizon_graph_plot(d3.select(this),d_arr, band_partitioner,area_scale_y,band_area ,ordinal_lum,ordinal_chroma);
 		})
 	plot_axes(svg0, area_scale_x,country_scale,indicator_scale, range_pad, range_pad_left);
 }

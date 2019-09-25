@@ -1,4 +1,4 @@
-function horizon_graph_plot(selection, d_arr, min_gdp,band_amount, plot_height, scale_x,ordinal_lum,ordinal_chroma)  {
+function horizon_graph_plot(selection,d_arr, band_partitioner,area_scale_y,band_area, ordinal_lum,ordinal_chroma)  {
 	var nested_band_data = d3.nest()
 		.key(d => d.band_level)
 		.key(d => d.band_group)
@@ -7,13 +7,13 @@ function horizon_graph_plot(selection, d_arr, min_gdp,band_amount, plot_height, 
 	selection.selectAll('horizongraph').data(nested_band_data).enter()
 		.selectAll('group').data(d => d.values).enter().append('path')
 		.attr('d', d => {
-			var band_notch = min_gdp + d.values[0].band_level*band_amount;
-			var area_scale_y = d3.scaleLinear().domain([band_notch,(band_notch+band_amount)]).range([plot_height,0])
+			var b_l = d.values[0].band_level;
+			var min_band_datum = band_partitioner(b_l), max_band_datum = min_band_datum+band_partitioner.bandwidth();
+			area_scale_y.domain([min_band_datum,max_band_datum])
 
-			var band_area = d3.area()
-				.x(d => scale_x(d.year))
-				.y0(d => area_scale_y(band_notch))
-				.y1(d => area_scale_y(Math.min(d.gdp,(band_notch+band_amount))))
+			band_area
+				.y0(d => area_scale_y(min_band_datum))
+				.y1(d => area_scale_y(Math.min(d.gdp,max_band_datum)))
 
 			return band_area(d.values);
 		})
