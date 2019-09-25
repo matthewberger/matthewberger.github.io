@@ -55,7 +55,7 @@ Matthew Berger
 
 email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.edu</a><br>
 
-office hours: TH 2:00-3:00, JH 379
+office hours: TR 2:00-3:00, JH 379
 
 ## Lectures
 
