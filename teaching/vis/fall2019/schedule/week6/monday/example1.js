@@ -16,7 +16,7 @@ function plot_nba()  {
 	var x_range_pad = 40, y_range_pad = 20;
 	var width = svg1.attr('width'), height = svg1.attr('height');
 
-	var pcp_scale_x = d3.scaleBand().domain(selected_atts).range([x_range_pad,width-x_range_pad]);
+	var pcp_scale_x = d3.scalePoint().domain(selected_atts).range([x_range_pad,width-x_range_pad]);
 	var pcp_scale_y = selected_atts.map(att => {
 		var extent = d3.extent(nba_data, d => d[att]);
 		return d3.scaleLinear().domain([extent[0],extent[1]]).range([height-y_range_pad,y_range_pad]);
@@ -31,7 +31,7 @@ function plot_nba()  {
 			var poly_line = selected_atts.map((a,i) => { return {att:a,order:i,value:d[a]}; })
 			return line(poly_line)
 		})
-		.attr('fill', 'None').attr('stroke', d3.hcl(30,60,60)).attr('stroke-opacity', 0.2)
+		.attr('fill', 'None').attr('stroke', d3.hcl(30,60,75)).attr('stroke-width', 2).attr('stroke-opacity', 0.12)
 
 	create_axes_example1(svg1,x_range_pad,y_range_pad,pcp_scale_x,pcp_scale_y,selected_atts);
 }
