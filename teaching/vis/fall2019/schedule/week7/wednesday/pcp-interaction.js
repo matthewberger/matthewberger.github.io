@@ -3,9 +3,9 @@ function pcp_interaction(svg, attributes, scales, min_y, max_y, nba_data)  {
 	svg.selectAll('empty').data(attributes).enter().append('g').attr('class', 'handle')
 		.attr('transform', d => 'translate('+(scales.x(d))+','+(min_y)+')')
 
-	var brush = d3.brushY().extent([[-x_pad,0],[x_pad,max_y-min_y]])
+	var pcp_brush = d3.brushY().extent([[-x_pad,0],[x_pad,max_y-min_y]])
 
-	brush.on('brush', function(att)  {
+	pcp_brush.on('brush', function(att)  {
 		var rect_select = d3.event.selection;
 		var min_d = scales.y[att].invert(min_y+rect_select[1]);
 		var max_d = scales.y[att].invert(min_y+rect_select[0]);
@@ -20,5 +20,5 @@ function pcp_interaction(svg, attributes, scales, min_y, max_y, nba_data)  {
 		data_join.exit().attr('stroke', d3.hcl(30,60,75)).attr('stroke-width', 2).attr('stroke-opacity', 0.12)
 	});
 
-	d3.selectAll('.handle').call(brush)
+	d3.selectAll('.handle').call(pcp_brush)
 }

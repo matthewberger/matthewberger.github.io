@@ -2,8 +2,8 @@ function splom_interaction(size, all_data, x_quantitative_scales, y_quantitative
 	var brush = d3.brush().extent([[0,0],[size,size]])
 
 	brush.on('start', function(d,i)  {
-		d3.selectAll('.selection').attr('style', 'display: none;')
-		d3.selectAll('.handle').attr('style', 'display: none;')
+		d3.selectAll('.splom').selectAll('.selection').attr('style', 'display: none;')
+		d3.selectAll('.splom').selectAll('.handle').attr('style', 'display: none;')
 	})
 
 	brush.on('brush', function(d,i)  {

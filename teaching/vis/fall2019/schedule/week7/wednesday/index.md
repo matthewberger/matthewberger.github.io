@@ -77,11 +77,11 @@ Linked zooming can also be easily achieved, using a similar strategy:
 
 # D3: Selections in Parallel Coordinates
 
-As discussed, brushing is a natural form of selection in parallel coordinated. We brush _attributes_, and this triggers the selection of _full polylines_.
+As discussed, brushing is a natural form of selection in parallel coordinates. We brush _attributes_, and this triggers the selection of _full polylines_.
 
 Implementing this in D3 is pretty straightforward:
 
-* We first associate a group with attribute.
+* We first associate a group with each attribute.
 * Create our brush.
 * Declare what we want to do with a brush event. For parallel coordinates, we simply need to determine whether a data's attribute value is within the data domain selected by the brush.
 * Add the brush to _all groups_. By doing this, we are now associating a brush with _all attributes_.
