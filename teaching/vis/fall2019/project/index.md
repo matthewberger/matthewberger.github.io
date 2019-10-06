@@ -137,18 +137,20 @@ It is important to provide positive feedback to people who truly worked hard for
 
 Your teammate's assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall project score.
 
-## Project Assessment
+## Schedule and Project Assessment
 
 * Team formation and project description: 5%
+	* Due: October 25
 * Proposal: 10%
+	* Due: November 1
 * Update: 5%
+	* Due: November 8
 * Prototype: 20%
+	* Due: November 18
 * Presentation: 10%
+	* To be held: week of December 2
 * Final Project Submission: 50%
-
-## Schedule
-
-TBD
+	* Due: December 9
 
 ## Acknowledgements
 
