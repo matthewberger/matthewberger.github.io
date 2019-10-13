@@ -3,7 +3,6 @@ function mouse_brush_7(plot_group, hue_scale, width,height)  {
 
 	brush.on('brush', function()  {
 		var rect_select = d3.event.selection;
-		console.log('rect select? '+rect_select);
 		plot_group.selectAll('circle')
 			.filter(function()  {
 				var r = +d3.select(this).attr('r');
