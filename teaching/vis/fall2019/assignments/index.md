@@ -65,3 +65,7 @@ D3: data joins, scales, axes ([link](https://github.com/matthewberger/vis-fall20
 ## Assignment 4
 
 Diverging and stacked bars ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment4))
+
+## Assignment 5
+
+Linked and coordinated views ([link](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment5))
