@@ -72,7 +72,7 @@
 
 - week-title: "Hierarchies and Graphs"
   week-date: "October 14"
-  monday-title: "Hierarchies, Treemaps, Node-Link Diagrams"
+  monday-title: "Hierarchies, Treemaps, Node-Link Diagrams ([slides](https://vanderbilt.box.com/s/t4wnspldx30wh76tbvybo35c0oxits0i), [pdf](https://vanderbilt.box.com/s/60y0lsloj6zuvmb87r5wpkuerdq1gzrv), [Examples](/teaching/vis/fall2019/schedule/week9/monday/))"
   monday-required-reading: "**Munzner** Ch. 9.2 (trees only), 9.5"
   monday-recommended-reading: "[Treemaps](https://vanderbilt.box.com/s/v4ktupgysqtetxk0r1m9if9hk3qo7td9), [Squarified Treemaps](https://vanderbilt.box.com/s/icdhnzdlwspu76qek43xckziwz1u8fpd), [Tidier Trees](https://vanderbilt.box.com/s/33s9siw2r25dtco8fctng8040m17tgyg)"
   wednesday-title: "Graphs, Layouts, Arc Diagrams, Matrix Views"
