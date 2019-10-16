@@ -103,12 +103,12 @@
 - week-title: "Uncertainty Visualization"
   week-date: "November 11"
   monday-title: "Probability Review, Box Plots, Violin Plots"
-  monday-assignment: "Project Prototypes **Due**"
   wednesday-title: "Hypothetical Outcome Plots, Quantile Dot Plots"
 
 - week-title: "Spatial Data"
   week-date: "November 18"
   monday-title: "Scalar Fields, Curves, Surfaces"
+  monday-assignment: "Project Prototypes **Due**"
   wednesday-title: "Vector Fields"
 
 - week-title: "Thanksgiving Break"
