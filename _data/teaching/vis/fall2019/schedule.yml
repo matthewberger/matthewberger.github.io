@@ -89,7 +89,7 @@
 
 - week-title: "Geographic Visualization"
   week-date: "October 28"
-  monday-title: "Projections, Cartograms, Geometric Simplification"
+  monday-title: "Projections, Cartograms, Geometric Simplification  ([slides](https://vanderbilt.box.com/s/geyb7mm0i2b7mydr9hnkjtbtl7lxvsc1), [pdf](https://vanderbilt.box.com/s/1j7a4o8qjlox440cisjjf1hw3ps7z757), [D3: Maps](/teaching/vis/fall2019/schedule/week11/monday/))"
   monday-required-reading: "[Cartogram Survey](https://vanderbilt.box.com/s/mwufhge5hhzrhlpthcedxpvzit8dk9tc)"
   monday-recommended-reading: "[Dorling Cartograms](https://vanderbilt.box.com/s/46zjwubx5v6p2iyg8dhqbhf0v2uefde6)"
   wednesday-title: "Choropleth Maps, Density Estimation"
