@@ -91,7 +91,7 @@ function plot_density()  {
 			bandwidth = d;
 			compute_kde();
 			d3.select('#windtemps').selectAll('circle')
-				.attr('fill', (d,i) => d3.hcl(0,chroma_scale(kde[i]),lum_scale(kde[i])))
+				.attr('fill', (d,i) => d3.hcl(0,0,lum_scale(kde[i])))
 		});
 	d3.select('#windtemps').append('g').attr('transform', 'translate(0,-40)').call(slider);
 
@@ -114,7 +114,7 @@ function plot_density()  {
 		.attr('cx', d => common_scale_x(d.wind))
 		.attr('cy', d => common_scale_y(.5*(d.temp_low+d.temp_high)))
 		.attr('r', d => size_scale(d.temp_high-d.temp_low))
-		.attr('fill', (d,i) => d3.hcl(0,chroma_scale(kde[i]),lum_scale(kde[i])))
+		.attr('fill', (d,i) => d3.hcl(0,0,lum_scale(kde[i])))
 		.attr('opacity', '1')
 	// Plot your scales: a scale on the bottom axis, and a scale on the left axis
 	d3.select('#windtemps').append('g').attr('transform', 'translate(0,'+scatter_height+')').call(d3.axisBottom(common_scale_x))
