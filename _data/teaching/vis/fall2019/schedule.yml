@@ -92,7 +92,7 @@
   monday-title: "Projections, Cartograms, Geometric Simplification  ([slides](https://vanderbilt.box.com/s/geyb7mm0i2b7mydr9hnkjtbtl7lxvsc1), [pdf](https://vanderbilt.box.com/s/1j7a4o8qjlox440cisjjf1hw3ps7z757), [D3: Maps](/teaching/vis/fall2019/schedule/week11/monday/))"
   monday-required-reading: "[Cartogram Survey](https://vanderbilt.box.com/s/mwufhge5hhzrhlpthcedxpvzit8dk9tc)"
   monday-recommended-reading: "[Dorling Cartograms](https://vanderbilt.box.com/s/46zjwubx5v6p2iyg8dhqbhf0v2uefde6)"
-  wednesday-title: "Choropleth Maps, Density Estimation"
+  wednesday-title: "Choropleth Maps, Density Estimation ([slides](https://vanderbilt.box.com/s/g5itqo7cwdf7cl0kh3byasd2icu4kmg8), [pdf](https://vanderbilt.box.com/s/9ebh57fpeoqegqix6ni4czenp8pa6je7), [D3: KDE](/teaching/vis/fall2019/schedule/week11/wednesday/))"
   wednesday-required-reading: "[KDE Interactive Article](https://mathisonian.github.io/kde/)"
   wednesday-assignment: "[Assignment 5](https://github.com/matthewberger/vis-fall2019-assignments/tree/master/assignment5) **Due**"
   friday-title: ""
