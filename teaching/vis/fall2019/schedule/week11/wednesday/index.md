@@ -25,7 +25,7 @@ We can also plot density-based maps in D3 using `d3.contourDensity`. This perfor
 Here is an example for car crash incidents in Nashville:
 
 ```javascript
-{% include_relative plot-car-crashes.js %}
+{% include_relative plot-crashes-contours.js %}
 ```
 ---
 <svg id='svg0' width='700' height='700'></svg>
