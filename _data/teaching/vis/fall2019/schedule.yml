@@ -98,15 +98,15 @@
   friday-title: ""
   friday-assignment: "Project Proposal **Due**"
 
-- week-title: "Dimensionality Reduction, Project Updates"
+- week-title: "High-Dimensional Data, Text"
   week-date: "November 4"
   monday-title: "PCA, Manifold Learning"
-  wednesday-title: "Project Updates"
+  wednesday-title: "Dimensionality Reduction continued, Text Visualization"
 
-- week-title: "Uncertainty Visualization"
+- week-title: "Uncertainty Visualization, Project Updates"
   week-date: "November 11"
-  monday-title: "Probability Review, Box Plots, Violin Plots"
-  wednesday-title: "Hypothetical Outcome Plots, Quantile Dot Plots"
+  monday-title: "Project Updates, Visually Communicating Probability"
+  wednesday-title: "Box Plots, Violin Plots, Quantile Dot Plots, Encoding Uncertainty with Color"
 
 - week-title: "Spatial Data"
   week-date: "November 18"

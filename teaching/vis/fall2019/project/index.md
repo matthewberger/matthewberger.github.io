@@ -144,7 +144,7 @@ Your teammate's assessment of your contributions and the accuracy of your self-a
 * Proposal: 10%
 	* Due: November 1
 * Update: 5%
-	* Due: November 8
+	* Due: November 11
 * Prototype: 20%
 	* Due: November 18
 * Presentation: 10%
