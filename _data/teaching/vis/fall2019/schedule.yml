@@ -100,7 +100,8 @@
 
 - week-title: "High-Dimensional Data, Text"
   week-date: "November 4"
-  monday-title: "PCA, Manifold Learning"
+  monday-title: "PCA, Manifold Learning ([slides](https://vanderbilt.box.com/s/mkgoc41gdh2qhk4g58hj54rqtga1lw21), [pdf](https://vanderbilt.box.com/s/yabetro60gzaud3c1pvik8xjy7jhua9l)"
+  monday-required-reading: "**Munzner** Ch. 13.4.3"
   wednesday-title: "Dimensionality Reduction continued, Text Visualization"
 
 - week-title: "Uncertainty Visualization, Project Updates"
