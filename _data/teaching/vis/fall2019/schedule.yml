@@ -108,7 +108,9 @@
 - week-title: "Uncertainty Visualization, Project Updates"
   week-date: "November 11"
   monday-title: "Project Updates, Visually Communicating Probability"
-  wednesday-title: "Box Plots, Violin Plots, Quantile Dot Plots, Encoding Uncertainty with Color"
+  wednesday-title: "Uncertainty Vis ([slides](https://vanderbilt.box.com/s/p8o6yyhuwjablar0ltf014iey2r7p8xk), [pdf](https://vanderbilt.box.com/s/e6p4v50z0s5jdd2b9bpgoq68g1ui8z3u))"
+  wednesday-required-reading: "[Visually Summary Statistics and Uncertainty](https://vanderbilt.box.com/s/kcu8jfywmuu0duhtdmf4c4tenqw6wn97)"
+  wednesday-recommended-reading: "[Hypothetical Outcome Plots](https://vanderbilt.box.com/s/gzk28j490cv9m6m1mjv47rq5wf0y058h), [When(ish) is my Bus](https://vanderbilt.box.com/s/bgoo00kxo5faepbqkukd0rr9kbbj4b28), [Value-Suppressing Uncertainty Palettes](https://vanderbilt.box.com/s/9rzytqrmnm1hlecv0oda5502dyq23l7b)"
 
 - week-title: "Spatial Data"
   week-date: "November 18"
@@ -126,5 +128,5 @@
 
 - week-title: "Final Projects"
   week-date: "December 9"
-  monday-title: ""
+  monday-title: "Final Exam (9:00 a.m.)"
   monday-assignment: "Final Projects **Due**"
