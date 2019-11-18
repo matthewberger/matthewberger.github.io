@@ -114,9 +114,13 @@
 
 - week-title: "Spatial Data"
   week-date: "November 18"
-  monday-title: "Scalar Fields, Curves, Surfaces"
+  monday-title: "Scalar Fields, Curves, Surfaces ([slides](https://vanderbilt.box.com/s/8nk1qpyvhzsdi7kj9bd7n7vu6x0drn1w), [pdf](https://vanderbilt.box.com/s/x8dd38tbxpm11tahcialj5qs8casc24p))"
+  monday-required-reading: "**Munzner** Ch. 8.4"
+  monday-recommended-reading: "[Rainbow Colormaps Harmful](https://vanderbilt.box.com/s/pl50tuxl67wnupqxexc6roumpc2le6o5), [Asymptotic Decider](https://vanderbilt.box.com/s/m4u1gfxqsg5zz9xj8wrxph6tg5x44wo9)"
   monday-assignment: "Project Prototypes **Due**"
   wednesday-title: "Vector Fields"
+  wednesday-required-reading: "**Munzner** Ch. 8.5"
+  wednesday-recommended-reading: "[Comparing Vector Fields](https://vanderbilt.box.com/s/0oeatmwk0knja7e5cmnv2itm9wmn9rpb), [Line Integral Convolution](https://vanderbilt.box.com/s/oqhcrsl472l75t2qdf7bglaq9pkk2dd6)"
 
 - week-title: "Thanksgiving Break"
   week-date: "November 25"
