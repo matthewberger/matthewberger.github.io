@@ -1,0 +1,73 @@
+<table>
+{% assign week_num = 0 %}
+{% for week in site.data.teaching.vaml.spring2020.schedule %}
+{% assign week_num = week_num | plus:1 %}
+<tr>
+	<td markdown='span'>**Week {{ week_num }}** ({{week.week-date}}): {{ week.week-title }}</td>
+</tr>
+<tr>
+<td>
+<table class='inner_table'>
+
+{% if week.monday-title %}
+<tr>
+<td markdown='span' width='40%'>
+**Monday:** {{ week.monday-title }}<br/>
+{% if week.monday-assignment %}
+--- {{ week.monday-assignment }}<br/>
+{% endif %}
+</td>
+<td markdown='span' width='60%'>
+{% if week.monday-required-reading %}
+Required Reading: {{ week.monday-required-reading }}<br/>
+{% endif %}
+{% if week.monday-recommended-reading %}
+Recommended Reading: {{ week.monday-recommended-reading }}<br/>
+{% endif %}
+</td>
+</tr>
+{% endif %}
+
+{% if week.wednesday-title %}
+<tr>
+<td markdown='span' width='40%'>
+**Wednesday:** {{ week.wednesday-title }}<br/>
+{% if week.wednesday-assignment %}
+--- {{ week.wednesday-assignment }}<br/>
+{% endif %}
+</td>
+<td markdown='span' width='60%'>
+{% if week.wednesday-required-reading %}
+Required Reading: {{ week.wednesday-required-reading }}<br/>
+{% endif %}
+{% if week.wednesday-recommended-reading %}
+Recommended Reading: {{ week.wednesday-recommended-reading }}<br/>
+{% endif %}
+</td>
+</tr>
+{% endif %}
+
+{% if week.friday-title %}
+<tr>
+<td markdown='span' width='40%'>
+**Friday:** {{ week.friday-title }}<br/>
+{% if week.friday-assignment %}
+--- {{ week.friday-assignment }}<br/>
+{% endif %}
+</td>
+<td markdown='span' width='60%'>
+{% if week.friday-required-reading %}
+Required Reading: {{ week.friday-required-reading }}<br/>
+{% endif %}
+{% if week.friday-recommended-reading %}
+Recommended Reading: {{ week.friday-recommended-reading }}<br/>
+{% endif %}
+</td>
+</tr>
+{% endif %}
+
+</table>
+</td>
+</tr>
+{% endfor %}
+</table>
