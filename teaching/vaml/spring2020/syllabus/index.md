@@ -38,6 +38,7 @@ title: Syllabus
   <a href="/teaching/vaml/spring2020/assignments">Assignments</a>
   <a href="/teaching/vaml/spring2020/project">Project</a>
   <a href="/teaching/vaml/spring2020/papers">Papers</a>
+  <a href="/teaching/vaml/spring2020/resources">Resources</a>
 </div>
 
 ---
@@ -103,9 +104,9 @@ The course will primarily be lecture-based. There is no textbook for the course 
 
 In the first half of the semester you will be required to complete three programming assignments. These are intended to satisfy the following:
 
-* Exposure to the basics of coding visualizations using web technologies. Specifically, we will be primarily using Javascript for programming, and in particular [D3](https://d3js.org/). Further, we will be using [Observable Notebooks](https://observablehq.com/) for our development environment. We will also use a bit of [Vega-Lite](https://vega.github.io/vega-lite/) to slowly ease into things.
-* How to combine machine learning techniques with data visualization. This involves using Javascript libraries such as [tensorflow.js](https://www.tensorflow.org/js) as well as [matrix computation libraries](https://github.com/mljs/matrix), and how to combine these libraries with interactive data visualization as supported by D3. Indeed, the real power of visual analytics is how to make machine learning interactive.
-* Understanding basic visualization design principles. This involves understanding spatial organization, color design, interactions, amongst other design decisions. The reactive nature of [Observable Notebooks](https://observablehq.com/) will greatly facilitate understanding the design space of authoring visualizations.
+* Exposure to the basics of coding visualizations using web technologies. Specifically, we will be primarily using JavaScript for programming, and in particular [D3](https://d3js.org/). Further, we will be using [Observable notebooks](https://observablehq.com/) for our development environment. We will also use a bit of [Vega-Lite](https://vega.github.io/vega-lite/) to slowly ease into things.
+* How to combine machine learning techniques with data visualization. This involves using JavaScript libraries such as [tensorflow.js](https://www.tensorflow.org/js) as well as [matrix computation libraries](https://github.com/mljs/matrix), and how to combine these libraries with interactive data visualization as supported by D3. Indeed, the real power of visual analytics is how to make machine learning interactive.
+* Understanding basic visualization design principles. This involves understanding spatial organization, color design, interactions, amongst other design decisions. The reactive nature of [Observable notebooks](https://observablehq.com/) will greatly facilitate understanding the design space of authoring visualizations.
 
 ### Research Paper Presentation
 
@@ -124,7 +125,7 @@ The last point is crucial: the ability to iterate on multiple visualization desi
 
 The latter half of the semester will be devoted to a research project. You will form a team of two, propose a project, develop a working prototype halfway through, and finally present your project to the class at the end of the semester. Please see the [project section](/teaching/vaml/spring2020/project) of the course for more details.
 
-For the project, it is intended that you will use Observable Notebooks. However, if you find that a client/server architecture would be more suitable for your needs, then please let me know in advance of your proposal. Nevertheless, D3 is a requirement for the project.
+For the project, it is intended that you will use Observable notebooks. However, if you find that a client/server architecture would be more suitable for your needs, then please let me know in advance of your proposal. Nevertheless, D3 is a requirement for the project.
 
 ## Course Assessment
 
@@ -145,7 +146,9 @@ You should have a sufficient background in machine learning: basic understanding
 
 In addition, you should have sufficient background in linear algebra, e.g. the ability to comprehend matrix notation, and an understanding of basic matrix computations, especially matrix inversion, eigendecomposition, and singular value decomposition.
 
-A background in data visualization is not necessary for this course. We will cover the fundamentals behind data visualization, ranging from basic principles, to how to author visualizations using Javascript and D3, in the first part of the course. Nevertheless, having some background with visualization systems such as matplotlib, ggplot2, Tableau, etc.. will be useful.
+A background in data visualization is not necessary for this course. We will cover the fundamentals behind data visualization, ranging from basic principles, to how to author visualizations using JavaScript and D3, in the first part of the course. Nevertheless, having some background with visualization systems such as matplotlib, ggplot2, Tableau, etc.. will be useful.
+
+Please see the [resources page](/teaching/vaml/spring2020/project) for resources related to JavaScript, SVG, D3, and Observable notebooks.
 
 ## Discussion
 

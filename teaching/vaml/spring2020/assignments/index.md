@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Analytics & Machine Learning
+title: Assignments
 author: Blah
 ---
 
@@ -39,6 +39,7 @@ author: Blah
   <a class='active' href="/teaching/vaml/spring2020/assignments">Assignments</a>
   <a href="/teaching/vaml/spring2020/project">Project</a>
   <a href="/teaching/vaml/spring2020/papers">Papers</a>
+  <a href="/teaching/vaml/spring2020/resources">Resources</a>
 </div>
 
 ---
@@ -47,10 +48,10 @@ author: Blah
 
 # Assignments
 
-All assignments will be completed using [Observable Notebooks](https://observablehq.com/). Links to Notebooks will be provided as assignments are posted. In particular, you will need to do the following for completing assignments:
+All assignments will be completed using [Observable notebooks](https://observablehq.com/). Links to notebooks will be provided as assignments are posted. In particular, you will need to do the following for completing assignments:
 
 * First and foremost, create an account on Observable.
-* When an assignment is posted, click on the link. You should then _fork_ the assignment. You will be provided with a **private** Notebook that you will work on.
+* When an assignment is posted, click on the link. You should then _fork_ the assignment. You will be provided with a **private** notebook that you will work on.
 * When you are finished with the assignment, you should download it as a single compressed file to your computer. You will then submit this file to the appropriate Assignments section on Brightspace.
 
 Regarding the latter two points, see the following image for an illustration:
@@ -59,7 +60,7 @@ Regarding the latter two points, see the following image for an illustration:
 
 As shown, upon clicking the ellipsis in the upper right, you will be presented with a set of options. This is where you can choose to **Fork** an assignment, as well as **Download code** for submitting the assignment.
 
-**Please do not click Publish!** This will make your Notebook **public**. I have no other choice but to treat this as the promotion of copying. If you accidentally click Publish, then please back up your assignment, delete it, and fork the original assignment again.
+**Please do not click Publish!** This will make your notebook **public**. I have no other choice but to treat this as the promotion of copying. If you accidentally click Publish, then please back up your assignment, delete it, and fork the original assignment again.
 
 ## Assignment 1 - Visually exploring the outputs of a deep neural network
 

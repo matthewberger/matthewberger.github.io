@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visual Analytics & Machine Learning
+title: Project
 author: Blah
 ---
 
@@ -39,6 +39,7 @@ author: Blah
   <a href="/teaching/vaml/spring2020/assignments">Assignments</a>
   <a class='active' href="/teaching/vaml/spring2020/project">Project</a>
   <a href="/teaching/vaml/spring2020/papers">Papers</a>
+  <a href="/teaching/vaml/spring2020/resources">Resources</a>
 </div>
 
 ---
@@ -53,7 +54,7 @@ In the second half of the semester, you will form teams of two to work on a proj
 
 The type of project you choose should come from three of the main research topics that we will cover in the course: **Mixed-Initiative Visual Exploration**, **Visual Analytics for Understanding Models**, or **Visual Analytics for Training Models**.
 
-The first two topics are most suited for development with Observable Notebooks, and should be natural extensions from the programming assignments. Visual analytics for training models, however, may be more suitable for a client/server model. If you would like to go this route, then please contact me in advance. Additionally, if a project that you would like to do does not quite fit in the above topics, then again, please contact me in advance.
+The first two topics are most suited for development with Observable notebooks, and should be natural extensions from the programming assignments. Visual analytics for training models, however, may be more suitable for a client/server model. If you would like to go this route, then please contact me in advance. Additionally, if a project that you would like to do does not quite fit in the above topics, then again, please contact me in advance.
 
 ## Team Formation and Project Proposal
 
@@ -61,7 +62,7 @@ You will first form a two-person team as part of the project. If you wish to wor
 
 You will then formulate a project proposal. The proposal should include the following:
 
-* **Basic Info:** Project title. A link to your Notebook for the project. The Notebook will serve as a sort of living document for your project; _everything_ you do will go here, beit any writing/documentation (using Markdown), as well as your code.
+* **Basic Info:** Project title. A link to your notebook for the project. The notebook will serve as a sort of living document for your project; _everything_ you do will go here, beit any writing/documentation (using Markdown), as well as your code.
 * **Description:** Provide a brief description (1 paragraph) of what you propose to do.
 * **Background:** Motivate your project (1 page). What is the importance of the problem you are addressing? What is existing work in addressing your problem? How does existing work fall short? What is the novelty of your proposed work?
 * **Tasks:** Provide a task decomposition for addressing your problem (2-3 paragraphs). How is your visualization going to address the problem you are solving?
@@ -69,7 +70,7 @@ You will then formulate a project proposal. The proposal should include the foll
 * **Models:** Describe the machine learning models that you will be using (1-2 paragraphs).
 * **Design:** Provide several visualization designs that you will consider for your project. Consider drawing, on paper, potential designs, e.g. with colored pencils, highlighting different spatial layouts, visual encoding choices, and interactions.
 
-Unlike the assignments, you will _share_ your Notebook with me. This does not make your Notebook visible to the public, rather, anyone with the link will be able to access it. If you have any problems with this please let me know.
+Unlike the assignments, you will _share_ your notebook with me. This does not make your notebook visible to the public, rather, anyone with the link will be able to access it. If you have any problems with this please let me know.
 
 Additionally, each team will present their proposal to the class. Please prepare a 10-minute presentation.
 
@@ -83,7 +84,7 @@ You should be able to complete any data cleaning/wrangling/munging at this stage
 
 ### Exploratory Data Analysis
 
-You should quickly prototype some visualizations for exploring your data. I **strongly recommend** using [Vega-Lite](https://vega.github.io/vega-lite/) for this purpose, as it simple to use and integrates with Observable Notebooks, while still providing a decent-sized design space to consider. In your Notebook, you should present these Vega-Lite visualizations alongside discussions written in Markdown, detailing any findings regarding your data.
+You should quickly prototype some visualizations for exploring your data. I **strongly recommend** using [Vega-Lite](https://vega.github.io/vega-lite/) for this purpose, as it simple to use and integrates with Observable notebooks, while still providing a decent-sized design space to consider. In your notebook, you should present these Vega-Lite visualizations alongside discussions written in Markdown, detailing any findings regarding your data.
 
 ### Design Prototype
 

@@ -39,6 +39,7 @@ author: Blah
   <a href="/teaching/vaml/spring2020/assignments">Assignments</a>
   <a href="/teaching/vaml/spring2020/project">Project</a>
   <a href="/teaching/vaml/spring2020/papers">Papers</a>
+  <a href="/teaching/vaml/spring2020/resources">Resources</a>
 </div>
 
 ---
