@@ -123,6 +123,7 @@ Start here, before getting in to the details of the papers below.
 * [Interactive Analysis of Word Vector Embeddings\*](https://vanderbilt.box.com/s/dy95g2c2y3b3to4p8buk7hs453no4z9l)
 * [Interpreting Black-Box Classifiers Using Instance-Level Visual Explanations\*](https://vanderbilt.box.com/s/lcd01y262qsnp2d76obt4ibv66t017sh)
 * [DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks\*](https://vanderbilt.box.com/s/vjxbpma6l2fr30tcqziyz6f7wip9veb0)
+* [The What-If Tool: Interactive Probing of Machine Learning Models\*](https://vanderbilt.box.com/s/0a6ju5e35r3v56daasg6840retyun50x)
 * [SUMMIT: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations\*](https://vanderbilt.box.com/s/y4fku5tbr34sm9svr2nlfc7xjs0xjjw4)
 
 ## Visual Analytics for Training Models
@@ -152,7 +153,6 @@ Start here, before getting in to the details of the papers below.
 * [Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution\*](https://vanderbilt.box.com/s/zwk734a5qgzzxcsrvay1jwctirnlsqhp)
 * [BaobabView: Interactive construction and analysis of decision trees\*](https://vanderbilt.box.com/s/vsdvbyemzvu7098iv4i8si895ybi9qp7)
 * [ProtoSteer: Steering Deep Sequence Model with Prototypes\*](https://vanderbilt.box.com/s/ptpthu8djmoe6bl9e4w94516g13rtxd0)
-* [The What-If Tool: Interactive Probing of Machine Learning Models\*](https://vanderbilt.box.com/s/0a6ju5e35r3v56daasg6840retyun50x)
 * [Semantic Concept Spaces: Guided Topic Model Refinement using Word-Embedding Projections\*](https://vanderbilt.box.com/s/0utn7pm9m9rojq60xj2867gcytazt5bt)
 
 ## Learning Visualization
