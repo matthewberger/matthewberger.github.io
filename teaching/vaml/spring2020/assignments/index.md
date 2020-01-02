@@ -65,11 +65,3 @@ As shown, upon clicking the ellipsis in the upper right, you will be presented w
 ## Assignment 1 - Visually exploring the outputs of a deep neural network
 
 [Notebook](https://observablehq.com/)
-
-## Assignment 2 - Visually steering dimensionality reduction of topic models
-
-[Notebook](https://observablehq.com/)
-
-## Assignment 3 - TBD
-
-[Notebook](https://observablehq.com/)
