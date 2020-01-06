@@ -1,6 +1,6 @@
 - week-title: "Introduction to Visual Analytics"
   week-date: "January 6"
-  monday-title: "Course Introduction, Visual Analytics?"
+  monday-title: "Course Introduction, Visual Analytics? ([slides](https://vanderbilt.box.com/s/2m2o5zdtse7x0mc8xrqqfc1c01qhyira), [pdf](https://vanderbilt.box.com/s/l3ura06iu4hla0g8p2nehjcfi1sh66mr), [notebook](https://observablehq.com/d/85073fc618044677))"
   monday-required-reading: "[Visual Analytics: Definition, Process and Challenges](https://vanderbilt.box.com/s/ckrw9ngy96l4mla2jgrijeqne84l0xye)"
   wednesday-title: "Fundamentals of Data Visualization: Visual Encodings, Interactions, Perceptual Principles"
   wednesday-required-reading: "[A Layered Grammar of Graphics](https://vanderbilt.box.com/s/beepux7f4xk9gs3naxnfni8jpsfnn4d5), [Vega-Lite](https://vanderbilt.box.com/s/q1jq9q0j4zobzmq4wqfqaet1vuagugct), [Which Visualization?](http://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf)"
