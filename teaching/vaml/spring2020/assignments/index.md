@@ -64,4 +64,4 @@ As shown, upon clicking the ellipsis in the upper right, you will be presented w
 
 ## Assignment 1 - Visually exploring the outputs of a deep neural network
 
-[Notebook](https://observablehq.com/)
+[Notebook](https://observablehq.com/d/24a93921130f6687)

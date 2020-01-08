@@ -4,6 +4,7 @@
   monday-required-reading: "[Visual Analytics: Definition, Process and Challenges](https://vanderbilt.box.com/s/ckrw9ngy96l4mla2jgrijeqne84l0xye)"
   wednesday-title: "Fundamentals of Data Visualization: Visual Encodings, Interactions, Perceptual Principles"
   wednesday-required-reading: "[A Layered Grammar of Graphics](https://vanderbilt.box.com/s/beepux7f4xk9gs3naxnfni8jpsfnn4d5), [Vega-Lite](https://vanderbilt.box.com/s/q1jq9q0j4zobzmq4wqfqaet1vuagugct), [Which Visualization?](http://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf)"
+  wednesday-assignment: "[Assignment 1](https://observablehq.com/d/24a93921130f6687) **Posted**"
 
 - week-title: "Authoring Visualizations with D3"
   week-date: "January 13"
@@ -17,6 +18,7 @@
   monday-title: "Martin Luther King Jr. Day: No Class"
   wednesday-title: "Interactive Machine Learning"
   wednesday-required-reading: "[The Role of Humans in Interactive Machine Learning](https://vanderbilt.box.com/s/jjl6i38aoot5xrzd9otol1fg6l0wkmqn), [Human-Centered Machine Learning](https://vanderbilt.box.com/s/7b00ue3btk1vcff4lonoay91bhybfs9o)"
+  wednesday-assignment: "[Assignment 1](https://observablehq.com/d/24a93921130f6687) **Due**"
 
 - week-title: "Mixed-Initiative Visual Exploration, Pt. 1"
   week-date: "January 27"
