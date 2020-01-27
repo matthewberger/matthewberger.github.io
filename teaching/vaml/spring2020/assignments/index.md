@@ -65,3 +65,7 @@ As shown, upon clicking the ellipsis in the upper right, you will be presented w
 ## Assignment 1 - Visually exploring the outputs of a deep neural network
 
 [Notebook](https://observablehq.com/d/24a93921130f6687)
+
+## Assignment 2 - Birds of the world
+
+[Notebook](https://observablehq.com/d/4c270ba78f821766)
