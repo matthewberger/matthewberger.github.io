@@ -31,7 +31,7 @@
   week-date: "February 3"
   monday-title: "Exploring Topic Models, Pt. 1 ([slides](https://vanderbilt.box.com/s/l5xyl5smywz9jnpi1ftdh6i6o4gwgrzv), [pdf](https://vanderbilt.box.com/s/ft3idqtkk8shnbuegv5zljed7g3zilv1))"
   monday-required-reading: "[ParallelTopics](https://vanderbilt.box.com/s/63tghuy6bmwdq1dwbwmsws21strr3yvj), [HierarchicalTopics](https://vanderbilt.box.com/s/tbcrrtlatlepujdlfbm06814ldc8l8na), [TopicPanorama](https://vanderbilt.box.com/s/kmvx1c96e7i7igbpbiaktid7vb5db0sl), [Serendip](https://vanderbilt.box.com/s/q7155t657dgn25lmfyjl3z9e13fkvd67)"
-  monday-assignment: "[Assignment 2.1](https://observablehq.com/d/4c270ba78f821766) **Due**"
+  monday-assignment: "[Assignment 2.1](https://observablehq.com/d/4c270ba78f821766) **Due**, [Assignment 2.2](https://observablehq.com/d/4c270ba78f821766) **Posted**"
   wednesday-title: "Exploring Topic Models, Pt. 2"
   wednesday-required-reading: "[VAiRoma](https://vanderbilt.box.com/s/l7u4bcq3eujzw7xzxadchdrr0u7766ag), , [Comparative Exploration](https://vanderbilt.box.com/s/wvlj6lmmnuefkdbbx04ek3fskqeisg0l), [ConToVi](https://vanderbilt.box.com/s/enlfmgtfeb19xj4wqmgz6h482c8tyag4)"
 
@@ -39,6 +39,7 @@
   week-date: "February 10"
   monday-title: "Presentations: Nhung ([PhenoLines](https://vanderbilt.box.com/s/sy92ptvebff91ksu8j6idr0da2lnnkgt)), Roza ([SAX Navigator](https://vanderbilt.box.com/s/r08cfukd3zohvwvtypyfh9wk9jyhv3cd))"
   wednesday-title: "Presentations: Matthew ([Clustervision](https://vanderbilt.box.com/s/81duvcwdnfqzw62oit9guzl2i8taijrm)), Geoffrey ([Spatiotemporal Social Media Analytics](https://vanderbilt.box.com/s/2nh91rx8dqzlzrzil4jbwwl3lebpdvi7))"
+  wednesday-assignment: "[Assignment 2.2](https://observablehq.com/d/4c270ba78f821766) **Due**"
 
 - week-title: "Visual Analytics for Model Understanding, Pt. 1"
   week-date: "February 17"
