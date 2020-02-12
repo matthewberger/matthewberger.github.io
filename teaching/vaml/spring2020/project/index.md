@@ -116,3 +116,10 @@ As everyone's projects will be different, there is no detailed rubric for gradin
 * Interactivity should be a central component.
 
 However, if the main contributions of your project deviate from the above, then the assessment will be adjusted accordingly.
+
+## Project Schedule
+
+* Project Proposal and Presentations: March 16
+* Project Prototypes: April 1
+* Project Presentations: April 20
+* Final Project Submission: April 24

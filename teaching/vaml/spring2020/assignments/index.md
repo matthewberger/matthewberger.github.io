@@ -69,3 +69,7 @@ As shown, upon clicking the ellipsis in the upper right, you will be presented w
 ## Assignment 2 - Birds of the world
 
 [Notebook](https://observablehq.com/d/4c270ba78f821766)
+
+## Assignment 3 - Generative meowdels
+
+[Notebook](https://observablehq.com/d/464272a2ad735e0c)
