@@ -49,9 +49,9 @@
 
 - week-title: "Visual Analytics for Model Understanding, Pt. 2"
   week-date: "February 24"
-  monday-title: "Presentations: Jason ([DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a)), Yayan ([CNNs and Hierarchies](https://vanderbilt.box.com/s/lx7bvfs8v6isgw4cmas0gur8gqv1kr6g))"
-  wednesday-title: "Presentation: Congnin ([The What-If Tool](https://vanderbilt.box.com/s/0a6ju5e35r3v56daasg6840retyun50x)), Understanding Generative Models"
-  wednesday-required-reading: "[GANViz](https://vanderbilt.box.com/s/fyicadaojeefmk4i0eo2kts3t2lotpsm), [GAN Lab](https://vanderbilt.box.com/s/llh2hbuwsklksk25wu6fgljg0o4dg9nv)"
+  monday-title: "Presentation: Jason ([DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a)), Understanding Generative Models ([slides](https://vanderbilt.box.com/s/57zz5hhxs8zzfcv0eyouyyq66fes6y69), [pdf](https://vanderbilt.box.com/s/sfrstbpkxl2zsfqmzv8afwm18zuu2ho1))"
+  monday-required-reading: "[GANViz](https://vanderbilt.box.com/s/fyicadaojeefmk4i0eo2kts3t2lotpsm), [GAN Lab](https://vanderbilt.box.com/s/llh2hbuwsklksk25wu6fgljg0o4dg9nv)"
+  wednesday-title: "Presentations: Yayan ([CNNs and Hierarchies](https://vanderbilt.box.com/s/lx7bvfs8v6isgw4cmas0gur8gqv1kr6g)), Congnin ([The What-If Tool](https://vanderbilt.box.com/s/0a6ju5e35r3v56daasg6840retyun50x))"
 
 - week-title: "Spring Break"
   week-date: "March 2"
