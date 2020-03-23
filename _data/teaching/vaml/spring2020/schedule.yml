@@ -71,7 +71,7 @@
 
 - week-title: "Visual Analytics for Model Training, Pt. 1"
   week-date: "March 23"
-  monday-title: "Interactive Model Training"
+  monday-title: "Interactive Model Training ([slides](https://vanderbilt.box.com/s/ppoq2wg9tn1mwubq2x6jvyoqxhx0eez1), [pdf](https://vanderbilt.box.com/s/1hox6m24mjynmgvyirnntupf4gu0ob82)"
   monday-required-reading: "[iVisClassifier](https://vanderbilt.box.com/s/fd7fj0mmnhnz5rrg61qryx0lf6w70djy), [Visual Document Classifier](https://vanderbilt.box.com/s/53nepj1ho250hi2dpekvz2ffi0fvhg9t), [Video Classifiers](https://vanderbilt.box.com/s/i1gu8getjai670wmnuyqlc466mdcx1a7), [Incremental Visual Data Classification](https://vanderbilt.box.com/s/c09fc9wdnx6gjbao82i9usgutky86ql6)"
   wednesday-title: "Presentation: Jiayao ([SEQ2SEQ-VIS](https://vanderbilt.box.com/s/zrvj3ldvkjrmqbj7os6eo0kukwpbcmdc)), (Inter-)Active Learning of Classifiers"
   wednesday-required-reading: "[VIAL](https://vanderbilt.box.com/s/87077gdthxymk3kmuezds5t0fnudgpae), [User-Centered AL](https://vanderbilt.box.com/s/hvrn1y4eklfebmx28x075w2n0kwgdhj4), [Experimental Comparison of Visual AL](https://vanderbilt.box.com/s/50uytoinhdxrqer6kjqpigk5j6oc1l5p), [Visual Bootstrapping](https://vanderbilt.box.com/s/ab18hvcqobom1jzbpp3k2aumtrlemesn)"
