@@ -14,7 +14,7 @@ Email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.
 ---
 
 # About Me
-I am an assistant professor in the Department of Electrical Engineering and Computer Science at [Vanderbilt University](https://engineering.vanderbilt.edu/eecs). I was previously a postdoc at the [University of Arizona](https://www2.cs.arizona.edu), advised by [Prof. Joshua A. Levine](https://jalevine.bitbucket.io/). Before that, I was a researcher with the Air Force Research Laboratory. I received my PhD in Computing from the [University of Utah](https://www.cs.utah.edu), where my advisor was [Claudio T. Silva](https://vgc.poly.edu/~csilva), and did my MS and undergrad in Computer Science at [Binghamton University](https://www.cs.binghamton.edu).
+I am an assistant professor in the Department of Electrical Engineering and Computer Science at [Vanderbilt University](https://engineering.vanderbilt.edu/eecs). I was previously a postdoc at the [University of Arizona](https://www2.cs.arizona.edu), advised by [Joshua A. Levine](https://jalevine.bitbucket.io/). Before that, I was a researcher with the Air Force Research Laboratory. I received my PhD in Computing from the [University of Utah](https://www.cs.utah.edu), where my advisor was [Claudio T. Silva](https://vgc.poly.edu/~csilva), and did my MS and undergrad in Computer Science at [Binghamton University](https://www.cs.binghamton.edu).
 
 
 # Research Interests
