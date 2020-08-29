@@ -1,3 +1,54 @@
+- title: "Attention Flows: Analyzing and Comparing Attention Mechanisms in Language Models"
+  pdf: "/papers/attentionflows.pdf"
+  snap: "/papersnaps/attentionflows.png"
+  pubinfo: "IEEE VAST"
+  date: "2020"
+  authors: ["Joseph DeRose", "Jiayao Wang", "Matthew Berger"]
+
+- title: "Visually Analyzing Contextualized Embeddings"
+  pdf: "/papers/context.pdf"
+  snap: "/papersnaps/context.png"
+  pubinfo: "IEEE Vis Short Papers"
+  date: "2020"
+  authors: ["Matthew Berger"]
+
+- title: "Visually Analyzing and Steering Zero Shot Learning"
+  pdf: "/papers/zsl.pdf"
+  snap: "/papersnaps/zsl.png"
+  pubinfo: "IEEE Vis Short Papers"
+  date: "2020"
+  authors: ["Saroj Sahoo", "Matthew Berger"]
+
+- title: "PRAGMA: Interactively Constructing Functional Brain Parcellations"
+  pdf: "/papers/pragma.pdf"
+  snap: "/papersnaps/pragma.png"
+  pubinfo: "IEEE Vis Short Papers"
+  date: "2020"
+  authors: ["Roza G. Bayrak", "Nhung Hoang", "Colin B. Hansen", "Catie Chang", "Matthew Berger"]
+
+- title: "Domain Adaptation for Ultrasound Beamforming"
+  pdf: "/papers/daub.pdf"
+  snap: "/papersnaps/daub.png"
+  pubinfo: "MICCAI"
+  date: "2020"
+  authors: ["Jaime Tierney", "Adam Luchies", "Christopher Kahn", "Brett Byram", "Matthew Berger"]
+
+- title: "Visualization of Unsteady Flow Using Heat Kernel Signatures"
+  pdf: "/papers/flowhks.pdf"
+  snap: "/papersnaps/flowhks.png"
+  pubinfo: "IEEE PacificVis"
+  date: "2020"
+  authors: ["Kairong Jiang", "Joshua A. Levine", "Matthew Berger"]
+
+- title: "A Generative Model for Volume Rendering"
+  arxiv: "https://arxiv.org/abs/1710.09545"
+  snap: "/papersnaps/tfgan.jpg"
+  video: "/videos/tfgan.mp4"
+  project: "https://github.com/matthewberger/tfgan"
+  pubinfo: "IEEE TVCG"
+  date: "2019"
+  authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
+
 - title: "NNCubes: Learned Structures for Visual Data Exploration"
   arxiv: "https://arxiv.org/abs/1808.08983"
   snap: "/papersnaps/nncubes.png"
@@ -13,15 +64,6 @@
   pubinfo: "EMNLP"
   date: "2018"
   authors: ["Matthew Berger", "Ajay Nagesh", "Joshua A. Levine", "Mihai Surdeanu", "Helen Zhang"]
-
-- title: "A Generative Model for Volume Rendering"
-  arxiv: "https://arxiv.org/abs/1710.09545"
-  snap: "/papersnaps/tfgan.jpg"
-  video: "/videos/tfgan.mp4"
-  project: "https://github.com/matthewberger/tfgan"
-  pubinfo: "IEEE TVCG (to appear)"
-  date: "2018"
-  authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
 
 - title: "Topological Eulerian Synthesis of Slow Motion Periodic Videos"
   pdf: "http://www.ctralie.com/Research/SloMoLoops/paper.pdf"
@@ -50,7 +92,7 @@
   pdf: "/papers/cite2vec.pdf"
   snap: "/papersnaps/cite2vec.jpg"
   video: "/videos/cite2vec.mp4"
-  pubinfo: "IEEE Infovis"
+  pubinfo: "IEEE InfoVis"
   date: "2016"
   authors: ["Matthew Berger", "Katherine McDonough", "Lee M. Seversky"]
 
