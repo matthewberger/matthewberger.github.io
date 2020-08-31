@@ -13,10 +13,13 @@
 
 - week-title: "D3, Visualization Design Principles"
   week-date: "August 31"
-  monday-title: "D3: Data Join"
+  monday-title: "D3: Data Join ([notebook](https://observablehq.com/d/2c0e42f955f7121d))"
+  monday-required-reading: "**Murray** Ch. 6,12"
   monday-assignment: "[Assignment 0](https://observablehq.com/d/447ee35a03164b12) **Due**"
   wednesday-title: "Visual Encodings"
+  wednesday-required-reading: "**Munzner** Ch. 2 Ch. 5.1-5.3"
   friday-title: "Scales"
+  friday-required-reading: "**Murray** Ch. 9,10"
 
 - week-title: "Perception"
   week-date: "September 7"
