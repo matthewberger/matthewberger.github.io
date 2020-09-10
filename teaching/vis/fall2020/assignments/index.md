@@ -105,3 +105,7 @@ Introduction and survey ([link](https://observablehq.com/d/447ee35a03164b12))
 ## Programming Assignment 1
 
 D3 Workout ([link](https://observablehq.com/d/0be21fbc2c2bce94))
+
+## Programming Assignment 2
+
+Rankings over time ([link](https://observablehq.com/d/85f1f4f097d5c609))
