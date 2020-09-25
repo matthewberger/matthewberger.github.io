@@ -108,7 +108,7 @@ D3 Workout ([link](https://observablehq.com/d/0be21fbc2c2bce94))
 
 ## Programming Assignment 2
 
-Rankings over time ([link](https://observablehq.com/d/85f1f4f097d5c609))
+Rankings over time ([link](https://observablehq.com/d/85f1f4f097d5c609), [solution](https://observablehq.com/d/3a9c8140fe01b00a))
 
 ## Programming Assignment 3
 
