@@ -56,7 +56,7 @@
 
 - week-title: "Multiple-View Arrangements, Interaction"
   week-date: "September 28"
-  monday-title: "Multiple View Considerations, Small Multiples"
+  monday-title: "Multiple View Considerations, Small Multiples ([slides](https://vanderbilt.box.com/s/s6cqt5rwjkjj9or9wugzmf444gcjx181), [pdf](https://vanderbilt.box.com/s/0nqv4rq0ozgawiz3kyh7vss7fnn2hlgo), [notebook](https://observablehq.com/d/16aa3938f9baddda))"
   monday-required-reading: "**Munzner** Ch. 12"
   monday-recommended-reading: "[Composite View Design Space](https://vanderbilt.box.com/s/3fvjf1om5a82r9l0nlzf41he6plx108x), [Guidelines](https://vanderbilt.box.com/s/lw6nhmmwtaxknpcz4wwn33omqkz2grpg), [Keeping Multiple Views Consistent](https://vanderbilt.box.com/s/cxpjnf1r1hje2qowumkl96nmqmjm4lyc)"
   wednesday-title: "Parallel Coordinates, Scatterplot Matrices"
