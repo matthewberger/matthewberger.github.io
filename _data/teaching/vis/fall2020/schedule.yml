@@ -71,8 +71,12 @@
   week-date: "October 5"
   monday-title: "Geographic Data ([slides](https://vanderbilt.box.com/s/qiqwobcrxs22w8ba9ao4llgljka1nyri), [pdf](https://vanderbilt.box.com/s/eduqm4fcculcktc6hr4m0s581uskyhxh))"
   monday-assignment: "Assignment 3 ([undergrad](https://observablehq.com/d/ac3530f3cebb6e3f), [grad](https://observablehq.com/d/5c9f5b37c6a48c89)) **Due**"
+  monday-recommended-reading: "[Geographic Data Scales](https://vanderbilt.box.com/s/d1vrwmnrdcqxu9xq15sggzcj47xpkm4a) [Map Lineups](https://vanderbilt.box.com/s/9f511mwbax92g8azm8dju0dgwsvtmsvx)"
   wednesday-title: "Graphs"
+  wednesday-required-reading: "**Munzner** Ch. 9.2 - 9.4"
+  wednesday-recommended-reading: "[Force-directed Graph Layout](https://vanderbilt.box.com/s/f54uycfnvobuzrl87r99lirbh4qg0hte), [Spectral Graph Drawing](https://vanderbilt.box.com/s/yt55nq0l8xg0p4ssytgi5wsgq40i4757)"
   friday-title: "Graphs continued"
+  friday-recommended-reading: "[NodeTrix](https://vanderbilt.box.com/s/qqaze0zz7af93jjdr6rlwj2ya70qirqa), [Comparison of Node-link and Matrix](https://vanderbilt.box.com/s/9hki9xr517urf927rxuj51unbqxva135)"
   friday-assignment: "[Written Assignment 1](https://observablehq.com/d/7a46f0f7a947aab8) **Due**"
 
 - week-title: "Hierarchical Data"
