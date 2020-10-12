@@ -82,8 +82,11 @@
 - week-title: "Hierarchical Data"
   week-date: "October 12"
   monday-title: "Treemaps"
+  monday-required-reading: "**Munzner** Ch. 9.5, [Treemaps](https://vanderbilt.box.com/s/opx77h8hcmpxsh51kfz7eoc56cx6ufem), [Squarified Treemaps](https://vanderbilt.box.com/s/7gwpspkep7bwtf83b98ejq2l7xqaa9h6)"
   wednesday-title: "Radial Hierarchies, Node-link Trees"
+  wednesday-required-reading: "**Munzner** Ch. 9.2 [Tidier Trees](https://vanderbilt.box.com/s/dimzbwwhil5805ab5o48kf7kivt6ujhh), [InterRing](https://vanderbilt.box.com/s/tswvma1aspv4flztapw4emswdcl7w50x)"
   friday-title: "Compound Graph-Hierarchies"
+  friday-required-reading: "[Hierarchical Edge Bundling](https://vanderbilt.box.com/s/06frs84vq9ue3mzx5k05mlik0dtgr537), [GrouseFlocks](https://vanderbilt.box.com/s/2f7a5vjuzuk8v25wcfheh722wz5f83w1)"
 
 - week-title: "Design Studies"
   week-date: "October 19"
