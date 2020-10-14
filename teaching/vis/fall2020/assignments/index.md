@@ -113,3 +113,7 @@ Rankings over time ([link](https://observablehq.com/d/85f1f4f097d5c609), [soluti
 ## Programming Assignment 3
 
 Scatterplots ([undergrad](https://observablehq.com/d/ac3530f3cebb6e3f), [grad](https://observablehq.com/d/5c9f5b37c6a48c89))
+
+## Programming Assignment 4
+
+Multiple Views ([link](https://observablehq.com/d/f848866eabb931d4))
