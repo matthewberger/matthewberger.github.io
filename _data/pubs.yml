@@ -2,6 +2,7 @@
   pdf: "/papers/attentionflows.pdf"
   snap: "/papersnaps/attentionflows.png"
   pubinfo: "IEEE VAST"
+  notebook: "https://observablehq.com/@mattberger/attention-flows"
   date: "2020"
   authors: ["Joseph DeRose", "Jiayao Wang", "Matthew Berger"]
 
@@ -9,6 +10,7 @@
   pdf: "/papers/context.pdf"
   snap: "/papersnaps/context.png"
   pubinfo: "IEEE Vis Short Papers"
+  notebook: "https://observablehq.com/@mattberger/visually-analyzing-contextualized-embeddings"
   date: "2020"
   authors: ["Matthew Berger"]
 
@@ -23,6 +25,7 @@
   pdf: "/papers/pragma.pdf"
   snap: "/papersnaps/pragma.png"
   pubinfo: "IEEE Vis Short Papers"
+  award: "Best Paper Honorable Mention"
   date: "2020"
   authors: ["Roza G. Bayrak", "Nhung Hoang", "Colin B. Hansen", "Catie Chang", "Matthew Berger"]
 
