@@ -92,8 +92,13 @@
 - week-title: "Design Studies"
   week-date: "October 19"
   monday-title: "Defining Objectives and Tasks"
+  monday-required-reading: "**Munzner** Ch. 4"
+  monday-recommended-reading: "[Design Study Methodology](https://vanderbilt.box.com/s/1k0iv00ccysluswd8v7nh4qvvl6y4mad), [Design Activities](https://vanderbilt.box.com/s/bqm1iq27fx7knhx9ygmnzjjf19ezt84v)"
   wednesday-title: "Sketching Designs"
+  wednesday-required-reading: "[Five Design-Sheet Methodology](https://vanderbilt.box.com/s/8t8orp2h3vxl6356ckoa55lksbpencq8)"
+  wednesday-recommended-reading: "[GeoVis Design](https://vanderbilt.box.com/s/qpqld4ag86c6wv79fx3x2pj4d15p9ikm), [User-Centered Visualization Design](https://vanderbilt.box.com/s/agl7im5fo4y8hycqn1pi9gz9hdl3z2jd)"
   friday-title: "Design and Redesign"
+  friday-recommended-reading: "[Design and Redesign](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9), [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)"
   friday-assignment: "[Programming Assignment 4](https://observablehq.com/d/f848866eabb931d4) **Due**"
 
 - week-title: "Dimensionality Reduction"
@@ -102,13 +107,13 @@
   wednesday-title: "tSNE"
   friday-title: "TBA"
 
-- week-title: "Uncertainty Visualization, Project Introductions"
+- week-title: "Uncertainty Visualization"
   week-date: "November 2"
 
 - week-title: "Evaluating Visualization"
   week-date: "November 9"
 
-- week-title: "Special Topics TBA"
+- week-title: "Special Topics TBA, Project Prototypes"
   week-date: "November 16"
 
 - week-title: "Thanksgiving Break"
