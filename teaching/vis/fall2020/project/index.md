@@ -54,15 +54,26 @@ A **design study** is concerned with building a visual interface to understand a
 
 For the project, there are a sequence of milestones that you must meet at their specified due dates. Unlike assignments, there will be **no credit** given to milestones that are submitted late. The milestones are intended to keep you on track for the project, to make sure that the choices you are making for the project are sound. Milestones for the project are:
 
-* **Project team** and **Project proposal**
+* **Project formation**
+* **Project proposal**
 * **Project prototype**
 * **Presentation and final project submission**
 
-## Team Formation and Project Proposal
+## Project Formation
 
-Each project will be comprised by a team of **2-3 students**. Undergraduate and graduate students may be within a single team, or separate teams, no distinction will be made. If there are extenuating circumstances and you would rather work by yourself for the project, please contact the instructor first.
+Each project will be comprised by a team of **2-3 students**. Undergraduate and graduate students may be within a single team, or separate teams, no distinction will be made. If there are extenuating circumstances and you would rather work by yourself for the project, please contact me first.
 
 You should maintain an Observable notebook for the project. The notebook will document all aspects of your project, and of course, the resulting visualization. You should make the notebook **shared**, so that I can view it, and all members of the team can collaborate on a single notebook, forking and merging as appropriate. If you are not comfortable working with shared notebooks then please let me know.
+
+Once you have formed your team, you should create the notebook, and provide the following information in your notebook (written in Markdown):
+
+* Project title
+* Team members
+* 1 paragraph description of your project. Characterize the problem domain that you are interested in. What problem do you intend to solve? No considerations need to be made regarding data, tasks, visualization decisions, etc..
+
+Please email me a link to your shared notebook.
+
+## Project Proposal
 
 The proposal will outline all aspects of the project, and should be the equivalent of a 4-5 page document. You should write the description as [Markdown](https://www.markdownguide.org/cheat-sheet/) in your notebook. The proposal should include:
 
@@ -75,6 +86,8 @@ The proposal will outline all aspects of the project, and should be the equivale
 * **Optional Features:** List the features that you think would be nive to have, but not critical.
 * **Project Schedule:** Plan out the schedule for the project, on a weekly basis. Show how work will be delegated amongst the team members.
 * **Visualization Design:** How will you display your data? Provide some general ideas that you have for the visualization design. Create three alternative designs for your visualization. Create one final design that incorporates the best of your three designs. Describe your designs and justify your choices of visual encodings. Consider using the [Five Design Sheet Methodology](http://fds.design/).
+
+After you have submitted your proposal, I will coordinate times to meet with groups during office hours to provide feedback.
 
 ## Prototype
 
@@ -126,14 +139,16 @@ Please email me, directly, your peer assessment.
 
 ## Schedule and Project Assessment
 
-* Team formation and project proposal: 15%
-	* Due: TBA
+* Team Formation: 5%
+	* Due: October 28
+* Project proposal: 10%
+	* Due: November 4
 * Prototype: 25%
-	* Due: TBA
+	* Due: November 18
 * Presentation: 10%
 	* To be held: week of December 1
 * Final Project Submission: 50%
-	* Due: TBA
+	* Due: December 11
 
 ## Acknowledgements
 
