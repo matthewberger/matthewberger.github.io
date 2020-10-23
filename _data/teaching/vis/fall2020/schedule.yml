@@ -99,13 +99,14 @@
   wednesday-recommended-reading: "[GeoVis Design](https://vanderbilt.box.com/s/qpqld4ag86c6wv79fx3x2pj4d15p9ikm), [User-Centered Visualization Design](https://vanderbilt.box.com/s/agl7im5fo4y8hycqn1pi9gz9hdl3z2jd)"
   friday-title: "Design and Redesign"
   friday-recommended-reading: "[Design and Redesign](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9), [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)"
-  friday-assignment: "[Programming Assignment 4](https://observablehq.com/d/f848866eabb931d4) **Due**"
+  friday-assignment: "[Programming Assignment 4](https://observablehq.com/d/f848866eabb931d4) **Due** [Programming Assignment 5](https://observablehq.com/d/f75505df6aa4d5a1) **Posted**"
 
 - week-title: "Dimensionality Reduction"
   week-date: "October 26"
   monday-title: "Principal Component Analysis"
   wednesday-title: "tSNE"
   friday-title: "TBA"
+  friday-assignment: "[Programming Assignment 5](https://observablehq.com/d/f75505df6aa4d5a1) **Due**"
 
 - week-title: "Uncertainty Visualization"
   week-date: "November 2"
