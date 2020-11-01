@@ -142,7 +142,7 @@ Please email me, directly, your peer assessment.
 * Team Formation: 5%
 	* Due: October 28
 * Project proposal: 10%
-	* Due: November 4
+	* Due: November 6
 * Prototype: 25%
 	* Due: November 18
 * Presentation: 10%
