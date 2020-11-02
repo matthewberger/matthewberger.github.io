@@ -113,6 +113,12 @@
 
 - week-title: "Uncertainty Visualization"
   week-date: "November 2"
+  monday-title: "DR wrap-up, Visually communicating uncertainty"
+  monday-required-reading: "[Dot Plots](https://vanderbilt.box.com/s/2njeoztgjurd469046tpg9x5s7mxbtgy), [When(ish) is my bus?](https://vanderbilt.box.com/s/kv7eywletx1bhup730cw92zqgbqurc48)"
+  wednesday-title: "Visually comparing distributions"
+  wednesday-required-reading: "[Visualizing Summary Statistics](https://vanderbilt.box.com/s/hw8yszmtep0v6u0y41zfm4cmzbgvs6ou), [Hypothetical Outcome Plots](https://vanderbilt.box.com/s/j7f6pzc4rwh7c6zrxagszhk3a7xazx94)"
+  friday-title: "Uncertainty in spatial data"
+  friday-required-reading: "[Uncertainty Palettes](https://vanderbilt.box.com/s/27f8xrz8tx22d8tpuk3j0n3ewyrtgkig), [Hurricane Prediction Ensembles](https://vanderbilt.box.com/s/shxim83mbx375gpd826ohprrma2grfl8)"
 
 - week-title: "Evaluating Visualization"
   week-date: "November 9"
