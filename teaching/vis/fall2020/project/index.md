@@ -52,12 +52,14 @@ A **design study** is concerned with building a visual interface to understand a
 
 ## Milestones
 
-For the project, there are a sequence of milestones that you must meet at their specified due dates. Unlike assignments, there will be **no credit** given to milestones that are submitted late. The milestones are intended to keep you on track for the project, to make sure that the choices you are making for the project are sound. Milestones for the project are:
+For the project, there are a sequence of milestones that you must meet at their specified due dates. The milestones are intended to keep you on track for the project, to make sure that the choices you are making for the project are sound. Milestones for the project are:
 
 * **Project formation**
 * **Project proposal**
 * **Project prototype**
 * **Presentation and final project submission**
+
+**Update on late assignments**: I will permit 1-day late submissions, taking 10 points off, for each of the milestones.
 
 ## Project Formation
 
