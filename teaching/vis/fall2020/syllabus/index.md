@@ -175,8 +175,8 @@ See [resources](/teaching/vis/fall2020/resources).
 
 ## Assessment
 
-* Programming Assignments: 45%
-* Written Assignments: 15%
+* Programming Assignments: 50%
+* Written Assignments: 10%
 * Project: 25%
 * Final Exam : 10%
 * Class Participation: 5%
