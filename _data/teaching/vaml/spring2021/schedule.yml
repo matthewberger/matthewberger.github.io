@@ -4,6 +4,7 @@
   monday-required-reading: "[Visual analytics agenda](https://vanderbilt.box.com/s/iq56emx0mj70yuyow3yewes302v5647q), [Scope of visual analytics](https://vanderbilt.box.com/s/7v4k0pr93i85q67x6jsqrn94a1hry2m0)"
   wednesday-title: "Fundamentals of Data Visualization: Visual Encodings, Perceptual Principles"
   wednesday-required-reading: "[A Layered Grammar of Graphics](https://vanderbilt.box.com/s/beepux7f4xk9gs3naxnfni8jpsfnn4d5), [Vega-Lite](https://vanderbilt.box.com/s/q1jq9q0j4zobzmq4wqfqaet1vuagugct), [Which Visualization?](http://experception.net/Franconeri_ExperCeptionDotNet_DataVisQuickRef.pdf)"
+  wednesday-assignment: "[Assignment 1](https://observablehq.com/d/3823c0348633f8f9) **Posted**"
 
 - week-title: "Authoring Visualizations with D3 and Observable"
   week-date: "February 1"
@@ -11,6 +12,8 @@
   monday-required-reading: "see [resources](/teaching/vaml/spring2021/resources)"
   wednesday-title: "Designing visualizations with D3"
   wednesday-required-reading: "see [resources](/teaching/vaml/spring2021/resources)"
+  friday-title: ""
+  friday-assignment: "[Assignment 1](https://observablehq.com/d/3823c0348633f8f9) **Due**"
 
 - week-title: "Interactive Machine Learning"
   week-date: "February 8"

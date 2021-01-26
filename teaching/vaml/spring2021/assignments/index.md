@@ -100,3 +100,7 @@ Given an assignment's notebook, accessible as a **shared** notebook provided on 
 	* Alternatively, you may not wish to have your notebook accessible via a given URL, and this is totally understandable. Though Observable will not index and make publicly available the notebook, it is possible some _other_ search engine could. So, as an alternative, you can submit your **private** notebook. You will need to download the notebook	via the "Download code" option (shown in the above image). This will produce a compressed (tgz) file, and this file should be what is submitted to Brightspace, in addition to Python code (if required).
 
 One final note: **never publish your assignments.** Anyone can access the solution to your assignment by simply going to your Observable home page. I can only treat this as a form of copying.
+
+## Programming Assignment 1
+
+Visually analyzing model predictions ([link](https://observablehq.com/d/3823c0348633f8f9))
