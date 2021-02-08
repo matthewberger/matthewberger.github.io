@@ -104,3 +104,7 @@ One final note: **never publish your assignments.** Anyone can access the soluti
 ## Programming Assignment 1
 
 Visually analyzing model predictions ([link](https://observablehq.com/d/3823c0348633f8f9))
+
+## Programming Assignment 2.1
+
+Visually analzying dimensionality reduction and clustering ([link](https://observablehq.com/d/30cbde3f866d24c6))
