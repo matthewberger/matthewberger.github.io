@@ -17,7 +17,7 @@
 
 - week-title: "Interactive Machine Learning"
   week-date: "February 8"
-  monday-title: "Components of visual analytics  [slides](https://vanderbilt.box.com/s/d1exhdhhhf734op7rr9lazpkhw39ejx8), [pdf](https://vanderbilt.box.com/s/v9pa0mftew4hh1p9gzlar6ucdmvopj6a)"
+  monday-title: "Components of visual analytics [slides](https://vanderbilt.box.com/s/d1exhdhhhf734op7rr9lazpkhw39ejx8), [pdf](https://vanderbilt.box.com/s/v9pa0mftew4hh1p9gzlar6ucdmvopj6a)"
   monday-required-reading: "[Knowledge generation in visual analytics](https://vanderbilt.box.com/s/u8aukfts67enemgshwlh497p3zzgbqv7), [What may visualization processes optimize?](https://vanderbilt.box.com/s/u8aukfts67enemgshwlh497p3zzgbqv7)"
   monday-assignment: "[Assignment 2.1](https://observablehq.com/d/30cbde3f866d24c6) **Posted**"
   wednesday-title: "Interactive Machine Learning [Interaction basics notebook](https://observablehq.com/d/b6371ba77e18793f), [BERT probing notebook](https://observablehq.com/d/ad7e95e3075c1ab2)"
@@ -25,7 +25,7 @@
 
 - week-title: "Mixed-Initiative Visual Exploration, Pt. 1"
   week-date: "February 15"
-  monday-title: "Steerable Dimensionality Reduction, Pt. 1 [iPCA notebook](https://observablehq.com/d/65367ceb3cb51c22)"
+  monday-title: "Steerable Dimensionality Reduction, Pt. 1 [slides](https://vanderbilt.box.com/s/umyf33f6cuj5ghp4cqeep6i7lqeboqrg), [pdf](https://vanderbilt.box.com/s/vcdzmrranms4xly2zt82cexvc5hxlkt4) [iPCA notebook](https://observablehq.com/d/65367ceb3cb51c22)"
   monday-required-reading: "[Visual Dimensionality Reduction](https://vanderbilt.box.com/s/0emkczepk24uxcvmh4yno43kemjzjq3n), [iPCA](https://vanderbilt.box.com/s/ie8r7pi2k30p9n05v5l6j0bix89p9vd2), [Contrastive Learning](https://vanderbilt.box.com/s/at92t9pma1mqq5ha7yqg6dw3bib5rtnu), [Brushing Dimensions](https://vanderbilt.box.com/s/2s85x7isc5q9txse3j7yni2zmuyf5u3c)"
   wednesday-title: "Steerable Dimensionality Reduction, Pt. 2"
   wednesday-required-reading: "[Spatialization Semantics](https://vanderbilt.box.com/s/c9i1s1krmepqytbho6e3uje96wvoqjqf), [InterAxis](https://vanderbilt.box.com/s/mguojji8giumaktzo5m2q9g19xs9gc5j), [AxiSketcher](https://vanderbilt.box.com/s/cc56z5qsw7xjqjhe08qt88sqst1w66j9), [Steerable tSNE](https://vanderbilt.box.com/s/rp0ft0ysagbbjppz10houvvfq6c0t8ue)"
