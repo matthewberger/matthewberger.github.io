@@ -59,7 +59,8 @@
   wednesday-title: "Student presentations: [Manifold](https://vanderbilt.box.com/s/05gxnzrtytzg3f68mjhxl2cleqq85fzd), [GAN Training Analysis](https://vanderbilt.box.com/s/97bifntcv1iq3hrsjbx10zaqd9abbirs)"
 
 - week-title: "Visual Analytics for Model Understanding, Pt. 2"
-  monday-title: "Language Models"
+  monday-assignment: "[Assignment 3](https://observablehq.com/d/d86da93f3d377952) **Posted**"
+  monday-title: "CNNs continued, Language Models"
   monday-required-reading: "[Semantics in Word Embeddings](https://vanderbilt.box.com/s/tlf8wzju40rv933a29vft49dz8zblpwy), [Interactions with Word Embeddings](https://vanderbilt.box.com/s/dy95g2c2y3b3to4p8buk7hs453no4z9l), [NLIZE](https://vanderbilt.box.com/s/puvvwqlt6u9m0rp02t3px6kwpqwrqujp)"
   week-date: "March 22"
   wednesday-title: "Student presentations: [DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a), [SEQ2SEQ-VIS](https://vanderbilt.box.com/s/zrvj3ldvkjrmqbj7os6eo0kukwpbcmdc)"
@@ -79,6 +80,7 @@
 
 - week-title: "Visual Analytics for Model Training, Pt. 3"
   week-date: "April 12"
+  monday-assignment: "[Assignment 3](https://observablehq.com/d/d86da93f3d377952) **Due**"
   monday-title: "Student presentations: [Speculative Execution Topic Modeling](https://vanderbilt.box.com/s/zwk734a5qgzzxcsrvay1jwctirnlsqhp), [Interactive Steering of Hierarchical Clustering](https://vanderbilt.box.com/s/ifvxvcfexmp7qbh2bwu0i5uux0hoqdvh)"
   wednesday-title: "Ensembles"
   wednesday-required-reading: "[BEAMES](https://vanderbilt.box.com/s/5w8ms7lhlg19wcle9rfqjizfzvho1jje), [Data-Model Ensemble](https://vanderbilt.box.com/s/djc4tw63bpped1f3cxsc276h0g1yz5a2), [Visual Architecture Search](https://vanderbilt.box.com/s/r7885m3qwj48fm07elxmllgahzwpkjrr)"
