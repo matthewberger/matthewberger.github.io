@@ -90,7 +90,7 @@ You should have a working prototype of your project in place. The basics should 
 
 ## Project Presentation
 
-Each team will have 10 minutes to present their project. Your presentation should include the following:
+Each team will have 5 minutes to present their project. Your presentation should include the following:
 
 * Recap the problem you are addressing.
 * Discuss the data, and machine learning models, that your project uses.
