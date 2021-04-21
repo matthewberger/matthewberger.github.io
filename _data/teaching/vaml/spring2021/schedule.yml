@@ -63,18 +63,18 @@
   monday-title: "CNNs continued, Language Models [slides](https://vanderbilt.box.com/s/cw990tr6eg0qbovql1mepkxbvaj7hwky), [pdf](https://vanderbilt.box.com/s/il56mb96j64tao3dd86r0k4ip8xptvrr)"
   monday-required-reading: "[Semantics in Word Embeddings](https://vanderbilt.box.com/s/tlf8wzju40rv933a29vft49dz8zblpwy), [Interactions with Word Embeddings](https://vanderbilt.box.com/s/dy95g2c2y3b3to4p8buk7hs453no4z9l), [NLIZE](https://vanderbilt.box.com/s/puvvwqlt6u9m0rp02t3px6kwpqwrqujp)"
   week-date: "March 22"
-  wednesday-title: "Student presentations: [DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a), [SEQ2SEQ-VIS](https://vanderbilt.box.com/s/zrvj3ldvkjrmqbj7os6eo0kukwpbcmdc)"
+  wednesday-title: "Student presentations: [DeepEyes](https://vanderbilt.box.com/s/c8neuumsbmc4pdpz7pkz4c9ub8djlj2a), [SEQ2SEQ-VIS](https://vanderbilt.box.com/s/zrvj3ldvkjrmqbj7os6eo0kukwpbcmdc), [slides](https://vanderbilt.box.com/s/utyqv67ldwqds9gqu62uqe5eyjg49q97), [pdf](https://vanderbilt.box.com/s/ch4aa4te9s2z95p27btzjf4xsql0ahd4)"
 
 - week-title: "Visual Analytics for Model Training, Pt. 1"
   week-date: "March 29"
   monday-title: "Student presentations: [Tempura](https://vanderbilt.box.com/s/dyq65x322bs9lbkz03wv6s0eat0et7ti), [Diagnosing Concept Drift](https://vanderbilt.box.com/s/7k43yita0yex616srntge0ys65dhiiav)"
-  wednesday-title: "Interactive Model Training"
+  wednesday-title: "Interactive Model Training [slides](https://vanderbilt.box.com/s/8lqjinl9sglqe5mxlq1bwle00s974a24), [pdf](https://vanderbilt.box.com/s/rauj3ws3489pi5eeqnj3sptilsj13pqq)"
   wednesday-required-reading: "[iVisClassifier](https://vanderbilt.box.com/s/fd7fj0mmnhnz5rrg61qryx0lf6w70djy), [Visual Document Classifier](https://vanderbilt.box.com/s/53nepj1ho250hi2dpekvz2ffi0fvhg9t), [Video Classifiers](https://vanderbilt.box.com/s/i1gu8getjai670wmnuyqlc466mdcx1a7), [Incremental Visual Data Classification](https://vanderbilt.box.com/s/c09fc9wdnx6gjbao82i9usgutky86ql6)"
   wednesday-assignment: "Project Prototypes **Due**"
 
 - week-title: "Visual Analytics for Model Training, Pt. 2"
   week-date: "April 5"
-  monday-title: "Constructing Topic Models"
+  monday-title: "Constructing Topic Models [slides](https://vanderbilt.box.com/s/fneeuvllj1vridhba5kq07xhtcs4vhcw), [pdf](https://vanderbilt.box.com/s/gdl2yx3yltojkxedcyduhmr8uox72d9n)"
   monday-required-reading: "[UTOPIAN](https://vanderbilt.box.com/s/ezkrjl5cfr04hu9rygzu9ww5av62wjar), [Progressively Learning Topic Models](https://vanderbilt.box.com/s/6js9h6cq6gomdpcjyqajvvb0ore7hrco), [HitL Topic Modeling](https://vanderbilt.box.com/s/w82ebgiapy9bvy7pkotx3jn4b2q0e20i), [ALTO](https://vanderbilt.box.com/s/9d378nreprm3gj5vzsqg1nyge5x482rj)"
   wednesday-title: "Project Discussions"
 
@@ -82,12 +82,12 @@
   week-date: "April 12"
   monday-assignment: "[Assignment 3](https://observablehq.com/d/d86da93f3d377952) **Due**"
   monday-title: "Student presentations: [Speculative Execution Topic Modeling](https://vanderbilt.box.com/s/zwk734a5qgzzxcsrvay1jwctirnlsqhp), [Interactive Steering of Hierarchical Clustering](https://vanderbilt.box.com/s/ifvxvcfexmp7qbh2bwu0i5uux0hoqdvh)"
-  wednesday-title: "Ensembles"
+  wednesday-title: "Ensembles [slides](https://vanderbilt.box.com/s/kuucq3q46vztveztdjaratf31ees0kr8), [pdf](https://vanderbilt.box.com/s/t1rn9ms9gaedikx32mnrvsrz4ls1ngz3)"
   wednesday-required-reading: "[BEAMES](https://vanderbilt.box.com/s/5w8ms7lhlg19wcle9rfqjizfzvho1jje), [Data-Model Ensemble](https://vanderbilt.box.com/s/djc4tw63bpped1f3cxsc276h0g1yz5a2), [Visual Architecture Search](https://vanderbilt.box.com/s/r7885m3qwj48fm07elxmllgahzwpkjrr)"
 
 - week-title: "Learning for Vis, Pt. 1"
   week-date: "April 19"
-  monday-title: "(Semi-)automatically generating statistical graphics and graph layouts"
+  monday-title: "(Semi-)automatically generating statistical graphics and graph layouts [slides](https://vanderbilt.box.com/s/yfh7k548c3i9vxi23pr74v23b15reuhw), [pdf](https://vanderbilt.box.com/s/xao4ivhasbsyabwsjv4u7endb18lcrlt)"
   monday-required-reading: "[Draco](https://vanderbilt.box.com/s/80iu0olnanfgt27cde0zkylj51bxk5hs), [Data2Vis](https://vanderbilt.box.com/s/xzyjybg8ai45b8a4gsolc9iyiugl2kqm), [Deep Drawing](https://vanderbilt.box.com/s/1c61ikxa0qmyi4v5k9gye6j3f3eezia9), [Graph Latent Spaces](https://vanderbilt.box.com/s/lm51b4jxscwtmfnqk3a43u7337vlto6l)"
   wednesday-title: "Student presentations: [iSeqL](https://vanderbilt.box.com/s/6snrnv7gc2hy9h7mvthcfh3yuxtyrwm2), [PlotThread](https://vanderbilt.box.com/s/oazs59qb5g3r46nixlita832p0wk08xp)"
 
