@@ -28,6 +28,30 @@ author: Blah
 }
 </style>
 
-# Project Webpage for Neural Volume Visualization
+# Neural Volume Visualization
 
-Under Construction
+{% include image.html url="/projects/nvv/images/NSF_logo.png" caption="NSF" width=128 align="left" %}
+
+This webpage serves as the central hub for the collaborative NSF project Neural Volume Visualization.
+
+## Principal Investigators
+
+[Matthew Berger](https://matthewberger.github.io), Vanderbilt University, [NSF-2007444](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007444)
+
+[Joshua A. Levine](https://jalevine.bitbucket.io/), University of Arizona, [NSF-2006710](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006710)
+
+## Publications
+
+<img align="left" src="/projects/nvv/images/neurcomp.png" width=128 height=128 style="padding-right: 5px;">
+
+Yuzhe Lu, Kairong Jiang, Joshua A. Levine, Matthew Berger<br>
+Compressive Neural Representations of Volumetric Scalar Fields<br>
+EuroVis, 2021<br>
+([paper](http://dx.doi.org/https://doi.org/10.1111/cgf.14295)), ([project](https://github.com/matthewberger/neurcomp))<br><br><br>
+
+<img align="left" src="/projects/nvv/images/pragma.png" width=128 height=128 style="padding-right: 5px;">
+
+Roza G. Bayrak, Nhung Hoang, Colin B. Hansen, Catie Chang, Matthew Berger<br>
+PRAGMA: Interactively Constructing Functional Brain Parcellations<br>
+IEEE Visualization Conference, 2021<br>
+([paper](https://doi.org/10.1109/VIS47514.2020.00016))
