@@ -34,6 +34,8 @@ author: Blah
 
 This webpage serves as the central hub for the collaborative NSF project Neural Volume Visualization.
 
+The focus of this project is on the development of deep learning-based volume visualization techniques that are compressive, interactive, trustworthy, and enable intuitive analysis. These goals are motivated by the demands placed by data produced in a variety of scientific fields, wherein the size and complexity of the data necessitates new techniques for visual analysis.
+
 ## Principal Investigators
 
 [Matthew Berger](https://matthewberger.github.io), Vanderbilt University, [NSF-2007444](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2007444)
