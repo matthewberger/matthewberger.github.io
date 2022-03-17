@@ -1,0 +1,11 @@
+# Submissions
+{% for sub in site.data.subs %}
+
+<img class="" style="float: left;" hspace="10" align="left" src="{{ sub.snap }}" />
+{{ sub.authors | join: ', '}} <br/>
+{{ sub.title }} <br/>
+{% if sub.pubinfo %} {{sub.pubinfo}}, {% endif %} {{ sub.date }} <br/>
+{% if sub.pdf %} (<a href="{{sub.pdf}}">pdf</a>) {% endif %} {% if sub.arxiv %} (<a href="{{sub.arxiv}}">arxiv</a>) {% endif %} {% if sub.doi %} (<a href="{{sub.doi}}">doi</a>) {% endif %} {% if sub.video %} (<a href="{{sub.video}}">video</a>) {% endif %} {% if sub.project %} (<a href="{{sub.project}}">project</a>) {% endif %} <br/>
+<br/>
+
+{% endfor %}

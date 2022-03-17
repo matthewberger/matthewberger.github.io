@@ -1,0 +1,216 @@
+- title: "Compressive Neural Representations of Volumetric Scalar Fields"
+  arxiv: "https://arxiv.org/abs/2104.04523"
+  snap: "/papersnaps/neurcomp.jpg"
+  project: "https://github.com/matthewberger/neurcomp"
+  pubinfo: "EuroVis"
+  date: "2021"
+  authors: ["Yuzhe Lu", "Kairong Jiang", "Joshua A. Levine", "Matthew Berger"]
+
+- title: "Integration-Aware Vector Field Upsampling"
+  doi: "https://diglib.eg.org/handle/10.2312/evs20211054"
+  snap: "/papersnaps/iavfs.jpg"
+  pubinfo: "EuroVis Short Papers"
+  date: "2021"
+  authors: ["Saroj Sahoo", "Matthew Berger"]
+
+- title: "Evaluating Input Domain and Model Selection for Deep Network Ultrasound Beamforming"
+  doi: "https://ieeexplore.ieee.org/abstract/document/9371734"
+  snap: "/papersnaps/domain-evaluate.jpg"
+  pubinfo: "IEEE UFFC"
+  date: "2021"
+  authors: ["Jaime Tierney", "Adam Luchies", "Matthew Berger", "Brett Byram"]
+
+- title: "Attention Flows: Analyzing and Comparing Attention Mechanisms in Language Models"
+  pdf: "/papers/attentionflows.pdf"
+  snap: "/papersnaps/attentionflows.png"
+  pubinfo: "IEEE VAST"
+  notebook: "https://observablehq.com/@mattberger/attention-flows"
+  date: "2020"
+  authors: ["Joseph DeRose", "Jiayao Wang", "Matthew Berger"]
+
+- title: "Visually Analyzing Contextualized Embeddings"
+  pdf: "/papers/context.pdf"
+  snap: "/papersnaps/context.png"
+  pubinfo: "IEEE Vis Short Papers"
+  notebook: "https://observablehq.com/@mattberger/visually-analyzing-contextualized-embeddings"
+  date: "2020"
+  authors: ["Matthew Berger"]
+
+- title: "Visually Analyzing and Steering Zero Shot Learning"
+  pdf: "/papers/zsl.pdf"
+  snap: "/papersnaps/zsl.png"
+  pubinfo: "IEEE Vis Short Papers"
+  date: "2020"
+  authors: ["Saroj Sahoo", "Matthew Berger"]
+
+- title: "PRAGMA: Interactively Constructing Functional Brain Parcellations"
+  pdf: "/papers/pragma.pdf"
+  snap: "/papersnaps/pragma.png"
+  pubinfo: "IEEE Vis Short Papers"
+  award: "Best Paper Honorable Mention"
+  date: "2020"
+  authors: ["Roza G. Bayrak", "Nhung Hoang", "Colin B. Hansen", "Catie Chang", "Matthew Berger"]
+
+- title: "Domain Adaptation for Ultrasound Beamforming"
+  pdf: "/papers/daub.pdf"
+  snap: "/papersnaps/daub.png"
+  pubinfo: "MICCAI"
+  date: "2020"
+  authors: ["Jaime Tierney", "Adam Luchies", "Christopher Kahn", "Brett Byram", "Matthew Berger"]
+
+- title: "Visualization of Unsteady Flow Using Heat Kernel Signatures"
+  pdf: "/papers/flowhks.pdf"
+  snap: "/papersnaps/flowhks.png"
+  pubinfo: "IEEE PacificVis"
+  date: "2020"
+  authors: ["Kairong Jiang", "Matthew Berger", "Joshua A. Levine"]
+
+- title: "A Generative Model for Volume Rendering"
+  arxiv: "https://arxiv.org/abs/1710.09545"
+  snap: "/papersnaps/tfgan.jpg"
+  video: "/videos/tfgan.mp4"
+  project: "https://github.com/matthewberger/tfgan"
+  pubinfo: "IEEE TVCG"
+  date: "2019"
+  authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
+
+- title: "NNCubes: Learned Structures for Visual Data Exploration"
+  arxiv: "https://arxiv.org/abs/1808.08983"
+  snap: "/papersnaps/nncubes.png"
+  pubinfo: "arXiv"
+  date: "2018"
+  authors: ["Zhe Wang", "Dylan Cashman", "Mingwei Li", "Jixian Li", "Matthew Berger", "Joshua A. Levine", "Remco Chang", "Carlos Scheidegger"]
+
+- title: "Visual Supervision in Bootstrapped Information Extraction"
+  snap: "/papersnaps/visboot.png"
+  pdf: "papers/visboot.pdf"
+  poster: "posters/visboot-poster.pdf"
+  supplemental: "supplemental/visboot.html"
+  pubinfo: "EMNLP"
+  date: "2018"
+  authors: ["Matthew Berger", "Ajay Nagesh", "Joshua A. Levine", "Mihai Surdeanu", "Helen Zhang"]
+
+- title: "Topological Eulerian Synthesis of Slow Motion Periodic Videos"
+  pdf: "http://www.ctralie.com/Research/SloMoLoops/paper.pdf"
+  snap: "/papersnaps/slomo.gif"
+  project: "https://github.com/ctralie/SloMoLoops"
+  pubinfo: "ICIP"
+  date: "2018"
+  authors: ["Christopher J. Tralie", "Matthew Berger"]
+
+- title: "Visualizing Time-Varying Particle Flows with Diffusion Geometry"
+  arxiv: "https://arxiv.org/abs/1708.03686"
+  snap: "/papersnaps/flowdiffusionmap.jpg"
+  video: "/videos/flowdiffusionmap.mp4"
+  pubinfo: "arXiv"
+  date: "2017"
+  authors: ["Matthew Berger", "Joshua A. Levine"]
+
+- title: "A Survey of Surface Reconstruction from Point Clouds"
+  pdf: "papers/reconsurvey.pdf"
+  snap: "/papersnaps/pacmanrecon.png"
+  pubinfo: "Computer Graphics Forum (extended version of STAR)"
+  date: "2017"
+  authors: ["Matthew Berger", "Andrea Tagliasacchi", "Lee M. Seversky", "Pierre Alliez", "Gael Guennebaud", "Joshua A. Levine", "Andrei Sharf", "Claudio T. Silva"]
+
+- title: "cite2vec: Citation-Driven Document Exploration via Word Embeddings"
+  pdf: "/papers/cite2vec.pdf"
+  snap: "/papersnaps/cite2vec.jpg"
+  video: "/videos/cite2vec.mp4"
+  pubinfo: "IEEE InfoVis"
+  date: "2016"
+  authors: ["Matthew Berger", "Katherine McDonough", "Lee M. Seversky"]
+
+- title: "On Time-Series Topological Data Analysis: New Data and Opportunities"
+  pdf: "http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w23/papers/Seversky_On_Time-Series_Topological_CVPR_2016_paper.pdf"
+  project: "https://github.com/gpersistence/tstop"
+  snap: "/papersnaps/tstopo.jpg"
+  pubinfo: "CVPR Workshop on Differential Geometry in Computer Vision and Machine Learning"
+  date: "2016"
+  authors: ["Lee M. Seversky", "Shelby Davis", "Matthew Berger"]
+
+- title: "Spatial Active Learning for Cost-Effective Sensing and Feature Extraction"
+  pdf: "/papers/sal.pdf"
+  snap: "/papersnaps/sal.jpg"
+  pubinfo: "ICML Workshop in Data-Efficient Machine Learning"
+  date: "2016"
+  authors: ["Matthew Berger", "Lucas Magee", "Eric Heim", "Lee M. Seversky"]
+
+- title: "Classifying Swarm Behavior via Compressive Subspace Learning"
+  pdf: "/papers/swarm.pdf"
+  snap: "/papersnaps/swarm.jpg"
+  pubinfo: "ICRA"
+  date: "2016"
+  authors: ["Matthew Berger", "Lee M. Seversky", "Daniel S. Brown"]
+
+- title: "Efficient Online Relative Comparison Kernel Learning"
+  pdf: "/papers/eorckle.pdf"
+  snap: "/papersnaps/eorckle.jpg"
+  pubinfo: "SDM"
+  date: "2015"
+  authors: ["Eric Heim", "Matthew Berger", "Lee M. Seversky", "Milos Hauskrecht"]
+
+- title: "Matrix Completion with Columns in Union and Sums of Subspaces"
+  pdf: "https://ecse.rpi.edu/~wang/pub/GlobalSIP2015.pdf"
+  snap: "/papersnaps/uos.jpg"
+  pubinfo: "GlobalSIP"
+  date: "2015"
+  authors: ["Pengzhi Gao", "Meng Wang", "Joe H. Chow", "Matthew Berger", "Lee M. Seversky"]
+
+- title: "Subspace Tracking Under Dynamic Dimensionality for Online Background Subtraction"
+  pdf: "http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Berger_Subspace_Tracking_under_2014_CVPR_paper.pdf"
+  snap: "/papersnaps/studd.jpg"
+  pubinfo: "CVPR"
+  date: "2014"
+  authors: ["Matthew Berger", "Lee M. Seversky"]
+
+- title: "State of the Art in Surface Reconstruction from Point Clouds"
+  pdf: "papers/reconstar.pdf"
+  project: "http://lgg.epfl.ch/publications/2014/reconstar/index.php"
+  snap: "/papersnaps/reconstar.jpg"
+  pubinfo: "Eurographics (State of the Art Reports)"
+  date: "2014"
+  authors: ["Matthew Berger", "Andrea Tagliasacchi", "Lee M. Seversky", "Pierre Alliez", "Joshua A. Levine", "Andrei Sharf", "Claudio T. Silva"]
+
+- title: "Using Physically Based Rendering to Benchmark Structured Light Scanners"
+  pdf: "papers/sl.pdf"
+  snap: "/papersnaps/sl.jpg"
+  pubinfo: "Pacific Graphics"
+  date: "2014"
+  authors: ["Esdras Medeiros", "Harish Doraiswamy", "Matthew Berger", "Claudio T. Silva"]
+
+- title: "A Benchmark for Surface Reconstruction"
+  pdf: "papers/bench.pdf"
+  project: "http://reconbench.org"
+  snap: "/papersnaps/bench.jpg"
+  pubinfo: "ACM Transactions on Graphics"
+  date: "2013"
+  authors: ["Matthew Berger", "Joshua A. Levine", "Luis Gustavo Nonato", "Gabriel Taubin", "Claudio T. Silva"]
+
+- title: "Nonrigid Matching of Undersampled Shapes via Medial Diffusion"
+  pdf: "papers/mkmatch.pdf"
+  snap: "/papersnaps/mkmatch.jpg"
+  pubinfo: "Symposium on Geometry Processing"
+  date: "2012"
+  authors: ["Matthew Berger", "Claudio T. Silva"]
+
+- title: "Medial Kernels"
+  pdf: "papers/mk.pdf"
+  snap: "/papersnaps/mk.jpg"
+  pubinfo: "Eurographics"
+  date: "2012"
+  authors: ["Matthew Berger", "Claudio T. Silva"]
+
+- title: "Harmonic Point Cloud Orientation"
+  doi: "http://www.sciencedirect.com/science/article/pii/S0097849311000513"
+  snap: "/papersnaps/harmonic.jpg"
+  pubinfo: "Shape Modeling International"
+  date: "2011"
+  authors: ["Lee M. Seversky", "Matthew Berger", "Lijun Yin"]
+
+- title: "Fiedler Trees for Multiscale Surface Analysis"
+  pdf: "/papers/fiedler.pdf"
+  snap: "/papersnaps/fiedler.jpg"
+  pubinfo: "Shape Modeling International"
+  date: "2010"
+  authors: ["Matthew Berger", "Luis Gustavo Nonato", "Valerio Pascucci", "Claudio T. Silva"]

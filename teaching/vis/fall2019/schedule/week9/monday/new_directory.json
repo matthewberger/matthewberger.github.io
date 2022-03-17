@@ -1,0 +1,1340 @@
+{
+   "children": [
+      {
+         "name": ".DS_Store",
+         "value": 6148
+      },
+      {
+         "name": "index.md",
+         "value": 1310
+      },
+      {
+         "name": "notes.md",
+         "value": 11006
+      },
+      {
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 8196
+            },
+            {
+               "name": "index.md",
+               "value": 841
+            },
+            {
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "monday-2.key",
+                           "value": 17111829
+                        },
+                        {
+                           "name": "monday-2.pdf",
+                           "value": 11338364
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 2043685
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 432325
+                        }
+                     ],
+                     "name": "monday"
+                  }
+               ],
+               "name": "week8"
+            },
+            {
+               "children": [
+                  {
+                     "name": "streamgraphs-geometry.pdf",
+                     "value": 2150845
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "cartesian-vs-radial.pdf",
+                     "value": 2655452
+                  },
+                  {
+                     "name": "sizing-the-horizon.pdf",
+                     "value": 452911
+                  },
+                  {
+                     "name": "composite-view-designs.pdf",
+                     "value": 2294505
+                  },
+                  {
+                     "name": "atom.pdf",
+                     "value": 11135635
+                  },
+                  {
+                     "name": "multiple-views-consistent.pdf",
+                     "value": 8386631
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "example0-1.js",
+                           "value": 1492
+                        },
+                        {
+                           "name": "barley.json",
+                           "value": 8488
+                        },
+                        {
+                           "name": "example0-axes.js",
+                           "value": 556
+                        },
+                        {
+                           "name": "nba_players.csv",
+                           "value": 43452
+                        },
+                        {
+                           "name": "example1-axes.js",
+                           "value": 574
+                        },
+                        {
+                           "name": "example0-4.js",
+                           "value": 2282
+                        },
+                        {
+                           "name": "example0-0.js",
+                           "value": 1487
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 1242
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 1455
+                        },
+                        {
+                           "name": "examplex.js",
+                           "value": 290
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 5922
+                        },
+                        {
+                           "name": "example3.js",
+                           "value": 1782
+                        },
+                        {
+                           "name": "example2.js",
+                           "value": 810
+                        },
+                        {
+                           "name": "example0-3.js",
+                           "value": 2152
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 19589814
+                        },
+                        {
+                           "name": "example0-2.js",
+                           "value": 1758
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 15614614
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "example0-axes.js",
+                           "value": 721
+                        },
+                        {
+                           "name": "nba_players.csv",
+                           "value": 43452
+                        },
+                        {
+                           "name": "example1-axes.js",
+                           "value": 517
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 10263109
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 2075
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 12262884
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 1992
+                        },
+                        {
+                           "name": "wdi.csv",
+                           "value": 7733490
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 2450
+                        },
+                        {
+                           "name": "wdi.json",
+                           "value": 86399
+                        },
+                        {
+                           "name": "process_wdi.py",
+                           "value": 1479
+                        },
+                        {
+                           "name": "example0-sm-plot.js",
+                           "value": 873
+                        },
+                        {
+                           "name": "example0-horizon.js",
+                           "value": 582
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week6"
+            },
+            {
+               "children": [
+                  {
+                     "name": "plot5.json",
+                     "value": 628
+                  },
+                  {
+                     "name": "vis-zoo.pdf",
+                     "value": 6622372
+                  },
+                  {
+                     "name": "plot4.png",
+                     "value": 43856
+                  },
+                  {
+                     "name": "plot5.png",
+                     "value": 43280
+                  },
+                  {
+                     "name": "plot1.png",
+                     "value": 18458
+                  },
+                  {
+                     "name": "plot2.png",
+                     "value": 41956
+                  },
+                  {
+                     "name": "plot3.png",
+                     "value": 132229
+                  },
+                  {
+                     "name": "plot4.json",
+                     "value": 285
+                  },
+                  {
+                     "name": "wednesday.pdf",
+                     "value": 7234358
+                  },
+                  {
+                     "name": "plot3.json",
+                     "value": 231
+                  },
+                  {
+                     "name": "wednesday.key",
+                     "value": 5730290
+                  },
+                  {
+                     "name": "value.pdf",
+                     "value": 1086638
+                  },
+                  {
+                     "name": "plot2.json",
+                     "value": 264
+                  },
+                  {
+                     "name": "class-example-abstract-factory.png",
+                     "value": 17718
+                  },
+                  {
+                     "name": "old.pdf",
+                     "value": 9094398
+                  },
+                  {
+                     "name": "blah.png",
+                     "value": 98758
+                  },
+                  {
+                     "name": "plot1.json",
+                     "value": 257
+                  },
+                  {
+                     "name": "data_generator.py",
+                     "value": 250
+                  },
+                  {
+                     "name": "vis-mislead.pdf",
+                     "value": 3547937
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "data1.json",
+                           "value": 52356
+                        },
+                        {
+                           "name": "cars.json",
+                           "value": 100492
+                        }
+                     ],
+                     "name": "data"
+                  }
+               ],
+               "name": "week1"
+            },
+            {
+               "children": [
+                  {
+                     "name": "brushing-scatterplots.pdf",
+                     "value": 1735623
+                  },
+                  {
+                     "name": "brushing-pcs.pdf",
+                     "value": 2541739
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "eyeshaveit.pdf",
+                     "value": 803958
+                  },
+                  {
+                     "name": "configurable-brushing.pdf",
+                     "value": 15599015
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "example-axis-interaction.js",
+                           "value": 1269
+                        },
+                        {
+                           "name": "seattle.json",
+                           "value": 61077
+                        },
+                        {
+                           "name": "example7-brush.js",
+                           "value": 512
+                        },
+                        {
+                           "name": "example6-brush.js",
+                           "value": 639
+                        },
+                        {
+                           "name": "backup.js",
+                           "value": 969
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 2655
+                        },
+                        {
+                           "name": "cars.json",
+                           "value": 100492
+                        },
+                        {
+                           "name": "example5.js",
+                           "value": 2655
+                        },
+                        {
+                           "name": "example4.js",
+                           "value": 2655
+                        },
+                        {
+                           "name": "example2-click.js",
+                           "value": 320
+                        },
+                        {
+                           "name": "example3-click.js",
+                           "value": 453
+                        },
+                        {
+                           "name": "example-axis.js",
+                           "value": 3025
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 2591
+                        },
+                        {
+                           "name": "examplex.js",
+                           "value": 2503
+                        },
+                        {
+                           "name": "example7.js",
+                           "value": 2657
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 10027
+                        },
+                        {
+                           "name": "example3.js",
+                           "value": 2694
+                        },
+                        {
+                           "name": "example2.js",
+                           "value": 2655
+                        },
+                        {
+                           "name": "example5-mouse.js",
+                           "value": 288
+                        },
+                        {
+                           "name": "example4-mouse.js",
+                           "value": 174
+                        },
+                        {
+                           "name": "example6.js",
+                           "value": 2657
+                        },
+                        {
+                           "name": "seattle.csv",
+                           "value": 59536
+                        },
+                        {
+                           "name": "iris.json",
+                           "value": 15802
+                        },
+                        {
+                           "name": "example1-click.js",
+                           "value": 170
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 3243602
+                        },
+                        {
+                           "name": "example8.js",
+                           "value": 2657
+                        },
+                        {
+                           "name": "example-mean.js",
+                           "value": 3130
+                        },
+                        {
+                           "name": "example-mean-transition.js",
+                           "value": 1914
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 2027357
+                        },
+                        {
+                           "name": "example8-brush.js",
+                           "value": 732
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "pcp-interaction.js",
+                           "value": 945
+                        },
+                        {
+                           "name": "example0-axes.js",
+                           "value": 749
+                        },
+                        {
+                           "name": "nba_players.csv",
+                           "value": 43452
+                        },
+                        {
+                           "name": "weather.js",
+                           "value": 3961
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 5822606
+                        },
+                        {
+                           "name": "pcp.js",
+                           "value": 1430
+                        },
+                        {
+                           "name": "sm_zoom.js",
+                           "value": 2010
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 2383
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 7365665
+                        },
+                        {
+                           "name": "pcp-axes.js",
+                           "value": 569
+                        },
+                        {
+                           "name": "splom-axes.js",
+                           "value": 517
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 2310
+                        },
+                        {
+                           "name": "weather-interaction.js",
+                           "value": 1369
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 5728
+                        },
+                        {
+                           "name": "wdi.json",
+                           "value": 86399
+                        },
+                        {
+                           "name": "example0-interaction.js",
+                           "value": 711
+                        },
+                        {
+                           "name": "seattle.csv",
+                           "value": 59536
+                        },
+                        {
+                           "name": "splom.js",
+                           "value": 2144
+                        },
+                        {
+                           "name": "example0-sm-plot.js",
+                           "value": 899
+                        },
+                        {
+                           "name": "example0-horizon.js",
+                           "value": 582
+                        },
+                        {
+                           "name": "splom-interaction.js",
+                           "value": 1260
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week7"
+            },
+            {
+               "children": [
+                  {
+                     "name": "multilevel-layout.pdf",
+                     "value": 4795911
+                  },
+                  {
+                     "name": "force-directed-layout.pdf",
+                     "value": 1464621
+                  },
+                  {
+                     "name": "squarified-treemaps.pdf",
+                     "value": 470728
+                  },
+                  {
+                     "name": "tidier-drawings.pdf",
+                     "value": 2148329
+                  },
+                  {
+                     "name": "treemaps.pdf",
+                     "value": 983765
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "monday.key",
+                           "value": 11174384
+                        }
+                     ],
+                     "name": "monday"
+                  }
+               ],
+               "name": "week9"
+            },
+            {
+               "children": [
+                  {
+                     "name": "polaris.pdf",
+                     "value": 3351787
+                  },
+                  {
+                     "name": "layered-grammar.pdf",
+                     "value": 1186887
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "protovis.pdf",
+                     "value": 1173711
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "theme.css",
+                           "value": 98
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 436
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 164
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 10923
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 4966098
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 1565105
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "plot1.png",
+                           "value": 41956
+                        },
+                        {
+                           "name": "plot2.png",
+                           "value": 42066
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 5756840
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 7439415
+                        },
+                        {
+                           "name": "plot2.json",
+                           "value": 294
+                        },
+                        {
+                           "name": "plot1.json",
+                           "value": 293
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 8476
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 1311
+                        },
+                        {
+                           "children": [
+                              {
+                                 "name": "cars.json",
+                                 "value": 100492
+                              }
+                           ],
+                           "name": "data"
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week2"
+            },
+            {
+               "children": [
+                  {
+                     "name": "somewhere-over-the-rainbow.pdf",
+                     "value": 501787
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "design-study-methodology.pdf",
+                     "value": 262396
+                  },
+                  {
+                     "name": "scatterplots-tasks.pdf",
+                     "value": 4865221
+                  },
+                  {
+                     "name": "effective-colours.pdf",
+                     "value": 138949
+                  },
+                  {
+                     "name": "five-design-sheet.pdf",
+                     "value": 23234397
+                  },
+                  {
+                     "name": "task-based-color-design.pdf",
+                     "value": 268170
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "average-bar-6x6.png",
+                           "value": 12276
+                        },
+                        {
+                           "name": "normal.js",
+                           "value": 342
+                        },
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "average-rect-6x10.png",
+                           "value": 15697
+                        },
+                        {
+                           "name": "average-circle-6x10.png",
+                           "value": 25975
+                        },
+                        {
+                           "name": "averages.py",
+                           "value": 821
+                        },
+                        {
+                           "name": "average-bar-6x10.png",
+                           "value": 14137
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 4250
+                        },
+                        {
+                           "name": "rects.js",
+                           "value": 426
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 415
+                        },
+                        {
+                           "name": "average-circle-6x6.png",
+                           "value": 21901
+                        },
+                        {
+                           "name": "normal_data.py",
+                           "value": 596
+                        },
+                        {
+                           "name": "normals-3.png",
+                           "value": 35291
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 8473361
+                        },
+                        {
+                           "name": "bars.js",
+                           "value": 320
+                        },
+                        {
+                           "name": "normals-2.png",
+                           "value": 36445
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 6143030
+                        },
+                        {
+                           "name": "average-rect-6x6.png",
+                           "value": 13298
+                        },
+                        {
+                           "name": "scatter.js",
+                           "value": 320
+                        },
+                        {
+                           "name": "normals-1.png",
+                           "value": 35889
+                        },
+                        {
+                           "children": [
+                              {
+                                 "name": "rects-6x6.json",
+                                 "value": 933
+                              },
+                              {
+                                 "name": "points-6x10.json",
+                                 "value": 786
+                              },
+                              {
+                                 "name": "bars-6x6.json",
+                                 "value": 584
+                              },
+                              {
+                                 "name": "bars-6x10.json",
+                                 "value": 781
+                              },
+                              {
+                                 "name": "data1.json",
+                                 "value": 28171
+                              },
+                              {
+                                 "name": "rects-6x10.json",
+                                 "value": 1254
+                              },
+                              {
+                                 "name": "points-6x6.json",
+                                 "value": 585
+                              },
+                              {
+                                 "name": "data2.json",
+                                 "value": 27980
+                              },
+                              {
+                                 "name": "data3.json",
+                                 "value": 27837
+                              }
+                           ],
+                           "name": "data"
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "wednesday.key",
+                           "value": 15688731
+                        }
+                     ],
+                     "name": "monday-new"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 12831422
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 2562
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 20449774
+                        },
+                        {
+                           "name": "example5.js",
+                           "value": 816
+                        },
+                        {
+                           "name": "example4.js",
+                           "value": 1023
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 3114
+                        },
+                        {
+                           "name": "index-detailed.md",
+                           "value": 2863
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 2105
+                        },
+                        {
+                           "name": "example3.js",
+                           "value": 666
+                        },
+                        {
+                           "name": "example2.js",
+                           "value": 1445
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week5"
+            },
+            {
+               "children": [
+                  {
+                     "name": "08305493.pdf",
+                     "value": 2323233
+                  },
+                  {
+                     "name": "attentivevisualmemory.pdf",
+                     "value": 1948890
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "05613438.pdf",
+                     "value": 803262
+                  },
+                  {
+                     "name": "Haroz_Whitney_2012_InfoVis.pdf",
+                     "value": 2332784
+                  },
+                  {
+                     "name": "ranking-correlations.pdf",
+                     "value": 3278870
+                  },
+                  {
+                     "name": "ensemble-coding.pdf",
+                     "value": 1611319
+                  },
+                  {
+                     "name": "color-difference.pdf",
+                     "value": 793803
+                  },
+                  {
+                     "name": "graphical_perception.pdf",
+                     "value": 3160959
+                  },
+                  {
+                     "name": "perceptual_proxies.pdf",
+                     "value": 925329
+                  },
+                  {
+                     "name": "notes.md",
+                     "value": 161
+                  },
+                  {
+                     "name": "gestalt-2.pdf",
+                     "value": 118228
+                  },
+                  {
+                     "name": "attention-visual-memory.pdf",
+                     "value": 1722735
+                  },
+                  {
+                     "name": "gestalt-1.pdf",
+                     "value": 122243
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "enter-exit-update.pdf",
+                           "value": 166814
+                        },
+                        {
+                           "name": "enter-exit-update.ai",
+                           "value": 1784849
+                        },
+                        {
+                           "name": "nested-join.pdf",
+                           "value": 926633
+                        },
+                        {
+                           "name": "anest.pdf",
+                           "value": 926280
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 973
+                        },
+                        {
+                           "name": "cars.json",
+                           "value": 100492
+                        },
+                        {
+                           "name": "example5.js",
+                           "value": 1467
+                        },
+                        {
+                           "name": "example4.js",
+                           "value": 1150
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 982
+                        },
+                        {
+                           "name": "nested-join.ai",
+                           "value": 1790429
+                        },
+                        {
+                           "name": "example7.js",
+                           "value": 1250
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 14703
+                        },
+                        {
+                           "name": "example3.js",
+                           "value": 992
+                        },
+                        {
+                           "name": "index-all.md",
+                           "value": 15507
+                        },
+                        {
+                           "name": "example2.js",
+                           "value": 887
+                        },
+                        {
+                           "name": "example6.js",
+                           "value": 614
+                        },
+                        {
+                           "name": "example9.js",
+                           "value": 1714
+                        },
+                        {
+                           "name": "example8.js",
+                           "value": 1244
+                        },
+                        {
+                           "name": "example10.js",
+                           "value": 1600
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 6071637
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 1293
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 14981851
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 1423
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 3232
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week4"
+            },
+            {
+               "children": [
+                  {
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "example1.js",
+                           "value": 959
+                        },
+                        {
+                           "name": "example5.js",
+                           "value": 994
+                        },
+                        {
+                           "name": "example4.js",
+                           "value": 417
+                        },
+                        {
+                           "name": "example0.js",
+                           "value": 435
+                        },
+                        {
+                           "name": "example7.js",
+                           "value": 821
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 21602
+                        },
+                        {
+                           "name": "example3.js",
+                           "value": 297
+                        },
+                        {
+                           "name": "example2.js",
+                           "value": 1936
+                        },
+                        {
+                           "name": "example6.js",
+                           "value": 1445
+                        }
+                     ],
+                     "name": "monday"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "enter-exit-update.pdf",
+                           "value": 166814
+                        },
+                        {
+                           "name": "enter-exit-update.ai",
+                           "value": 1784849
+                        },
+                        {
+                           "name": "nested-join.pdf",
+                           "value": 926633
+                        },
+                        {
+                           "name": "nested-join.ai",
+                           "value": 1790429
+                        }
+                     ],
+                     "name": "wednesday"
+                  }
+               ],
+               "name": "week3"
+            }
+         ],
+         "name": "schedule"
+      },
+      {
+         "children": [
+            {
+               "name": "index.md",
+               "value": 1483
+            }
+         ],
+         "name": "assignments"
+      },
+      {
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "name": "banner.jpg",
+               "value": 1011225
+            },
+            {
+               "name": "bubble.png",
+               "value": 1782986
+            },
+            {
+               "name": "preattentive.png",
+               "value": 18750
+            },
+            {
+               "name": "heb.png",
+               "value": 854453
+            }
+         ],
+         "name": "images"
+      },
+      {
+         "children": [
+            {
+               "name": "index.md",
+               "value": 3017
+            }
+         ],
+         "name": "resources"
+      },
+      {
+         "children": [
+            {
+               "name": "index.md",
+               "value": 13179
+            }
+         ],
+         "name": "syllabus"
+      },
+      {
+         "children": [
+            {
+               "name": "index.md",
+               "value": 9475
+            }
+         ],
+         "name": "project"
+      },
+      {
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "children": [
+                  {
+                     "name": "midterm.aux",
+                     "value": 2585
+                  },
+                  {
+                     "name": "midterm.log",
+                     "value": 20883
+                  },
+                  {
+                     "name": "midterm_answers.tex",
+                     "value": 13697
+                  },
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "midterm_answers.pdf",
+                     "value": 672694
+                  },
+                  {
+                     "name": "midterm_answers.log",
+                     "value": 22287
+                  },
+                  {
+                     "name": "midterm_answers.aux",
+                     "value": 2585
+                  },
+                  {
+                     "name": "midterm.tex",
+                     "value": 8420
+                  },
+                  {
+                     "name": "questions.md",
+                     "value": 1079
+                  },
+                  {
+                     "name": "midterm.pdf",
+                     "value": 643622
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "index.html",
+                           "value": 275
+                        },
+                        {
+                           "name": "badvis.pdf",
+                           "value": 107849
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "badvis.js",
+                           "value": 1309
+                        }
+                     ],
+                     "name": "badvis"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "circles.html",
+                           "value": 775
+                        },
+                        {
+                           "name": "circles.pdf",
+                           "value": 46985
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        }
+                     ],
+                     "name": "circles"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "index.html",
+                           "value": 273
+                        },
+                        {
+                           "name": "smbad.pdf",
+                           "value": 322452
+                        },
+                        {
+                           "name": "smbad.js",
+                           "value": 3604
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        }
+                     ],
+                     "name": "smbad"
+                  },
+                  {
+                     "children": [
+                        {
+                           "name": "index.html",
+                           "value": 273
+                        },
+                        {
+                           "name": "size.js",
+                           "value": 990
+                        },
+                        {
+                           "name": "size.pdf",
+                           "value": 159074
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        }
+                     ],
+                     "name": "size"
+                  }
+               ],
+               "name": "midterm"
+            }
+         ],
+         "name": "exams"
+      }
+   ],
+   "name": "vis-fall2019"
+}

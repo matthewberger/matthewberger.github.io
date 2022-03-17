@@ -1,0 +1,11 @@
+# Publications
+{% for pub in site.data.pubs %}
+
+<img class="" style="float: left;" hspace="10" align="left" src="{{ pub.snap }}" />
+{{ pub.authors | join: ', '}} <br/>
+{{ pub.title }} <br/>
+{% if pub.pubinfo %} {{pub.pubinfo}}, {% endif %} {{ pub.date }} {% if pub.award %} <br> <b>{{pub.award}}</b> {% endif %} <br/>
+{% if pub.pdf %} (<a href="{{pub.pdf}}">pdf</a>) {% endif %} {% if pub.poster %} (<a href="{{pub.poster}}">poster</a>) {% endif %} {% if pub.arxiv %} (<a href="{{pub.arxiv}}">arXiv</a>) {% endif %} {% if pub.doi %} (<a href="{{pub.doi}}">doi</a>) {% endif %} {% if pub.video %} (<a href="{{pub.video}}">video</a>) {% endif %} {% if pub.project %} (<a href="{{pub.project}}">project</a>) {% endif %} {% if pub.notebook %} (<a href="{{pub.notebook}}">notebook</a>) {% endif %} {% if pub.supplemental %} (<a href="{{pub.supplemental}}">supplemental</a>) {% endif %} <br/>
+<br/>
+
+{% endfor %}

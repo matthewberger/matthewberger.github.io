@@ -1,0 +1,2380 @@
+{
+   "name": "vis-fall2018",
+   "children": [
+      {
+         "name": ".DS_Store",
+         "value": 6148
+      },
+      {
+         "name": "index.md",
+         "value": 1481
+      },
+      {
+         "name": "schedule",
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 8196
+            },
+            {
+               "name": "index.md",
+               "value": 853
+            },
+            {
+               "name": "week8",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "monday.key",
+                           "value": 2605201
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week6",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "index.md",
+                     "value": 884
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 8830403
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 6941619
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": "friday.pdf",
+                           "value": 17149698
+                        },
+                        {
+                           "name": "friday.key",
+                           "value": 18564111
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 6964511
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 8980180
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 125
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week1",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": "polaris_0.png",
+                           "value": 424146
+                        },
+                        {
+                           "name": "friday.pdf",
+                           "value": 5843579
+                        },
+                        {
+                           "name": "polaris_1.png",
+                           "value": 381788
+                        },
+                        {
+                           "name": "friday.key",
+                           "value": 12218212
+                        },
+                        {
+                           "name": "length_horsepower_price_size.pdf",
+                           "value": 106215
+                        },
+                        {
+                           "name": "price_bodytype_2.pdf",
+                           "value": 31969
+                        },
+                        {
+                           "name": "bodystyle_price_1d.pdf",
+                           "value": 138484
+                        },
+                        {
+                           "name": "T4_conus.png",
+                           "value": 50140
+                        },
+                        {
+                           "name": "bodystyle_horsepower_1d.pdf",
+                           "value": 79696
+                        },
+                        {
+                           "name": "length_horsepower.pdf",
+                           "value": 65347
+                        },
+                        {
+                           "name": "autovis2.html",
+                           "value": 4241
+                        },
+                        {
+                           "name": "length_horsepower_price_color.pdf",
+                           "value": 67544
+                        },
+                        {
+                           "name": "autovis.html",
+                           "value": 5573
+                        },
+                        {
+                           "name": "price_make_type.pdf",
+                           "value": 19843
+                        },
+                        {
+                           "name": "price_horsepower.pdf",
+                           "value": 88178
+                        },
+                        {
+                           "name": "autovis3.html",
+                           "value": 4627
+                        },
+                        {
+                           "name": "price_bodytype.pdf",
+                           "value": 32683
+                        },
+                        {
+                           "name": "bodystyle_price_2d.pdf",
+                           "value": 80829
+                        },
+                        {
+                           "name": "state_boundaries.gif",
+                           "value": 9641
+                        },
+                        {
+                           "name": "imports-85.csv",
+                           "value": 26216
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "flare_standard.jpg",
+                           "value": 145313
+                        },
+                        {
+                           "name": "horizon_graphs.jpg",
+                           "value": 133543
+                        },
+                        {
+                           "name": "network_graph.jpg",
+                           "value": 84744
+                        },
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "name_profiler_0.png",
+                           "value": 254328
+                        },
+                        {
+                           "name": "name_profiler_1.png",
+                           "value": 9220
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 12581618
+                        },
+                        {
+                           "name": "london_connections_full.jpg",
+                           "value": 1390765
+                        },
+                        {
+                           "name": "small_multiples.jpg",
+                           "value": 178314
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 31781916
+                        },
+                        {
+                           "name": "splom.jpg",
+                           "value": 212014
+                        },
+                        {
+                           "name": "time_series.jpg",
+                           "value": 151700
+                        },
+                        {
+                           "name": "london_connections_tubemap.gif",
+                           "value": 284314
+                        },
+                        {
+                           "name": "mosburger.jpg",
+                           "value": 237996
+                        },
+                        {
+                           "name": "london_connections_zoom.png",
+                           "value": 1785572
+                        },
+                        {
+                           "name": "pc.jpg",
+                           "value": 280553
+                        },
+                        {
+                           "name": "network_matrix.jpg",
+                           "value": 246585
+                        },
+                        {
+                           "name": "flare_nodelink_radial.jpg",
+                           "value": 195083
+                        },
+                        {
+                           "name": "streamgraph.jpg",
+                           "value": 162852
+                        },
+                        {
+                           "name": "donny_dont.jpg",
+                           "value": 157511
+                        },
+                        {
+                           "name": "flare_nodelink_cartesian.jpg",
+                           "value": 128587
+                        },
+                        {
+                           "name": "flare_treemap.jpg",
+                           "value": 293385
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week7",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "board.md",
+                           "value": 406
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 5512638
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 3784830
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": "friday.pdf",
+                           "value": 2690324
+                        },
+                        {
+                           "name": "friday.key",
+                           "value": 3848098
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 13706920
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 14502991
+                        },
+                        {
+                           "name": "notes.md",
+                           "value": 303
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week2",
+               "children": [
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "example4.html",
+                           "value": 308
+                        },
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "example5.html",
+                           "value": 396
+                        },
+                        {
+                           "name": "example2.html",
+                           "value": 304
+                        },
+                        {
+                           "name": "theme1.css",
+                           "value": 100
+                        },
+                        {
+                           "name": "example3.html",
+                           "value": 314
+                        },
+                        {
+                           "name": "theme2.css",
+                           "value": 154
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 9745
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 207
+                        },
+                        {
+                           "name": "example1.html",
+                           "value": 269
+                        },
+                        {
+                           "name": "example6.html",
+                           "value": 475
+                        },
+                        {
+                           "name": "example7.html",
+                           "value": 682
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "example5.html",
+                           "value": 1745
+                        },
+                        {
+                           "name": "example2.html",
+                           "value": 472
+                        },
+                        {
+                           "name": "example3.html",
+                           "value": 1428
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 9557
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 475
+                        },
+                        {
+                           "name": "example1.html",
+                           "value": 768
+                        },
+                        {
+                           "name": "example6.html",
+                           "value": 1306
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "example2.html",
+                           "value": 2374
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 11239
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 750
+                        },
+                        {
+                           "name": "example1.html",
+                           "value": 1321
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week5",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "7-item-absent.png",
+                           "value": 188221
+                        },
+                        {
+                           "name": "named-item-absent.png",
+                           "value": 146095
+                        },
+                        {
+                           "name": "rainbowcm.png",
+                           "value": 69498
+                        },
+                        {
+                           "name": "contrast_luminance.png",
+                           "value": 459079
+                        },
+                        {
+                           "name": "color_selection.png",
+                           "value": 146823
+                        },
+                        {
+                           "name": "black-body-2.png",
+                           "value": 472177
+                        },
+                        {
+                           "name": "multiple-channels.png",
+                           "value": 86433
+                        },
+                        {
+                           "name": "named-item-present.png",
+                           "value": 147304
+                        },
+                        {
+                           "name": "black-body-0.png",
+                           "value": 41002
+                        },
+                        {
+                           "name": "sequential-white-green.png",
+                           "value": 67721
+                        },
+                        {
+                           "name": "multihuecm.png",
+                           "value": 111197
+                        },
+                        {
+                           "name": "black-body-1.png",
+                           "value": 281772
+                        },
+                        {
+                           "name": "sequential-blue-purple.png",
+                           "value": 67187
+                        },
+                        {
+                           "name": "color-sampling.png",
+                           "value": 175274
+                        },
+                        {
+                           "name": "bivariate-example.png",
+                           "value": 448916
+                        },
+                        {
+                           "name": "diverging.png",
+                           "value": 6349
+                        },
+                        {
+                           "name": "interpolation.html",
+                           "value": 2345
+                        },
+                        {
+                           "name": "5-item-present.png",
+                           "value": 153216
+                        },
+                        {
+                           "name": "red-green-1.png",
+                           "value": 207505
+                        },
+                        {
+                           "name": "red-green-0.png",
+                           "value": 34445
+                        },
+                        {
+                           "name": "contrast_sensitivity.png",
+                           "value": 1352712
+                        },
+                        {
+                           "name": "uv_geometry.png",
+                           "value": 92285
+                        },
+                        {
+                           "name": "naming_colors.png",
+                           "value": 231900
+                        },
+                        {
+                           "name": "color_geometry.png",
+                           "value": 219684
+                        },
+                        {
+                           "name": "red-green-2.png",
+                           "value": 441382
+                        },
+                        {
+                           "name": "9-item-absent.png",
+                           "value": 222525
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "3-item-absent.png",
+                           "value": 135564
+                        },
+                        {
+                           "name": "clipped.png",
+                           "value": 177376
+                        },
+                        {
+                           "name": "diverging-mach.png",
+                           "value": 407454
+                        },
+                        {
+                           "name": "diverging-examples.png",
+                           "value": 273499
+                        },
+                        {
+                           "name": "color-similarity.png",
+                           "value": 140002
+                        },
+                        {
+                           "name": "9-item-present.png",
+                           "value": 209662
+                        },
+                        {
+                           "name": "luminance-2.png",
+                           "value": 441040
+                        },
+                        {
+                           "name": "sequential-green-blue.png",
+                           "value": 59133
+                        },
+                        {
+                           "name": "luminance-1.png",
+                           "value": 252710
+                        },
+                        {
+                           "name": "blackbodycm.png",
+                           "value": 104250
+                        },
+                        {
+                           "name": "luminance-0.png",
+                           "value": 31795
+                        },
+                        {
+                           "name": "7-item-present.png",
+                           "value": 185171
+                        },
+                        {
+                           "name": "isoluminantcm.png",
+                           "value": 209192
+                        },
+                        {
+                           "name": "rainbow-2.png",
+                           "value": 571797
+                        },
+                        {
+                           "name": "sequential-orange-red.png",
+                           "value": 66794
+                        },
+                        {
+                           "name": "5-item-absent.png",
+                           "value": 155762
+                        },
+                        {
+                           "name": "bivariate.png",
+                           "value": 200237
+                        },
+                        {
+                           "name": "color-responses.png",
+                           "value": 148712
+                        },
+                        {
+                           "name": "contrast_chromatic.png",
+                           "value": 1283283
+                        },
+                        {
+                           "name": "rainbow-1.png",
+                           "value": 310717
+                        },
+                        {
+                           "name": "rainbow-0.png",
+                           "value": 33010
+                        },
+                        {
+                           "name": "mach_band_resolved.png",
+                           "value": 118965
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 23100537
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 16174301
+                        },
+                        {
+                           "name": "diverging-example-0.png",
+                           "value": 1205643
+                        },
+                        {
+                           "name": "diverging-example-1.png",
+                           "value": 944392
+                        },
+                        {
+                           "name": "3-item-present.png",
+                           "value": 129301
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": "friday.pdf",
+                           "value": 13506385
+                        },
+                        {
+                           "name": "design_study_suitability.png",
+                           "value": 206052
+                        },
+                        {
+                           "name": "friday.key",
+                           "value": 16493570
+                        },
+                        {
+                           "name": "sheet-final.png",
+                           "value": 891146
+                        },
+                        {
+                           "name": "lync-interaction.png",
+                           "value": 622438
+                        },
+                        {
+                           "name": "matrixexplorer.png",
+                           "value": 1347213
+                        },
+                        {
+                           "name": "lync-visual-encoding.png",
+                           "value": 200090
+                        },
+                        {
+                           "name": "five-sheets.png",
+                           "value": 195067
+                        },
+                        {
+                           "name": "liverac-design.png",
+                           "value": 126100
+                        },
+                        {
+                           "name": "flowmaps-design.png",
+                           "value": 117246
+                        },
+                        {
+                           "name": "multeesum.pdf",
+                           "value": 11200871
+                        },
+                        {
+                           "name": "nested_levels.png",
+                           "value": 101373
+                        },
+                        {
+                           "name": "matrixexplorer-design.png",
+                           "value": 69116
+                        },
+                        {
+                           "name": "sheet-5.png",
+                           "value": 1268343
+                        },
+                        {
+                           "name": "sheet-4.png",
+                           "value": 1171173
+                        },
+                        {
+                           "name": "fruitfly-embryo.png",
+                           "value": 630618
+                        },
+                        {
+                           "name": "liverac.png",
+                           "value": 1411118
+                        },
+                        {
+                           "name": "sheet-1.png",
+                           "value": 1030817
+                        },
+                        {
+                           "name": "multeesum-visual-encoding.png",
+                           "value": 1906553
+                        },
+                        {
+                           "name": "sheet-3.png",
+                           "value": 1066047
+                        },
+                        {
+                           "name": "multeesum-interaction.png",
+                           "value": 92196
+                        },
+                        {
+                           "name": "sheet-2.png",
+                           "value": 1179770
+                        },
+                        {
+                           "name": "musson2013leveraging.pdf",
+                           "value": 1028334
+                        },
+                        {
+                           "name": "validating-design.png",
+                           "value": 307637
+                        },
+                        {
+                           "name": "flowmaps.png",
+                           "value": 710267
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "diamond-carat.png",
+                           "value": 292185
+                        },
+                        {
+                           "name": "tasks-to-vis.png",
+                           "value": 342200
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 3896178
+                        },
+                        {
+                           "name": "stacked_bars.png",
+                           "value": 358266
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 8938596
+                        },
+                        {
+                           "name": "vase_plots.png",
+                           "value": 140155
+                        },
+                        {
+                           "name": "histogram.png",
+                           "value": 85481
+                        },
+                        {
+                           "name": "graph_amenities.png",
+                           "value": 156624
+                        },
+                        {
+                           "name": "point_encoding.png",
+                           "value": 239513
+                        },
+                        {
+                           "name": "pc.png",
+                           "value": 548197
+                        },
+                        {
+                           "name": "scatterplot-tasks.png",
+                           "value": 788899
+                        },
+                        {
+                           "name": "point_grouping.png",
+                           "value": 190186
+                        },
+                        {
+                           "name": "point_position.png",
+                           "value": 176118
+                        },
+                        {
+                           "name": "lineup.png",
+                           "value": 413860
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week4",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "redundant1.png",
+                           "value": 84564
+                        },
+                        {
+                           "name": "szafir_ensemble_coding.png",
+                           "value": 140525
+                        },
+                        {
+                           "name": "redundant3.png",
+                           "value": 101942
+                        },
+                        {
+                           "name": "redundant2.png",
+                           "value": 93212
+                        },
+                        {
+                           "name": "attention.png",
+                           "value": 1276874
+                        },
+                        {
+                           "name": "attention_0.png",
+                           "value": 171381
+                        },
+                        {
+                           "name": "attention_1.png",
+                           "value": 181843
+                        },
+                        {
+                           "name": "attention_2.png",
+                           "value": 169573
+                        },
+                        {
+                           "name": "CM-2.png",
+                           "value": 58018
+                        },
+                        {
+                           "name": "CM-3.png",
+                           "value": 34103
+                        },
+                        {
+                           "name": "CM-1-1.png",
+                           "value": 55381
+                        },
+                        {
+                           "name": "gp_experiment.png",
+                           "value": 82729
+                        },
+                        {
+                           "name": "CM-1.png",
+                           "value": 93255
+                        },
+                        {
+                           "name": "preattentive1.png",
+                           "value": 52551
+                        },
+                        {
+                           "name": "preattentive0.png",
+                           "value": 109181
+                        },
+                        {
+                           "name": "preattentive2.png",
+                           "value": 77508
+                        },
+                        {
+                           "name": "visual_query_0.png",
+                           "value": 59086
+                        },
+                        {
+                           "name": "visual_query_1.png",
+                           "value": 293802
+                        },
+                        {
+                           "name": "preattentive3.png",
+                           "value": 14149
+                        },
+                        {
+                           "name": "position-length.png",
+                           "value": 55627
+                        },
+                        {
+                           "name": "preattentive6.png",
+                           "value": 15092
+                        },
+                        {
+                           "name": "preattentive4.png",
+                           "value": 14022
+                        },
+                        {
+                           "name": "preattentive5.png",
+                           "value": 14598
+                        },
+                        {
+                           "name": "pie_v_bar_result.png",
+                           "value": 185954
+                        },
+                        {
+                           "name": "pie_v_bar.png",
+                           "value": 60493
+                        },
+                        {
+                           "name": "ensemble_coding_2.png",
+                           "value": 43361
+                        },
+                        {
+                           "name": "ensemble_coding_1.png",
+                           "value": 45150
+                        },
+                        {
+                           "name": "monday.key",
+                           "value": 6214452
+                        },
+                        {
+                           "name": "monday.pdf",
+                           "value": 4238122
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": "friday.pdf",
+                           "value": 7879771
+                        },
+                        {
+                           "name": "opponent_process.png",
+                           "value": 149406
+                        },
+                        {
+                           "name": "friday.key",
+                           "value": 9271936
+                        },
+                        {
+                           "name": "ordered-data.png",
+                           "value": 41357
+                        },
+                        {
+                           "name": "luminance.png",
+                           "value": 32957
+                        },
+                        {
+                           "name": "rainbow-cm.png",
+                           "value": 107169
+                        },
+                        {
+                           "name": "colorbrewer.png",
+                           "value": 1340968
+                        },
+                        {
+                           "name": "notes.txt",
+                           "value": 1197
+                        },
+                        {
+                           "name": "electromagneticspectrum.jpg",
+                           "value": 69274
+                        },
+                        {
+                           "name": "interpolation.png",
+                           "value": 23743
+                        },
+                        {
+                           "name": "wavelength-luminance.png",
+                           "value": 75407
+                        },
+                        {
+                           "name": "lotto.png",
+                           "value": 543963
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "color-segmentation-1.png",
+                           "value": 147558
+                        },
+                        {
+                           "name": "chromatic_simultaneous_contrast.png",
+                           "value": 422760
+                        },
+                        {
+                           "name": "color-segmentation-0.png",
+                           "value": 207677
+                        },
+                        {
+                           "name": "hsl.png",
+                           "value": 57181
+                        },
+                        {
+                           "name": "color_is_3d.png",
+                           "value": 77869
+                        },
+                        {
+                           "name": "simultaneous_contrast.png",
+                           "value": 404664
+                        },
+                        {
+                           "name": "color_map_sf.png",
+                           "value": 1162806
+                        },
+                        {
+                           "name": "sharpening.png",
+                           "value": 171426
+                        },
+                        {
+                           "name": "sensitivity_curves.png",
+                           "value": 132772
+                        },
+                        {
+                           "name": "color.html",
+                           "value": 1904
+                        },
+                        {
+                           "name": "adelson-0.png",
+                           "value": 166541
+                        },
+                        {
+                           "name": "cones.png",
+                           "value": 670277
+                        },
+                        {
+                           "name": "adelson-1.png",
+                           "value": 156330
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "task-data-9.png",
+                           "value": 196653
+                        },
+                        {
+                           "name": "task-data-8.png",
+                           "value": 79684
+                        },
+                        {
+                           "name": "clevelandmcgill-baseline.png",
+                           "value": 33877
+                        },
+                        {
+                           "name": "correlation-10.png",
+                           "value": 76709
+                        },
+                        {
+                           "name": "correlation-9.png",
+                           "value": 75385
+                        },
+                        {
+                           "name": "wednesday.pdf",
+                           "value": 4914690
+                        },
+                        {
+                           "name": "correlation-8.png",
+                           "value": 72865
+                        },
+                        {
+                           "name": "wednesday.key",
+                           "value": 7448397
+                        },
+                        {
+                           "name": "correlation-0.png",
+                           "value": 125598
+                        },
+                        {
+                           "name": "correlation-1.png",
+                           "value": 124151
+                        },
+                        {
+                           "name": "correlation-3.png",
+                           "value": 104052
+                        },
+                        {
+                           "name": "correlation-2.png",
+                           "value": 79657
+                        },
+                        {
+                           "name": "correlation-6.png",
+                           "value": 11268
+                        },
+                        {
+                           "name": "correlation-7.png",
+                           "value": 77419
+                        },
+                        {
+                           "name": "correlation-5.png",
+                           "value": 348263
+                        },
+                        {
+                           "name": "correlation-4.png",
+                           "value": 273503
+                        },
+                        {
+                           "name": "color-difference-5.png",
+                           "value": 389018
+                        },
+                        {
+                           "name": "crowdsourcing-2.png",
+                           "value": 6050
+                        },
+                        {
+                           "name": "task-data-3.png",
+                           "value": 114365
+                        },
+                        {
+                           "name": "task-data-2.png",
+                           "value": 114669
+                        },
+                        {
+                           "name": "crowdsourcing-3.png",
+                           "value": 18180
+                        },
+                        {
+                           "name": "color-difference-4.png",
+                           "value": 52358
+                        },
+                        {
+                           "name": "color-difference-6.png",
+                           "value": 574171
+                        },
+                        {
+                           "name": "crowdsourcing-1.png",
+                           "value": 34512
+                        },
+                        {
+                           "name": "task-data-0.png",
+                           "value": 50154
+                        },
+                        {
+                           "name": "task-data-1.png",
+                           "value": 49526
+                        },
+                        {
+                           "name": "crowdsourcing-0.png",
+                           "value": 17832
+                        },
+                        {
+                           "name": "color-difference-7.png",
+                           "value": 261777
+                        },
+                        {
+                           "name": "color-difference-3.png",
+                           "value": 41552
+                        },
+                        {
+                           "name": "crowdsourcing-4.png",
+                           "value": 69521
+                        },
+                        {
+                           "name": "task-data-5.png",
+                           "value": 199444
+                        },
+                        {
+                           "name": "crowdsourcing-hit.png",
+                           "value": 12231
+                        },
+                        {
+                           "name": "task-data-4.png",
+                           "value": 389278
+                        },
+                        {
+                           "name": "crowdsourcing-5.png",
+                           "value": 46649
+                        },
+                        {
+                           "name": "color-difference-2.png",
+                           "value": 57332
+                        },
+                        {
+                           "name": "color-difference-0.png",
+                           "value": 357087
+                        },
+                        {
+                           "name": "task-data-6.png",
+                           "value": 172837
+                        },
+                        {
+                           "name": "task-data-7.png",
+                           "value": 87932
+                        },
+                        {
+                           "name": "color-difference-1.png",
+                           "value": 81434
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name": "week3",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "monday",
+                     "children": [
+                        {
+                           "name": "example4.html",
+                           "value": 1598
+                        },
+                        {
+                           "name": "example5.html",
+                           "value": 1922
+                        },
+                        {
+                           "name": "example2.html",
+                           "value": 1218
+                        },
+                        {
+                           "name": "example3.html",
+                           "value": 1319
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 8682
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 1214
+                        },
+                        {
+                           "name": "example1.html",
+                           "value": 1283
+                        },
+                        {
+                           "name": "example6.html",
+                           "value": 1950
+                        }
+                     ]
+                  },
+                  {
+                     "name": "friday",
+                     "children": [
+                        {
+                           "name": ".DS_Store",
+                           "value": 6148
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 6021
+                        }
+                     ]
+                  },
+                  {
+                     "name": "wednesday",
+                     "children": [
+                        {
+                           "name": "example4.html",
+                           "value": 3717
+                        },
+                        {
+                           "name": "example5.html",
+                           "value": 4394
+                        },
+                        {
+                           "name": "example2.html",
+                           "value": 2164
+                        },
+                        {
+                           "name": "example3.html",
+                           "value": 3041
+                        },
+                        {
+                           "name": "d3.js",
+                           "value": 493246
+                        },
+                        {
+                           "name": "index.md",
+                           "value": 8181
+                        },
+                        {
+                           "name": "example0.html",
+                           "value": 1511
+                        },
+                        {
+                           "name": "example1.html",
+                           "value": 1474
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "assignments",
+         "children": [
+            {
+               "name": "index.md",
+               "value": 1555
+            }
+         ]
+      },
+      {
+         "name": "papers",
+         "children": [
+            {
+               "name": "diverging-colormaps.pdf",
+               "value": 15972762
+            },
+            {
+               "name": "colorsequences.pdf",
+               "value": 377643
+            },
+            {
+               "name": "nodetrix.pdf",
+               "value": 317351
+            },
+            {
+               "name": "brushing-scatterplots.pdf",
+               "value": 1735623
+            },
+            {
+               "name": "attentivevisualmemory.pdf",
+               "value": 1948890
+            },
+            {
+               "name": "polaris.pdf",
+               "value": 2284220
+            },
+            {
+               "name": "three_colors.pdf",
+               "value": 146276
+            },
+            {
+               "name": "brushing-pcs.pdf",
+               "value": 2541739
+            },
+            {
+               "name": "design-study-methodology.pdf",
+               "value": 292436
+            },
+            {
+               "name": "task-data-effectiveness.pdf",
+               "value": 1768930
+            },
+            {
+               "name": "multilevel-graph.pdf",
+               "value": 4795911
+            },
+            {
+               "name": "scented-widgets.pdf",
+               "value": 868504
+            },
+            {
+               "name": "sketching-design.pdf",
+               "value": 23234397
+            },
+            {
+               "name": "rainbow-bad.pdf",
+               "value": 728863
+            },
+            {
+               "name": "grouse-flock.pdf",
+               "value": 8233281
+            },
+            {
+               "name": "cartesian-vs-radial.pdf",
+               "value": 1092317
+            },
+            {
+               "name": "smdice.pdf",
+               "value": 943899
+            },
+            {
+               "name": "engineering-model-color-difference.pdf",
+               "value": 1220292
+            },
+            {
+               "name": "hebs.pdf",
+               "value": 13437821
+            },
+            {
+               "name": "mybrush.pdf",
+               "value": 15655158
+            },
+            {
+               "name": "TheGoodtheBadandtheUgly.pdf",
+               "value": 1359700
+            },
+            {
+               "name": "arcdiagrams.pdf",
+               "value": 496215
+            },
+            {
+               "name": "infovis-design-space.pdf",
+               "value": 1631487
+            },
+            {
+               "name": "eyeshaveit.pdf",
+               "value": 803958
+            },
+            {
+               "name": "voronoi-treemaps.pdf",
+               "value": 19917372
+            },
+            {
+               "name": "zoompan.pdf",
+               "value": 534297
+            },
+            {
+               "name": "generalized-selection.pdf",
+               "value": 599152
+            },
+            {
+               "name": "theoryofscales.pdf",
+               "value": 784446
+            },
+            {
+               "name": "forcedirected.pdf",
+               "value": 1464621
+            },
+            {
+               "name": "effectivecolour.pdf",
+               "value": 229480
+            },
+            {
+               "name": "multiple-views-consistent.pdf",
+               "value": 1194179
+            },
+            {
+               "name": "perception-treemaps.pdf",
+               "value": 555026
+            },
+            {
+               "name": "multiple-views-guidelines.pdf",
+               "value": 2194247
+            },
+            {
+               "name": "color-difference.pdf",
+               "value": 793803
+            },
+            {
+               "name": "crowdsourcingperception.pdf",
+               "value": 652339
+            },
+            {
+               "name": "graph-tasks.pdf",
+               "value": 245658
+            },
+            {
+               "name": "composite-vis.pdf",
+               "value": 2294505
+            },
+            {
+               "name": "node-link-matrix-compare.pdf",
+               "value": 1299974
+            },
+            {
+               "name": "cross-filtered-views.pdf",
+               "value": 3695326
+            },
+            {
+               "name": "tidier-drawings.pdf",
+               "value": 2147553
+            },
+            {
+               "name": "graphical_perception.pdf",
+               "value": 3160959
+            },
+            {
+               "name": "interring.pdf",
+               "value": 938605
+            },
+            {
+               "name": "Wilkinson_Infovis-05.pdf",
+               "value": 972390
+            },
+            {
+               "name": "scatterplot-tasks.pdf",
+               "value": 1280290
+            },
+            {
+               "name": "deepeyes.pdf",
+               "value": 5948959
+            },
+            {
+               "name": "hierarchical_aggregation.pdf",
+               "value": 2655895
+            },
+            {
+               "name": "preattentiveprocessing.pdf",
+               "value": 278488
+            },
+            {
+               "name": "showme.pdf",
+               "value": 623476
+            },
+            {
+               "name": "points-pc.pdf",
+               "value": 3432346
+            },
+            {
+               "name": "human_factors_vis.pdf",
+               "value": 2937086
+            },
+            {
+               "name": "bubblesets.pdf",
+               "value": 2501781
+            },
+            {
+               "name": "squarifiedtreemaps.pdf",
+               "value": 470728
+            },
+            {
+               "name": "ranking-correlation.pdf",
+               "value": 2355252
+            },
+            {
+               "name": "treemaps.pdf",
+               "value": 983765
+            },
+            {
+               "name": "continuousscatterplots.pdf",
+               "value": 1424234
+            },
+            {
+               "name": "cushion-treemaps.pdf",
+               "value": 379407
+            },
+            {
+               "name": "viszoo.pdf",
+               "value": 6622372
+            },
+            {
+               "name": "banking-to-45.pdf",
+               "value": 1477668
+            }
+         ]
+      },
+      {
+         "name": "images",
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "name": "banner.jpg",
+               "value": 1011225
+            },
+            {
+               "name": "bubble.png",
+               "value": 1782986
+            },
+            {
+               "name": "preattentive.png",
+               "value": 18750
+            },
+            {
+               "name": "heb.png",
+               "value": 854453
+            }
+         ]
+      },
+      {
+         "name": "resources",
+         "children": [
+            {
+               "name": "index.md",
+               "value": 3089
+            }
+         ]
+      },
+      {
+         "name": "datasets",
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "name": "flares_and_instruments_v2.csv",
+               "value": 1595094
+            },
+            {
+               "name": "Japan_population_data.csv",
+               "value": 161674
+            },
+            {
+               "name": "historical-hourly-weather-data",
+               "children": [
+                  {
+                     "name": "weather_description.csv",
+                     "value": 21858089
+                  },
+                  {
+                     "name": "humidity.csv",
+                     "value": 9075077
+                  },
+                  {
+                     "name": "wind_direction.csv",
+                     "value": 10171003
+                  },
+                  {
+                     "name": "temperature.csv",
+                     "value": 13971171
+                  },
+                  {
+                     "name": "pressure.csv",
+                     "value": 12155911
+                  },
+                  {
+                     "name": "city_attributes.csv",
+                     "value": 1614
+                  },
+                  {
+                     "name": "wind_speed.csv",
+                     "value": 7457531
+                  }
+               ]
+            },
+            {
+               "name": "nashville-meetup",
+               "children": [
+                  {
+                     "name": "meta-events.csv",
+                     "value": 1531402
+                  },
+                  {
+                     "name": "member-to-group-edges.csv",
+                     "value": 965944
+                  },
+                  {
+                     "name": "meta-groups.csv",
+                     "value": 61093
+                  },
+                  {
+                     "name": "rsvps.csv",
+                     "value": 4582771
+                  },
+                  {
+                     "name": "meta-members.csv",
+                     "value": 1280477
+                  },
+                  {
+                     "name": "member-edges.csv",
+                     "value": 34466711
+                  },
+                  {
+                     "name": "group-edges.csv",
+                     "value": 167156
+                  }
+               ]
+            },
+            {
+               "name": "stack-overflow-tag-network",
+               "children": [
+                  {
+                     "name": "stack_network_links.csv",
+                     "value": 16490
+                  },
+                  {
+                     "name": "stack_network_nodes.csv",
+                     "value": 1845
+                  }
+               ]
+            },
+            {
+               "name": "air-quality-madrid",
+               "children": [
+                  {
+                     "name": ".DS_Store",
+                     "value": 6148
+                  },
+                  {
+                     "name": "stations.csv",
+                     "value": 2423
+                  },
+                  {
+                     "name": "csvs_per_year",
+                     "children": [
+                        {
+                           "name": "madrid_2009.csv",
+                           "value": 37901350
+                        },
+                        {
+                           "name": "madrid_2008.csv",
+                           "value": 40742487
+                        },
+                        {
+                           "name": "madrid_2018.csv",
+                           "value": 5971471
+                        },
+                        {
+                           "name": "madrid_2014.csv",
+                           "value": 16115972
+                        },
+                        {
+                           "name": "madrid_2001.csv",
+                           "value": 39349155
+                        },
+                        {
+                           "name": "madrid_2015.csv",
+                           "value": 16391724
+                        },
+                        {
+                           "name": "madrid_2003.csv",
+                           "value": 43685258
+                        },
+                        {
+                           "name": "madrid_2017.csv",
+                           "value": 17100674
+                        },
+                        {
+                           "name": "madrid_2016.csv",
+                           "value": 16376762
+                        },
+                        {
+                           "name": "madrid_2002.csv",
+                           "value": 39217708
+                        },
+                        {
+                           "name": "madrid_2006.csv",
+                           "value": 42084611
+                        },
+                        {
+                           "name": "madrid_2012.csv",
+                           "value": 16373251
+                        },
+                        {
+                           "name": "madrid_2013.csv",
+                           "value": 16084895
+                        },
+                        {
+                           "name": "madrid_2007.csv",
+                           "value": 40616611
+                        },
+                        {
+                           "name": "madrid_2011.csv",
+                           "value": 16963682
+                        },
+                        {
+                           "name": "madrid_2005.csv",
+                           "value": 42899262
+                        },
+                        {
+                           "name": "madrid_2004.csv",
+                           "value": 44242588
+                        },
+                        {
+                           "name": "madrid_2010.csv",
+                           "value": 29184608
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "books",
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "name": "Ware - Visual Thinking for Design.pdf",
+               "value": 12066319
+            },
+            {
+               "name": "VAD.pdf",
+               "value": 73093100
+            },
+            {
+               "name": "VAD_diagrams",
+               "children": [
+                  {
+                     "name": "fig7.12.pdf",
+                     "value": 96977
+                  },
+                  {
+                     "name": "fig8.1.pdf",
+                     "value": 102838
+                  },
+                  {
+                     "name": "fig12.14a.pdf",
+                     "value": 27312
+                  },
+                  {
+                     "name": "fig10.14.pdf",
+                     "value": 92935
+                  },
+                  {
+                     "name": "fig2.1c_alt.pdf",
+                     "value": 103695
+                  },
+                  {
+                     "name": "fig12.14c.pdf",
+                     "value": 27310
+                  },
+                  {
+                     "name": "fig12.14b.pdf",
+                     "value": 27312
+                  },
+                  {
+                     "name": "fig13.5.pdf",
+                     "value": 23680
+                  },
+                  {
+                     "name": "fig2.1c_tables.pdf",
+                     "value": 38889
+                  },
+                  {
+                     "name": "fig5.11.pdf",
+                     "value": 29283
+                  },
+                  {
+                     "name": "fig13.1.pdf",
+                     "value": 110642
+                  },
+                  {
+                     "name": "fig7.15.pdf",
+                     "value": 87824
+                  },
+                  {
+                     "name": "fig5.10.pdf",
+                     "value": 94568
+                  },
+                  {
+                     "name": "fig5.12.pdf",
+                     "value": 472876
+                  },
+                  {
+                     "name": "fig4.9.pdf",
+                     "value": 90373
+                  },
+                  {
+                     "name": "fig11.1.pdf",
+                     "value": 46828
+                  },
+                  {
+                     "name": "fig7.16.pdf",
+                     "value": 87386
+                  },
+                  {
+                     "name": "fig12.14.pdf",
+                     "value": 41721
+                  },
+                  {
+                     "name": "fig5.13.pdf",
+                     "value": 89789
+                  },
+                  {
+                     "name": "fig10.6.pdf",
+                     "value": 45072
+                  },
+                  {
+                     "name": "fig3.9.pdf",
+                     "value": 99590
+                  },
+                  {
+                     "name": "fig7.15a.pdf",
+                     "value": 90648
+                  },
+                  {
+                     "name": "fig5.12a.pdf",
+                     "value": 88360
+                  },
+                  {
+                     "name": "fig10.5.pdf",
+                     "value": 91542
+                  },
+                  {
+                     "name": "fig5.12c.pdf",
+                     "value": 88577
+                  },
+                  {
+                     "name": "fig9.1.pdf",
+                     "value": 99610
+                  },
+                  {
+                     "name": "fig7.15b.pdf",
+                     "value": 90329
+                  },
+                  {
+                     "name": "fig14.1.pdf",
+                     "value": 114598
+                  },
+                  {
+                     "name": "fig1.8.pdf",
+                     "value": 88608
+                  },
+                  {
+                     "name": "fig7.15c.pdf",
+                     "value": 90076
+                  },
+                  {
+                     "name": "fig12.6.pdf",
+                     "value": 30215
+                  },
+                  {
+                     "name": "fig5.12b.pdf",
+                     "value": 88366
+                  },
+                  {
+                     "name": "fig10.4.pdf",
+                     "value": 98538
+                  },
+                  {
+                     "name": "fig5.12f.pdf",
+                     "value": 88555
+                  },
+                  {
+                     "name": "fig5.13b.pdf",
+                     "value": 89506
+                  },
+                  {
+                     "name": "fig3.13.pdf",
+                     "value": 46905
+                  },
+                  {
+                     "name": "fig10.14a.pdf",
+                     "value": 91437
+                  },
+                  {
+                     "name": "fig5.8.pdf",
+                     "value": 48716
+                  },
+                  {
+                     "name": "fig10.1.pdf",
+                     "value": 97353
+                  },
+                  {
+                     "name": "fig5.13c.pdf",
+                     "value": 89522
+                  },
+                  {
+                     "name": "fig7.8.pdf",
+                     "value": 96441
+                  },
+                  {
+                     "name": "fig5.13a.pdf",
+                     "value": 89496
+                  },
+                  {
+                     "name": "fig5.12e.pdf",
+                     "value": 494587
+                  },
+                  {
+                     "name": "fig10.3.pdf",
+                     "value": 90788
+                  },
+                  {
+                     "name": "fig12.1.pdf",
+                     "value": 55535
+                  },
+                  {
+                     "name": "fig10.14c.pdf",
+                     "value": 91076
+                  },
+                  {
+                     "name": "fig3.11.pdf",
+                     "value": 40292
+                  },
+                  {
+                     "name": "fig10.14b.pdf",
+                     "value": 91663
+                  },
+                  {
+                     "name": "fig5.12d.pdf",
+                     "value": 88434
+                  },
+                  {
+                     "name": "fig7.9.pdf",
+                     "value": 93118
+                  },
+                  {
+                     "name": "fig7.4.pdf",
+                     "value": 96339
+                  },
+                  {
+                     "name": "fig5.11e.pdf",
+                     "value": 84301
+                  },
+                  {
+                     "name": "fig5.6.pdf",
+                     "value": 98198
+                  },
+                  {
+                     "name": "fig4.15.pdf",
+                     "value": 88082
+                  },
+                  {
+                     "name": "fig7.4b.pdf",
+                     "value": 95824
+                  },
+                  {
+                     "name": "fig7.8a.pdf",
+                     "value": 94939
+                  },
+                  {
+                     "name": "fig1.3.pdf",
+                     "value": 118756
+                  },
+                  {
+                     "name": "fig13.13.pdf",
+                     "value": 58427
+                  },
+                  {
+                     "name": "fig3.1.pdf",
+                     "value": 72669
+                  },
+                  {
+                     "name": "fig12.8b.pdf",
+                     "value": 91997
+                  },
+                  {
+                     "name": "fig5.7.pdf",
+                     "value": 103399
+                  },
+                  {
+                     "name": "fig5.11d.pdf",
+                     "value": 84466
+                  },
+                  {
+                     "name": "fig5.4d.pdf",
+                     "value": 81709
+                  },
+                  {
+                     "name": "fig5.11f.pdf",
+                     "value": 84870
+                  },
+                  {
+                     "name": "fig5.5.pdf",
+                     "value": 26472
+                  },
+                  {
+                     "name": "fig2.1c_geometry.pdf",
+                     "value": 88365
+                  },
+                  {
+                     "name": "fig7.4a.pdf",
+                     "value": 95774
+                  },
+                  {
+                     "name": "fig7.8b.pdf",
+                     "value": 94952
+                  },
+                  {
+                     "name": "fig4.17.pdf",
+                     "value": 91769
+                  },
+                  {
+                     "name": "fig3.2.pdf",
+                     "value": 48737
+                  },
+                  {
+                     "name": "fig12.8a.pdf",
+                     "value": 94688
+                  },
+                  {
+                     "name": "fig5.4.pdf",
+                     "value": 82013
+                  },
+                  {
+                     "name": "fig5.4a.pdf",
+                     "value": 81530
+                  },
+                  {
+                     "name": "fig5.11c.pdf",
+                     "value": 84155
+                  },
+                  {
+                     "name": "fig7.16b.pdf",
+                     "value": 90853
+                  },
+                  {
+                     "name": "fig3.6.pdf",
+                     "value": 105884
+                  },
+                  {
+                     "name": "fig4.13.pdf",
+                     "value": 94764
+                  },
+                  {
+                     "name": "fig3.7.pdf",
+                     "value": 67303
+                  },
+                  {
+                     "name": "fig5.1.pdf",
+                     "value": 98198
+                  },
+                  {
+                     "name": "fig6.1a.pdf",
+                     "value": 92739
+                  },
+                  {
+                     "name": "fig5.11b.pdf",
+                     "value": 85161
+                  },
+                  {
+                     "name": "fig7.1.pdf",
+                     "value": 99764
+                  },
+                  {
+                     "name": "fig5.4b.pdf",
+                     "value": 81621
+                  },
+                  {
+                     "name": "fig5.3.pdf",
+                     "value": 92754
+                  },
+                  {
+                     "name": "fig12.8.pdf",
+                     "value": 96668
+                  },
+                  {
+                     "name": "fig7.16a.pdf",
+                     "value": 90577
+                  },
+                  {
+                     "name": "fig5.11_3x2.pdf",
+                     "value": 87298
+                  },
+                  {
+                     "name": "fig2.1c_fields.pdf",
+                     "value": 38889
+                  },
+                  {
+                     "name": "fig1.7.pdf",
+                     "value": 90519
+                  },
+                  {
+                     "name": "fig4.11.pdf",
+                     "value": 90084
+                  },
+                  {
+                     "name": "fig2.1e_alt.pdf",
+                     "value": 91021
+                  },
+                  {
+                     "name": "fig5.2.pdf",
+                     "value": 88077
+                  },
+                  {
+                     "name": "fig6.1b.pdf",
+                     "value": 101848
+                  },
+                  {
+                     "name": "fig5.11a.pdf",
+                     "value": 84359
+                  },
+                  {
+                     "name": "fig5.4c.pdf",
+                     "value": 81627
+                  },
+                  {
+                     "name": "fig2.1a.pdf",
+                     "value": 89378
+                  },
+                  {
+                     "name": "fig3.5a.pdf",
+                     "value": 93326
+                  },
+                  {
+                     "name": "fig4.5.pdf",
+                     "value": 211785
+                  },
+                  {
+                     "name": "fig4.4.pdf",
+                     "value": 98353
+                  },
+                  {
+                     "name": "fig2.2.pdf",
+                     "value": 107505
+                  },
+                  {
+                     "name": "fig2.1b.pdf",
+                     "value": 26872
+                  },
+                  {
+                     "name": "fig3.5b.pdf",
+                     "value": 31962
+                  },
+                  {
+                     "name": "fig4.7.pdf",
+                     "value": 91762
+                  },
+                  {
+                     "name": "fig2.1.pdf",
+                     "value": 63484
+                  },
+                  {
+                     "name": "fig2.1c.pdf",
+                     "value": 103676
+                  },
+                  {
+                     "name": "fig6.1.pdf",
+                     "value": 103967
+                  },
+                  {
+                     "name": "fig4.2.pdf",
+                     "value": 206108
+                  },
+                  {
+                     "name": "fig2.1f_alt.pdf",
+                     "value": 88934
+                  },
+                  {
+                     "name": "fig2.4.pdf",
+                     "value": 34348
+                  },
+                  {
+                     "name": "fig2.1f.pdf",
+                     "value": 88866
+                  },
+                  {
+                     "name": "fig2.1d.pdf",
+                     "value": 88831
+                  },
+                  {
+                     "name": "fig4.1.pdf",
+                     "value": 125278
+                  },
+                  {
+                     "name": "fig2.1e.pdf",
+                     "value": 90912
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "syllabus",
+         "children": [
+            {
+               "name": "index.md",
+               "value": 10918
+            }
+         ]
+      },
+      {
+         "name": "project",
+         "children": [
+            {
+               "name": "index.md",
+               "value": 12032
+            }
+         ]
+      },
+      {
+         "name": "exams",
+         "children": [
+            {
+               "name": ".DS_Store",
+               "value": 6148
+            },
+            {
+               "name": "questions.txt",
+               "value": 2153
+            },
+            {
+               "name": "midterm",
+               "children": [
+                  {
+                     "name": "midterm.aux",
+                     "value": 2253
+                  },
+                  {
+                     "name": "midterm.log",
+                     "value": 19958
+                  },
+                  {
+                     "name": "midterm.tex",
+                     "value": 3169
+                  },
+                  {
+                     "name": "exam.cls",
+                     "value": 282612
+                  },
+                  {
+                     "name": "midterm.pdf",
+                     "value": 47259
+                  },
+                  {
+                     "name": "examdoc.tex",
+                     "value": 301562
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name": "reference",
+         "children": [
+            {
+               "name": "color-2-spr18-csc444.pdf",
+               "value": 4846439
+            },
+            {
+               "name": "color-spr18-csc444.pdf",
+               "value": 10579150
+            }
+         ]
+      }
+   ]
+}
