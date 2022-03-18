@@ -70,6 +70,7 @@
   wednesday-title: "Node-link tree layouts [keynote](https://vanderbilt.box.com/s/wtsvexc7lvy7c7feilxg7dc4o4autqid), [pdf](https://vanderbilt.box.com/s/xrob4hrnrkehmncbckhoeuz26gzzr5xq), [crammed trees](https://observablehq.com/d/ca0b7a79bce854bc), [Knuth trees](https://observablehq.com/d/8494e9baa31e032d), [tidy trees](https://observablehq.com/d/68bb870891879f8e)"
   wednesday-required-reading: "[Tidier Tree Drawings](https://reingold.co/tidier-drawings.pdf), [Tulip](https://tulip.labri.fr/publi_tulip/auberChapterTulipGDSBook.pdf)"
   wednesday-assignment: "Assignment 3 due, [undergraduates](https://observablehq.com/d/78cd53141201496d), [graduate students](https://observablehq.com/d/4a56306501c0033f)"
+  friday-title: ""
   friday-assignment: "[Written Assignment 1 posted](https://observablehq.com/d/3898123b5b0c0aaa)"
 
 - week-title: "Visualizing Graphs"
@@ -79,6 +80,7 @@
   monday-recommended-reading: "[Spectral Graph Drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   wednesday-title: "Matrix visualizations, graph-hierarchy composites"
   wednesday-required-reading: "[Hierarchical Edge Bundling](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf), [Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
+  friday-title: ""
   friday-assignment: "[Written Assignment 1 due](https://observablehq.com/d/3898123b5b0c0aaa)"
 
 - week-title: "Geographic Visualization"
