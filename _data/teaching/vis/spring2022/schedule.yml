@@ -75,7 +75,7 @@
 
 - week-title: "Visualizing Graphs"
   week-date: "March 21"
-  monday-title: "Node-link graph drawing"
+  monday-title: "Node-link graph drawing [keynote](https://vanderbilt.box.com/s/nid1zdhzhlqk3gocpedk99z64z8ij6ou), [pdf](https://vanderbilt.box.com/s/qo4ixjd9gd3pjy89dbiuyats2suhrzjp)"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed Graph Layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered Graph Drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   monday-recommended-reading: "[Spectral Graph Drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   wednesday-title: "Matrix visualizations, graph-hierarchy composites"
