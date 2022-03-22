@@ -79,7 +79,8 @@
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed Graph Layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered Graph Drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   monday-recommended-reading: "[Spectral Graph Drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   wednesday-title: "Matrix visualizations, graph-hierarchy composites"
-  wednesday-required-reading: "[Hierarchical Edge Bundling](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf), [Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
+  wednesday-required-reading: "[Graph drawing by Stress Majorization](https://graphviz.org/documentation/GKN04.pdf), [Hierarchical Edge Bundling](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)"
+  wednesday-recommended-reading: "[Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
   friday-title: ""
   friday-assignment: "[Written Assignment 1 due](https://observablehq.com/d/3898123b5b0c0aaa)"
 
