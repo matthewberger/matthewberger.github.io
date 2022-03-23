@@ -78,7 +78,7 @@
   monday-title: "Node-link graph drawing [keynote](https://vanderbilt.box.com/s/nid1zdhzhlqk3gocpedk99z64z8ij6ou), [pdf](https://vanderbilt.box.com/s/qo4ixjd9gd3pjy89dbiuyats2suhrzjp)"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed Graph Layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered Graph Drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   monday-recommended-reading: "[Spectral Graph Drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
-  wednesday-title: "Matrix visualizations, graph-hierarchy composites"
+  wednesday-title: "Matrix visualizations, graph-hierarchy composites [keynote](https://vanderbilt.box.com/s/3whi2g5s3bralsmofsb7845wlg4p26g0), [pdf](https://vanderbilt.box.com/s/3g6x309p31u1dyvwxcy1zj318mkoxqyv), [notebook](https://observablehq.com/d/6c363607819c90df)"
   wednesday-required-reading: "[Graph drawing by Stress Majorization](https://graphviz.org/documentation/GKN04.pdf), [Hierarchical Edge Bundling](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)"
   wednesday-recommended-reading: "[Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
   friday-title: ""
@@ -87,7 +87,7 @@
 - week-title: "Geographic Visualization"
   week-date: "March 28"
   monday-title: "Projections, geometric shapes and scales"
-  monday-required-reading: "**Munzner** Ch. 8.1 -- 8.3, [Force-directed Graph Layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered Graph Drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
+  monday-required-reading: "**Munzner** Ch. 8.1 -- 8.3"
   wednesday-title: "Choropleth maps, Cartograms, geometric distortions"
 
 - week-title: "Visualizing High-dimensional Data"
