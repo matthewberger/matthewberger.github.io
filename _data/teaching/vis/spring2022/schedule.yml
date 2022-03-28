@@ -88,7 +88,8 @@
   week-date: "March 28"
   monday-title: "Projections, geometric shapes and scales"
   monday-required-reading: "**Munzner** Ch. 8.1 -- 8.3"
-  wednesday-title: "Choropleth maps, Cartograms, geometric distortions"
+  wednesday-title: "Choropleths, Cartograms, Origin-Destination Flows"
+  wednesday-recommended-reading: "[Flavors of Cartograms](https://arxiv.org/pdf/1605.08485.pdf), [Evaluating Origin-Destination Flows](https://arxiv.org/pdf/1908.02052.pdf)"
 
 - week-title: "Visualizing High-dimensional Data"
   week-date: "April 4"
