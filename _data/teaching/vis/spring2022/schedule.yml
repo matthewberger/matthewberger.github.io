@@ -88,7 +88,7 @@
   week-date: "March 28"
   monday-title: "Projections, geometric shapes and scales [HEB keynote](https://vanderbilt.box.com/s/qlpz36erilsnfuo9qk42jilk8cyfsvgp), [Geo keynote](https://vanderbilt.box.com/s/d5rg7wce9akdmmso4mtno5g1hobht82x), [HEB pdf](https://vanderbilt.box.com/s/6iowvbzgjzt9q3t42uiv1nh9uejeb0lh), [Geo pdf](https://vanderbilt.box.com/s/rtpbe6jru7yb4kycj4oheaz1swxkbiap), [B-spline notebook](https://observablehq.com/d/d6617a2d3faa26c1), [map notebook](https://observablehq.com/d/14a3a45f28813cb2)"
   monday-required-reading: "**Munzner** Ch. 8.1 -- 8.3"
-  monday-assignment: "[Assignment 4 posted](https://observablehq.com/d/2e3b2a8fcb786b94)"
+  monday-assignment: "[Assignment 4 posted](https://observablehq.com/d/bcad75f978afd95a)"
   wednesday-title: "Choropleths, Cartograms, Origin-Destination Flows"
   wednesday-recommended-reading: "[Flavors of Cartograms](https://arxiv.org/pdf/1605.08485.pdf), [Evaluating Origin-Destination Flows](https://arxiv.org/pdf/1908.02052.pdf)"
 
@@ -96,7 +96,7 @@
   week-date: "April 4"
   monday-title: "Linear Dimensionality Reduction"
   wednesday-title: "Nonlinear Dimensionality Reduction"
-  wednesday-assignment: "[Assignment 4 due](https://observablehq.com/d/2e3b2a8fcb786b94)"
+  wednesday-assignment: "[Assignment 4 due](https://observablehq.com/d/bcad75f978afd95a)"
 
 - week-title: "Uncertainty Visualization"
   week-date: "April 11"
