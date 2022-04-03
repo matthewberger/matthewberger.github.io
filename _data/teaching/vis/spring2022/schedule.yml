@@ -95,8 +95,11 @@
 - week-title: "Visualizing High-dimensional Data"
   week-date: "April 4"
   monday-title: "Linear Dimensionality Reduction"
+  monday-required-reading: "**Munzner** Ch. 13.4.3"
+  monday-recommended-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [Contrastive PCA](https://arxiv.org/pdf/1905.03911.pdf)"
   wednesday-title: "Nonlinear Dimensionality Reduction"
   wednesday-assignment: "[Assignment 4 due](https://observablehq.com/d/bcad75f978afd95a)"
+  wednesday-recommended-reading: "[Isomap](http://li.mit.edu/Stuff/CNSE/Paper/Tenenbaum00.pdf), [tSNE]](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
 
 - week-title: "Uncertainty Visualization"
   week-date: "April 11"
