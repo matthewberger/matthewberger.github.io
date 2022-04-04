@@ -94,7 +94,7 @@
 
 - week-title: "Visualizing High-dimensional Data"
   week-date: "April 4"
-  monday-title: "Linear Dimensionality Reduction"
+  monday-title: "Linear Dimensionality Reduction [keynote](https://vanderbilt.box.com/s/ourv3uwdug6kuwq6yxy5criypxjc7pmu), [pdf](https://vanderbilt.box.com/s/xe6vqrxavtz2ociagyqq1ir4hskfunuv), [notebook](vhttps://observablehq.com/d/c27eaeb51d793280)"
   monday-required-reading: "**Munzner** Ch. 13.4.3"
   monday-recommended-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [Contrastive PCA](https://arxiv.org/pdf/1905.03911.pdf)"
   wednesday-title: "Nonlinear Dimensionality Reduction"
