@@ -100,6 +100,8 @@
   wednesday-title: "Nonlinear Dimensionality Reduction [keynote](https://vanderbilt.box.com/s/4bg12tlp0fml3z7vivw7lieasgqhu6cl), [pdf](https://vanderbilt.box.com/s/lmclzycuya4ykzdayyd403jupc0mf132)"
   wednesday-assignment: "[Assignment 4 due](https://observablehq.com/d/bcad75f978afd95a)"
   wednesday-recommended-reading: "[Isomap](http://li.mit.edu/Stuff/CNSE/Paper/Tenenbaum00.pdf), [tSNE]](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
+  friday-title: ""
+  friday-assignment: "[Programming Assignment 5 posted](https://observablehq.com/d/1c7149bc5b0715d4)"
 
 - week-title: "Uncertainty Visualization"
   week-date: "April 11"
@@ -110,6 +112,8 @@
   week-date: "April 18"
   monday-title: "2D and 3D scalar fields"
   wednesday-title: "Vector field visualization"
+  friday-title: ""
+  friday-assignment: "[Programming Assignment 5 due](https://observablehq.com/d/1c7149bc5b0715d4)"
 
 - week-title: "Visualizing Text and Documents, Final Review, Project Presentations"
   week-date: "April 25"
