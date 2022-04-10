@@ -106,7 +106,9 @@
 - week-title: "Uncertainty Visualization"
   week-date: "April 11"
   monday-title: "Conveying, comparing, and querying distributions"
+  monday-recommended-reading: "[Graphical Inference](http://vita.had.co.nz/papers/inference-infovis.pdf), [Dot Plots](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf), [Quantile Dot Plots](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf), [Hypothetical Outcome Plots](https://idl.cs.washington.edu/files/2015-HOPs-PLOS.pdf)"
   wednesday-title: "Encoding uncertainty across visual channels"
+  wednesday-recommended-reading: "[Value-Suppressing Uncertainty Palettes](http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf), [Surprise Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf)"
 
 - week-title: "Visualizing Spatially-referenced Data"
   week-date: "April 18"
