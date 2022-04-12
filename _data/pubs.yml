@@ -1,3 +1,36 @@
+- title: "Neural Flow Map Reconstruction"
+  snap: "/papersnaps/neurflow.png"
+  pubinfo: "EuroVis"
+  date: "2022"
+  authors: ["Saroj Sahoo", "Yuzhe Lu", "Matthew Berger"]
+
+- title: "Interactively Assessing Disentanglement in GANs"
+  snap: "/papersnaps/disgan.png"
+  pubinfo: "EuroVis"
+  date: "2022"
+  authors: ["Sangwon Jeong", "Shusen Liu", "Matthew Berger"]
+
+- title: "STFT-LDA: An algorithm to facilitate the visual analysis of building seismic responses"
+  doi: "https://doi.org/10.1177%2F14738716211038618"
+  snap: "/papersnaps/quake.png"
+  pubinfo: "Information Visualization"
+  date: "2021"
+  authors: ["Zhenge Zhao", "Danilo Motta", "Matthew Berger", "Joshua A. Levine", "Ismail B. Kuzucu", "Robert B. Fleischman", "Afonso Paiva", "Carlos Scheidegger"]
+
+- title: "NeuralCubes: Deep Representations for Visual Data Exploration"
+  doi: "https://doi.org/10.1109/BigData52589.2021.9671390"
+  snap: "/papersnaps/nncubes.png"
+  pubinfo: "IEEE Big Data"
+  date: "2021"
+  authors: ["Zhe Wang", "Dylan Cashman", "Mingwei Li", "Jixian Li", "Matthew Berger", "Joshua A. Levine", "Remco Chang", "Carlos Scheidegger"]
+
+- title: "Training Deep Network Ultrasound Beamformers with Unlabeled In Vivo Data"
+  doi: "https://doi.org/10.1109/TMI.2021.3107198"
+  snap: "/papersnaps/daub-tmi.png"
+  pubinfo: "IEEE Transactions on Medical Imaging"
+  date: "2021"
+  authors: ["Jaime Tierney", "Adam Luchies", "Christopher Kahn", "Jennifer Baker", "Daniel Brown", "Brett Byram", "Matthew Berger"]
+
 - title: "Compressive Neural Representations of Volumetric Scalar Fields"
   arxiv: "https://arxiv.org/abs/2104.04523"
   snap: "/papersnaps/neurcomp.jpg"
@@ -73,13 +106,6 @@
   pubinfo: "IEEE TVCG"
   date: "2019"
   authors: ["Matthew Berger", "Jixian Li", "Joshua A. Levine"]
-
-- title: "NNCubes: Learned Structures for Visual Data Exploration"
-  arxiv: "https://arxiv.org/abs/1808.08983"
-  snap: "/papersnaps/nncubes.png"
-  pubinfo: "arXiv"
-  date: "2018"
-  authors: ["Zhe Wang", "Dylan Cashman", "Mingwei Li", "Jixian Li", "Matthew Berger", "Joshua A. Levine", "Remco Chang", "Carlos Scheidegger"]
 
 - title: "Visual Supervision in Bootstrapped Information Extraction"
   snap: "/papersnaps/visboot.png"
