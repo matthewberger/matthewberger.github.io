@@ -153,7 +153,7 @@ Please email me, directly, your peer assessment.
 * Proposal notebook: Feb 28
 * Prototype: Mar 28
 * Project presentations: Apr 27
-* Final project: May 4
+* Final project: May 6
 
 ## Acknowledgements
 
