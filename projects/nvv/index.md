@@ -44,6 +44,12 @@ The focus of this project is on the development of deep learning-based volume vi
 
 ## Publications
 
+<img align="left" src="/projects/nvv/images/neurflow.png" width=128 height=128 style="padding-right: 5px;">
+
+Saroj Sahoo, Yuzhe Lu, Matthew Berger<br>
+Neural Flow Map Reconstruction<br>
+EuroVis, 2022<br><br><br>
+
 <img align="left" src="/projects/nvv/images/neurcomp.png" width=128 height=128 style="padding-right: 5px;">
 
 Yuzhe Lu, Kairong Jiang, Joshua A. Levine, Matthew Berger<br>
