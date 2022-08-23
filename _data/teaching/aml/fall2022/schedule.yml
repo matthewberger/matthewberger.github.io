@@ -8,7 +8,7 @@
   monday-title: "Linear Regression"
   monday-required-reading: "(PML-1) Ch. 3.2-3.4, Ch. 11.7, (GPML) Ch. 2.1"
   wednesday-title: "Gaussian Process Regression"
-  wednesday-required-reading: "(PML-2) Ch. 18.1-18.3 (RW) Ch. 2.2-2.6"
+  wednesday-required-reading: "(PML-2) Ch. 18.1-18.3 (GPML) Ch. 2.2-2.6"
   wednesday-recommended-reading: "[Exploring Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)"
 
 - week-title: "Bayesian Classification"
