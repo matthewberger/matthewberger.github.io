@@ -1,7 +1,8 @@
 - week-title: "Course Introduction, Bayesian Statistics"
   week-date: "August 24"
-  wednesday-title: "Course Introduction, Bayesian Statistics"
+  wednesday-title: "Course Introduction, Bayesian Statistics [keynote](https://vanderbilt.box.com/s/dvuf0ufiudqjb6rjzr4w4w6wehbse4ra), [pdf](https://vanderbilt.box.com/s/qauoerrmbdq02gawyb5xq8za90sey61u)"
   wednesday-required-reading: "(PML-1) Ch. 2.1-2.4, Ch. 4.6"
+  wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment1/) **Posted**"
 
 - week-title: "Bayesian Regression"
   week-date: "August 29"
@@ -10,6 +11,8 @@
   wednesday-title: "Gaussian Process Regression"
   wednesday-required-reading: "(PML-2) Ch. 18.1-18.3 (GPML) Ch. 2.2-2.6"
   wednesday-recommended-reading: "[Exploring Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)"
+  friday-title: ""
+  friday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment1/) **Due**"
 
 - week-title: "Bayesian Classification"
   week-date: "September 5"

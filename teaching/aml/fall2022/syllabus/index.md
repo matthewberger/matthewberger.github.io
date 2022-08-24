@@ -100,7 +100,7 @@ TA office hours: MW 11am-12pm
 
 ## Course Format
 
-This course is lecture-based. I will primarily deliver lectures through slides, and on occasion use the whiteboard. All slides will be posted to the website (see [schedule](/teaching/aml/fall2022/schedule) in pdf and keynote format.
+This course is lecture-based. I will primarily deliver lectures through slides, and on occasion use the whiteboard. All slides will be posted to the website (see [schedule](/teaching/aml/fall2022/schedule)) in pdf and keynote format.
 
 We will primarily use Kevin Murphy's (updated) textbooks on Probabilistic Machine Learning:
 
