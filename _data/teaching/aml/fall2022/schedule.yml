@@ -6,7 +6,7 @@
 
 - week-title: "Bayesian Regression"
   week-date: "August 29"
-  monday-title: "Linear Regression"
+  monday-title: "Linear Regression [keynote](https://vanderbilt.box.com/s/u6pbiylx4u8nqnlbee5fv2f4uu7r07a5), [pdf](https://vanderbilt.box.com/s/thvkpbr22ajcjb4e4x4frejbixnpc7kb)"
   monday-required-reading: "(PML-1) Ch. 3.2-3.4, Ch. 11.7, (GPML) Ch. 2.1"
   wednesday-title: "Gaussian Process Regression"
   wednesday-required-reading: "(PML-2) Ch. 18.1-18.3 (GPML) Ch. 2.2-2.6"
