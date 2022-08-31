@@ -8,9 +8,9 @@
   week-date: "August 29"
   monday-title: "Linear Regression [keynote](https://vanderbilt.box.com/s/u6pbiylx4u8nqnlbee5fv2f4uu7r07a5), [pdf](https://vanderbilt.box.com/s/thvkpbr22ajcjb4e4x4frejbixnpc7kb)"
   monday-required-reading: "(PML-1) Ch. 3.2-3.4, Ch. 11.7, (GPML) Ch. 2.1"
-  wednesday-title: "Gaussian Process Regression"
+  wednesday-title: "Gaussian Process Regression [keynote](https://vanderbilt.box.com/s/ehtssvmcfudvw8kzk2c2b8lpj02wwjd8), [pdf](https://vanderbilt.box.com/s/ql0yt3vxqw7v79h48zldotlmh8mlc70z)"
   wednesday-required-reading: "(PML-2) Ch. 18.1-18.3 (GPML) Ch. 2.2-2.6"
-  wednesday-recommended-reading: "[Exploring Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)"
+  wednesday-recommended-reading: "[Exploring Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/), [Interactive notebook comparing kernels and hyperparameters](https://observablehq.com/@mattberger/gp-kernels)"
   friday-title: ""
   friday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment1/) **Due**"
 
