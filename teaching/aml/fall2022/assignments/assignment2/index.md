@@ -94,6 +94,7 @@ For numerical stability purposes, inverting the Hessian should be performed via 
 You should next form the predictive distribution for your latent function, given a set of data instances (e.g. your validation inputs, but this could be arbitrary). For a _single_ input, this requires:
 * Computing the predictive mean (a single scalar). This should be pretty straightforward.
 * Computing the predictive variance (a single scalar). This is a bit more involved, since we need to combine two sources of variance: from the GP prior, _and_ the Laplace approximation.
+
 The above two quantities will form the parameters of a Gaussian distribution. Note: this computation should be vectorized over _all_ input instances, using suitable matrix computations.
 
 As above, numerically-stable matrix inversion is essential here, with details found in (GPML) Sec. 3.4.3.
@@ -122,9 +123,9 @@ Last, you should provide a discussion on your findings.
 
 ### The reject option (10 points)
 
-Next, for each dataset, choose a hyperparameter setting, and build a GP classifier. Then, you will use the probabilities produced by the model to _reject_ samples that are of sufficiently-high uncertainty. Namely, for a specific threshold (e.g. in the range [0,0.5]), you should perform the following:
+Next, for each dataset, choose a hyperparameter setting, and build a GP classifier. Then, you will use the probabilities produced by the model to _reject_ samples that are of high uncertainty. Namely, for a specific reject threshold (e.g. in the range [0,0.5]), you should perform the following:
 
-1. Gather all samples in the validation dataset whose uncertainty is _below_ the threshold. You can compute the uncertainty as $\|p(y_* \| \mathbf{x}_*) - 0.5\|$, whether predicting 0 or 1.
+1. Gather all samples in the validation dataset whose confidence is _above_ the threshold. You can compute confidence as $\|p(y_* \| \mathbf{x}_*) - 0.5\|$, whether predicting 0 or 1.
 2. For _this subset of samples_, compute the accuracy on the ground truth.
 3. Moreover, for all examples that were _retained_ at a given threshold, store their corresponding sentences.
 
