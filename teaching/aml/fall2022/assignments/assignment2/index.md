@@ -124,7 +124,7 @@ Last, you should provide a discussion on your findings.
 
 Next, for each dataset, choose a hyperparameter setting, and build a GP classifier. Then, you will use the probabilities produced by the model to _reject_ samples that are of sufficiently-high uncertainty. Namely, for a specific threshold (e.g. in the range [0,0.5]), you should perform the following:
 
-1. Gather all samples in the validation dataset whose uncertainty is _below_ the threshold. You can compute the uncertainty as $|p(y_* ; \mathbf{x}_*) - 0.5|$, whether predicting 0 or 1.
+1. Gather all samples in the validation dataset whose uncertainty is _below_ the threshold. You can compute the uncertainty as $\|p(y_* \| \mathbf{x}_*) - 0.5\|$, whether predicting 0 or 1.
 2. For _this subset of samples_, compute the accuracy on the ground truth.
 3. Moreover, for all examples that were _retained_ at a given threshold, store their corresponding sentences.
 
