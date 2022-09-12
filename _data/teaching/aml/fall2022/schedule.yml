@@ -24,8 +24,9 @@
 
 - week-title: "Model Selection"
   week-date: "September 12"
-  monday-title: "Bayesian Model Selection"
+  monday-title: "Bayesian Model Selection [keynote](https://vanderbilt.box.com/s/0ay4fuhi2tyl5ks02ib5dop914bueypr), [pdf](https://vanderbilt.box.com/s/w0sq2gz8l8oubeooz6aj5w09to628kib)"
   monday-required-reading: "(PML-2) Ch. 3.9"
+  monday-recommended-reading: "[Estimating a Dirichlet distribution](https://tminka.github.io/papers/dirichlet/minka-dirichlet.pdf), [LOO Importance Sampling](https://stat.columbia.edu/~gelman/research/published/loo_stan.pdf)"
   wednesday-title: "Training Gaussian Processes"
   wednesday-required-reading: "(GPML) Ch. 5"
 
