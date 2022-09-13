@@ -28,7 +28,7 @@
   monday-required-reading: "(PML-2) Ch. 3.9"
   monday-recommended-reading: "[Estimating a Dirichlet distribution](https://tminka.github.io/papers/dirichlet/minka-dirichlet.pdf), [LOO Importance Sampling](https://stat.columbia.edu/~gelman/research/published/loo_stan.pdf)"
   wednesday-title: "Training Gaussian Processes"
-  wednesday-required-reading: "(GPML) Ch. 5"
+  wednesday-required-reading: "(GPML) Ch. 5, (PML-2) Ch. 18.6"
 
 - week-title: "Variational Inference: mean-field methods"
   week-date: "September 19"
