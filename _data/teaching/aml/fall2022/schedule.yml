@@ -34,7 +34,7 @@
 - week-title: "Variational Inference: mean-field methods"
   week-date: "September 19"
   monday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment2/) **Due**"
-  monday-title: "Background: information theory, ELBO, mean-field inference"
+  monday-title: "Background: information theory, ELBO, mean-field inference [keynote](https://vanderbilt.box.com/s/m03mzpm2p8ktn4izfg6c66dvwmp53moq), [pdf](https://vanderbilt.box.com/s/qmdh1t0r4ow055lzpn5gp5y5amyg0ukx)"
   monday-required-reading: "(PML-1) Ch. 6.1-6.2, (PML-2) Ch. 5.1, Ch. 10.1-10.2"
   wednesday-title: "Coordinate ascent, EM and Variational Bayes"
   wednesday-required-reading: "(PML-2) Ch. 6.6, 10.2"
@@ -64,6 +64,7 @@
   week-date: "October 17"
   monday-title: "TBA"
   wednesday-title: "TBA"
+  wednesday-assignment: "Project proposal **Due**"
 
 - week-title: "MCMC, Sparse Gaussian Processes"
   week-date: "October 24"
@@ -89,6 +90,7 @@
 
 - week-title: "Variational Autoencoders"
   week-date: "November 14"
+  monday-assignment: "Project midway report **Due**"
   monday-title: "VAEs, beta-VAEs"
   wednesday-title: "TBA"
 
@@ -106,3 +108,9 @@
   week-date: "December 5"
   monday-title: "TBA"
   wednesday-title: "Final Project Presentations"
+
+- week-title: "Final Project Submissions"
+  week-date: "December 12"
+  monday-title: ""
+  wednesday-title: ""
+  wednesday-assignment: "Final project submissions **Due**"
