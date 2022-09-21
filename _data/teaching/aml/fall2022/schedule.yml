@@ -36,7 +36,7 @@
   monday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment2/) **Due**"
   monday-title: "Background: information theory, ELBO, mean-field inference [keynote](https://vanderbilt.box.com/s/m03mzpm2p8ktn4izfg6c66dvwmp53moq), [pdf](https://vanderbilt.box.com/s/qmdh1t0r4ow055lzpn5gp5y5amyg0ukx)"
   monday-required-reading: "(PML-1) Ch. 6.1-6.2, (PML-2) Ch. 5.1, Ch. 10.1-10.2"
-  wednesday-title: "Coordinate ascent, EM and Variational Bayes"
+  wednesday-title: "Coordinate ascent, EM and Variational Bayes [keynote](https://vanderbilt.box.com/s/xsve9ykur9qmeoc908dctsbwh4c973wh), [pdf](https://vanderbilt.box.com/s/7q5x2ytdps9hco0adtj30hq1p7v24pmd)"
   wednesday-required-reading: "(PML-2) Ch. 6.6, 10.2"
 
 - week-title: "Variational Inference: fixed-form methods"
