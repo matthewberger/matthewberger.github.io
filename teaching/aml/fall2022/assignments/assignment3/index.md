@@ -70,7 +70,7 @@ Data that you should use for building your models (train data) has been provided
 
 Starter code has been supplied in the file `gp.py`. As in the previous assignment, you may choose to build off of this, or start from scratch. Moreover, for experiments, you are free to work in the `main` of `gp.py`, but if you like, you may set up a separate script for experimentation.
 
-[Please click here for data and code for this assignment]().
+[Please click here for data and code for this assignment](https://vanderbilt.box.com/s/2dac8383qn0a1b8vm1e2mfax21keyoau).
 
 ## Gaussian process regression (30 points)
 
