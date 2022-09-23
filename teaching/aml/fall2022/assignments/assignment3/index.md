@@ -118,7 +118,7 @@ On Brightspace, your submission should include:
 2. Data (nothing new you need to generate, just the original)
 3. PDF formatted in LaTex
 
-This assignment is due on **October 4**.
+This assignment is due on **October 5**.
 
 # JAX Tips
 

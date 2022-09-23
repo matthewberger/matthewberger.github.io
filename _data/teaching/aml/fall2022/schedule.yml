@@ -38,6 +38,8 @@
   monday-required-reading: "(PML-1) Ch. 6.1-6.2, (PML-2) Ch. 5.1, Ch. 10.1-10.2"
   wednesday-title: "Coordinate ascent, EM and Variational Bayes [keynote](https://vanderbilt.box.com/s/xsve9ykur9qmeoc908dctsbwh4c973wh), [pdf](https://vanderbilt.box.com/s/7q5x2ytdps9hco0adtj30hq1p7v24pmd)"
   wednesday-required-reading: "(PML-2) Ch. 6.6, 10.2"
+  friday-title: ""
+  friday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment3/) **Posted**"
 
 - week-title: "Variational Inference: fixed-form methods"
   week-date: "September 26"
@@ -54,6 +56,7 @@
   monday-recommended-reading: "[Cool MCMC demo](https://chi-feng.github.io/mcmc-demo/app.html)"
   wednesday-title: "Midterm review, Gibbs sampling, slice sampling"
   wednesday-required-reading: "(PML-2) Ch. 12.3-12.4"
+  wednesday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment3/) **Due**"
 
 - week-title: "Midterm, Project Introductions"
   week-date: "October 10"
