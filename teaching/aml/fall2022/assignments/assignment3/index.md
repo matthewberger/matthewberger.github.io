@@ -83,7 +83,7 @@ As part of your model, you will need to specify a set of hyperparameters for the
 
 You will divide _each_ attribute for a given data instance by its length scale, prior to computing squared Euclidean distances. In effect, this corresponds to a Mahalanobis distance, under a diagonal matrix, where the squared distance between points will be computed as:
 
-$d_M^2(\mathbf{x}_i,\mathbf{x}_j) = (\mathbf{x}_i - \mathbf{x}_j)^T \mathbf{L} (\mathbf{x}_i - \mathbf{x}_j)$
+$d_M^2(\mathbf{x}_i,\mathbf{x}_j) = (\mathbf{x}_i - \mathbf{x}_j)^T \mathbf{L}^{-1} (\mathbf{x}_i - \mathbf{x}_j)$
 
 Given a set of length scales $(l_1,l_2,\ldots,l_d)$, the matrix $\mathbf{L}$ is diagonal, with diagonal elements $\mathbf{L}_{ii} = l_i^2$.
 
