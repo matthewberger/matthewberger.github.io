@@ -45,7 +45,7 @@
   week-date: "September 26"
   monday-title: "Background: exponential family, natural gradients, stochastic gradient descent [keynote](https://vanderbilt.box.com/s/fyk9i19lmhdw1rl72k2x6ae3mdyh3rq6), [pdf](https://vanderbilt.box.com/s/8vxw5xqm5f2tig744wfw4ay89qw4qsnu)"
   monday-required-reading: "(PML-2) Ch. 2.3-2.5, 6.3-6.4"
-  wednesday-title: "Stochastic variational inference, black-box variational inference, wake-sleep"
+  wednesday-title: "Stochastic variational inference, black-box variational inference [keynote](https://vanderbilt.box.com/s/509d99cvfxyxgsvluo04w3yvayr1h7xi), [pdf](https://vanderbilt.box.com/s/p6d3abv6pi3tvwfmz00crty4qnghq0pn)"
   wednesday-required-reading: "(PML-2) Ch. 10.3, 10.6"
   wednesday-recommended-reading: "[Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)"
 
