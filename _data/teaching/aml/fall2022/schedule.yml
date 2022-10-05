@@ -54,7 +54,7 @@
   monday-title: "Background: Markov chains, Monte Carlo, Metropolis Hastings [keynote](https://vanderbilt.box.com/s/bu6417se804ju17s1orsv2wqojvb080d), [pdf](https://vanderbilt.box.com/s/yg97hfbck3t5tyfwxcrpzv92ixmn9my1)"
   monday-required-reading: "(PML-2) Ch. 2.6, 11.5, 12.1-12.2"
   monday-recommended-reading: "[Cool MCMC demo](https://chi-feng.github.io/mcmc-demo/app.html)"
-  wednesday-title: "Midterm review, Gibbs sampling, slice sampling"
+  wednesday-title: "Midterm review, Gibbs sampling, slice sampling [keynote](https://vanderbilt.box.com/s/zmnh6l4zhamq9k5qrtf0jof71wlsacfg), [pdf](https://vanderbilt.box.com/s/dues3ze99pu2vqol3om9efixn6frg6rf)"
   wednesday-required-reading: "(PML-2) Ch. 12.3-12.4"
   wednesday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2022/assignments/assignment3/) **Due**"
 
