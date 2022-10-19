@@ -68,7 +68,7 @@
   monday-title: "Hamiltonian Monte Carlo [keynote](https://vanderbilt.box.com/s/nuvjr96tp3haidrifpmgf3uouctsdw0a), [pdf](https://vanderbilt.box.com/s/w277z2wng4r1id1mbit3uvusb1e5v6jq)"
   monday-required-reading: "(PML-2) Ch. 12.5-12.7"
   monday-recommended-reading: "[Conceptual introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434.pdf), [NUTS: No-U-Turn Sampler](https://www.jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf)"
-  wednesday-title: "Sparse GPs: inducing point methods, sparse variational GPs"
+  wednesday-title: "Sparse GPs: inducing point methods, sparse variational GPs [keynote](https://vanderbilt.box.com/s/vxud1xrrx22ugin6pkjem6b8uvhjm9zo), [pdf](https://vanderbilt.box.com/s/h6v119d03rumyo625hloxb0dr2vmvnrr)"
   wednesday-assignment: "Project proposal **Due**"
   wednesday-required-reading: "(PML-2) Ch. 18.5"
   wednesday-recommended-reading: "[Variational learning of inducing variables](http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf), [Stochastic variational inference for GPs](https://arxiv.org/abs/1309.6835)"
