@@ -78,7 +78,7 @@ $p(\mathbf{U} \| \lambda_u) = \prod_{i=1}^N \mathcal{N}(\mathbf{u}_i \| \mathbf{
 
 where $\lambda_u$ is a precision hyperparameter. Likewise, we will endow a Gaussian prior shared across all latent beer representations:
 
-$p(\mathbf{V} \| \lambda_v) = \prod_{i=1}^N \mathcal{M}(\mathbf{v}_i \| \mathbf{0}, \lambda_v^{-1}\mathbf{I})$,
+$p(\mathbf{V} \| \lambda_v) = \prod_{i=1}^N \mathcal{N}(\mathbf{v}_i \| \mathbf{0}, \lambda_v^{-1}\mathbf{I})$,
 
 where $\lambda_v$ is a precision hyperparameter. Last, the hyperparameters will be endowed with Gamma priors:
 
@@ -90,7 +90,7 @@ The fixed values of 2 in the above can be modified to your liking.
 
 ### Inference
 
-We are concerned with performing inference, and thus, drawing samples from the posterior distribution. Given the above model definition, a sample, indexed by $s$ is comprised of a user representation matrix $\mathbf{U}_{s}$, a beer representation matrix, and precision parameters and. For computing the predictive distribution, we perform Monte Carlo integration with the drawn user and beer matrices over the withheld test preferences (user-beer pairings). MC integration will provide us with the predictive mean.
+We are concerned with performing inference, and thus, drawing samples from the posterior distribution. Given the above model definition, a sample, indexed by $s$ is comprised of a user representation matrix $\mathbf{U}_{s}$, a beer representation matrix $\mathbf{V}_{s}$, along with the (scalar) precision parameters for user/beer. For computing the predictive distribution, we perform Monte Carlo integration with the drawn user and beer matrices over the withheld test preferences (user-beer pairings). MC integration will provide us with the predictive mean.
 
 ### Data and starting code
 
