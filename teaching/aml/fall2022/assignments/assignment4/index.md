@@ -78,7 +78,7 @@ $p(\mathbf{U} \| \lambda_u) = \prod_{i=1}^N \mathcal{N}(\mathbf{u}_i \| \mathbf{
 
 where $\lambda_u$ is a precision hyperparameter. Likewise, we will endow a Gaussian prior shared across all latent beer representations:
 
-$p(\mathbf{V} \| \lambda_v) = \prod_{i=1}^N \mathcal{N}(\mathbf{v}_i \| \mathbf{0}, \lambda_v^{-1}\mathbf{I})$,
+$p(\mathbf{V} \| \lambda_v) = \prod_{i=1}^M \mathcal{N}(\mathbf{v}_i \| \mathbf{0}, \lambda_v^{-1}\mathbf{I})$,
 
 where $\lambda_v$ is a precision hyperparameter. Last, the hyperparameters will be endowed with Gamma priors:
 
