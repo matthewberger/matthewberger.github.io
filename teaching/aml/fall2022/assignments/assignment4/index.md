@@ -118,7 +118,7 @@ You will prepare a document that, in addition to containing your derivations for
 
 ### Trace plots of precision
 
-To assess convergence of a Markov chain to the stationary distribution, it is common to show so-called **trace plots** (see: (PML-2) Sec. 12.6.2.1) , where we run **multiple chains**, and for each we store (certain) model parameters over the course of MCMC. Last, for a single parameter we plot its values over all iterations as a line plot, one for each chain. In other words, if our starting points are different, then where we end up through MCMC should be (roughly) the same.
+To assess convergence of a Markov chain to the stationary distribution, it is common to show so-called **trace plots** (see: (PML-2) Sec. 12.6.2.1) , where we run **multiple chains**, and for each we store (certain) model parameters over the course of MCMC. For a single parameter we plot its values over all iterations as a line plot, one for each chain. In other words, if our starting points are different, then where we end up through MCMC should be (roughly) the same.
 
 You should generate trace plots for both of the precision hyperparameters, for 5 different chains. Each chain should be distinguished by a unique initial number for the pseudorandom number generator (see `utils.py` at the very top, default to 0). You should set $D = 2$, in order to more-efficiently generate these results.
 
