@@ -96,6 +96,8 @@ We are concerned with performing inference, and thus, drawing samples from the p
 
 You can find data and starting code for the assignment [at this link](https://vanderbilt.box.com/s/e7qm6j6fjpz11280j44tt4sqhdtywsl5).
 
+The data consists of triples for train and test preferences, as well as a list of beer names, indexed consistently with the beer ids in the data.
+
 ## Deriving and implementing Bayesian matrix factorization (35 points)
 
 For HMC, we only require the unnormalized posterior, specifically the **log of the joint distribution** of data and model parameters. So the first thing you should do is derive the log joint - combine the likelihood with the priors. As part of a document you will prepare for the assignment, you should explicitly show your derivation, gathering all terms that are required for the log joint distribution - user/beer latent representations. and user/beer precision hyperparameters - and discarding constants. Your final derivation should be one that is both _efficient_  and _numerically-stable_ to compute.
