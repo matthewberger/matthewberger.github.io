@@ -66,7 +66,7 @@ This can be viewed as a problem of matrix factorization, but for the assignment,
 
 We have the following Gaussian likelihood:
 
-$p(\mathcal{T} | \mathbf{U},\mathbf{V}) = \prod_{(i,j,v) \in \mathcal{T}} \mathcal{N}(v \| \mathbf{u}_i^T \mathbf{v}_j, 1)$,
+$p(\mathcal{T} \| \mathbf{U},\mathbf{V}) = \prod_{(i,j,v) \in \mathcal{T}} \mathcal{N}(v \| \mathbf{u}_i^T \mathbf{v}_j, 1)$,
 
 where the $(i,j,v)$ triplet is a training data item that respectively contains user id $i$, beer id $j$, and preference value $v$. Matrices $\mathbf{U}$ and $\mathbf{V}$ contain, respectively, the latent user vectors and latent beer vectors.
 
@@ -82,9 +82,9 @@ $p(\mathbf{V} \| \lambda_v) = \prod_{i=1}^N \mathcal{M}(\mathbf{v}_i \| \mathbf{
 
 where $\lambda_v$ is a precision hyperparameter. Last, the hyperparameters will be endowed with Gamma priors:
 
-$p(\lambda_u) = Ga(\lambda_u \| 2,2)
+$p(\lambda_u) = Ga(\lambda_u \| 2,2)$
 
-$p(\lambda_v) = Ga(\lambda_v \| 2,2)
+$p(\lambda_v) = Ga(\lambda_v \| 2,2)$
 
 The fixed values of 2 in the above can be modified to your liking.
 
