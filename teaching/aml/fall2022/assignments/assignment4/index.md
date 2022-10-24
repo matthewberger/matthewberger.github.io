@@ -90,7 +90,7 @@ The fixed values of 2 in the above can be modified to your liking.
 
 ### Inference
 
-We are concerned with performing inference, and thus, drawing samples from the posterior distribution. Given the above model definition, a "sample", indexed by $s$ is comprised of a user representation matrix $\mathbf{U}_s$, a beer representation matrix $\mathbf{V}_s$, and precision parameters $\lambda_{u,s}$ and $\lambda_{v,s}$. For computing the predictive distribution, we perform Monte Carlo integration with the drawn user and beer matrices over the withheld test preferences (user-beer pairings). MC integration will provide us with the predictive mean.
+We are concerned with performing inference, and thus, drawing samples from the posterior distribution. Given the above model definition, a sample, indexed by $s$ is comprised of a user representation matrix $\mathbf{U}_{s}$, a beer representation matrix $\mathbf{V}_{s}$, and precision parameters $\lambda_{u,s}$ and $\lambda_{v,s}$. For computing the predictive distribution, we perform Monte Carlo integration with the drawn user and beer matrices over the withheld test preferences (user-beer pairings). MC integration will provide us with the predictive mean.
 
 ### Data and starting code
 
