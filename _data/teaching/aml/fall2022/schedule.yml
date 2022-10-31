@@ -85,7 +85,7 @@
 
 - week-title: "Active Learning"
   week-date: "October 31"
-  monday-title: "Actve learning introduction"
+  monday-title: "Actve learning introduction [keynote](https://vanderbilt.box.com/s/pinde590dpimbwapvny0i9quwgo95rob), [pdf](https://vanderbilt.box.com/s/2mf7ttjwif7fa0wp20ld1fba7joivj1k)"
   monday-required-reading: "[Active learning survey](https://burrsettles.com/pub/settles.activelearning.pdf)"
   monday-recommended-reading: "[Active learning using pre-clustering](https://icml.cc/Conferences/2004/proceedings/papers/94.pdf), [Gaussian Processes for Object Categorization](https://www1.icsi.berkeley.edu/pubs/vision/gaussian.pdf)"
   wednesday-title: "(Deep) Bayesian active learning"
