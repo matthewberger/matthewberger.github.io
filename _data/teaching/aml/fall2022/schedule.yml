@@ -96,7 +96,7 @@
 
 - week-title: "Variational Autoencoders"
   week-date: "November 7"
-  monday-title: "VAE basics"
+  monday-title: "VAE basics [keynote](https://vanderbilt.box.com/s/ouamexst236wpob5hzkivar3uoyx04ss), [pdf](https://vanderbilt.box.com/s/zei1gq9lafupsqdqqtud5tx7ekz3erfg)"
   monday-required-reading: "(PML-2) Ch. 21.2"
   monday-recommended-reading: "[Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)"
   wednesday-title: "Disentanglement, hierarchies, structured decoders, discrete variables"
