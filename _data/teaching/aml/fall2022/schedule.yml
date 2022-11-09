@@ -99,7 +99,7 @@
   monday-title: "VAE basics [keynote](https://vanderbilt.box.com/s/ouamexst236wpob5hzkivar3uoyx04ss), [pdf](https://vanderbilt.box.com/s/zei1gq9lafupsqdqqtud5tx7ekz3erfg)"
   monday-required-reading: "(PML-2) Ch. 21.2"
   monday-recommended-reading: "[Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)"
-  wednesday-title: "Disentanglement, hierarchies, structured decoders, discrete variables"
+  wednesday-title: "Disentanglement, hierarchies, structured decoders, discrete variables [keynote](https://vanderbilt.box.com/s/zb0cbmoma08unbserbtzqge1bqa5rlfk), [pdf](https://vanderbilt.box.com/s/46efxcs9hk0ss0pexz8pgzn15ghogfh3)"
   wednesday-required-reading: "(PML-2) Ch. 21.3, 21.5-21.6"
   wednesday-recommended-reading: "[On implicit regularization in beta-VAEs](http://proceedings.mlr.press/v119/kumar20d/kumar20d.pdf), [Grammar variational autoencoder](http://proceedings.mlr.press/v70/kusner17a/kusner17a.pdf), [Vector-quantized VAEs](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)"
 
