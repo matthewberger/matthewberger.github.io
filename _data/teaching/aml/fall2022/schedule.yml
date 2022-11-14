@@ -106,10 +106,10 @@
 - week-title: "Normalizing Flows"
   week-date: "November 14"
   monday-assignment: "Project midway report **Due**"
-  monday-title: "Normalizing flows: basics, elementwise flows, coupled flows"
+  monday-title: "Normalizing flows: basics, elementwise flows, coupled flows [keynote](https://vanderbilt.box.com/s/0ao1qjz8tocchftsx3j4020pwqubgc6v), [pdf](https://vanderbilt.box.com/s/v09szfmd4ovl2r4p6a5qugxqh5qyawpc)"
   monday-required-reading: "(PML-2) Ch. 23.1, 23.2.1-23.2.3"
   monday-recommended-reading: "[Variational inference with normalizing flows](http://proceedings.mlr.press/v37/rezende15.pdf), [Density estimation using real NVP](https://openreview.net/pdf?id=HkpbnH9lx)"
-  wednesday-title: "Autoregressive flows, residual flows, continuous-time flows"
+  wednesday-title: "Residual flows, continuous-time flows"
   wednesday-required-reading: "(PML-2) 23.2.4-23.2.6"
   wednesday-recommended-reading: "[Inverse autoregressive flows](https://proceedings.neurips.cc/paper/2016/file/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf), [Invertible residual networks](http://proceedings.mlr.press/v97/behrmann19a/behrmann19a.pdf), [FFJORD](https://openreview.net/pdf?id=rJxgknCcK7)"
 
