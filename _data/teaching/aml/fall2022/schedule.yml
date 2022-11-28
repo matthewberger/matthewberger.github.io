@@ -120,7 +120,7 @@
 
 - week-title: "Energy-based Models, Latent Factor Models"
   week-date: "November 28"
-  monday-title: "Energy-based models: basics, score matching"
+  monday-title: "Energy-based models: basics, score matching [keynote](https://vanderbilt.box.com/s/50hevfm2oe8y8rel0hevthfhp4vij3a8), [pdf](https://vanderbilt.box.com/s/op3q5xpfbgieo4m1mwdtse9sekqxlf0w)"
   monday-required-reading: "(PML-2) Ch. 24.1-24.3"
   monday-recommended-reading: "[Contrastive divergence minimization](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf), [Score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf), [Sliced score matching](http://proceedings.mlr.press/v115/song20a/song20a.pdf)"
   wednesday-required-reading: "(PML-2) Ch. 28.2.4, 28.3-28.4"
