@@ -124,7 +124,7 @@
   monday-required-reading: "(PML-2) Ch. 24.1-24.3"
   monday-recommended-reading: "[Contrastive divergence minimization](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf), [Score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf), [Sliced score matching](http://proceedings.mlr.press/v115/song20a/song20a.pdf)"
   wednesday-required-reading: "(PML-2) Ch. 28.2.4, 28.3-28.4"
-  wednesday-title: "Latent factor models: Gaussian scale mixtures, exponential families, non-Gaussian priors"
+  wednesday-title: "Latent factor models [keynote](https://vanderbilt.box.com/s/daw2sksuezgy0yf0erlqfhcx7nkwupy1), [pdf](https://vanderbilt.box.com/s/5y72ri17ookab4wf4mx00tcg16tg0a9z)"
 
 - week-title: "Nonparametric Bayes, Final Project Presentations"
   week-date: "December 5"
