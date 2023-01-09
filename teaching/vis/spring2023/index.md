@@ -68,9 +68,9 @@ Jiacheng Wang
 
 email: <a href="mailto:jiacheng.wang.1@vanderbilt.edu">jiacheng.wang.1@vanderbilt.edu</a><br>
 
-Office: TBA
+Office: Tuesdays & Thursdays 3pm-4pm
 
-TA office hours: TBA
+TA office hours: Featheringill Hall 304
 
 ## Syllabus
 
