@@ -1,6 +1,6 @@
 - week-title: "Course introduction, visualization design"
   week-date: "January 9"
-  monday-title: "Course introduction"
+  monday-title: "Course introduction [pdf](https://vanderbilt.box.com/s/5aw8arndyvgh2zqw2fusq47tkzbyxbr9), [keynote](https://vanderbilt.box.com/s/fz8k94v2gn60soi3yfv70ioyvl4wgu99)"
   monday-recommended-reading: "[Visualization Zoo](https://dl.acm.org/doi/pdf/10.1145/1743546.1743567), [The Value of Visualization](https://www.win.tue.nl/~vanwijk/vov.pdf), [Ways that Vis Misleads](https://cu-visualab.org/papers/p26-szafir.pdf)"
   monday-assignment: "[Design Critique 1 posted](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique1/)"
   wednesday-title: "Characterizing data, visually encoding data"
