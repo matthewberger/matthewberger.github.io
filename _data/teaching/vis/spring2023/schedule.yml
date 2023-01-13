@@ -5,7 +5,7 @@
   monday-assignment: "[Design Critique 1 posted](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique1/)"
   wednesday-title: "Characterizing data, visually encoding data [pdf](https://vanderbilt.box.com/s/dlhx7965a55lm1uu215mmwmtngwunohn), [keynote](https://vanderbilt.box.com/s/mcsana8w34s38uxpdvyx74rkni808mwp)"
   wednesday-required-reading: "**Munzner** Ch. 2"
-  friday-title: "Visual encodings continued, scales"
+  friday-title: "Visual encodings continued, scales [pdf](https://vanderbilt.box.com/s/e7244alvx17ffrkj6dsyevho28rv1o67), [keynote](https://vanderbilt.box.com/s/q0k7fei6bh8mx76p82iui8y3tt9gprji)"
   friday-required-reading: "**Munzner** Ch. 5.1 -- 5.3, 10.4"
   friday-recommended-reading: "[A Layered Grammar of Graphics](https://vita.had.co.nz/papers/layered-grammar.pdf), [Vega-Lite](https://idl.cs.washington.edu/files/2017-VegaLite-InfoVis.pdf)"
 
@@ -13,7 +13,7 @@
   week-date: "January 16"
   monday-title: "Martin Luther King Jr. Day, no class"
   wednesday-title: "JavaScript, Observable, HTML, SVG"
-  wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on Observable, HTML, SVG"
+  wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on JavaScript, Observable, SVG"
   wednesday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique1/)"
   friday-title: "SVG continued, D3: selections and joins"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 joins"
