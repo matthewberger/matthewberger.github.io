@@ -89,3 +89,4 @@ To emphasize: **never select the Can view option** when sharing your solution. A
 
 # Programming Assignments
 
+[Programming Assignment 1](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-1)

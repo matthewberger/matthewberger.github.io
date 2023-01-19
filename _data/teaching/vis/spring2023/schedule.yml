@@ -17,6 +17,7 @@
   wednesday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique1/)"
   friday-title: "SVG continued, D3: selections and joins"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 joins"
+  friday-assignment: "[Programming Assignment 1 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-1)"
 
 - week-title: "D3 mechanics, scales, axes, shapes"
   week-date: "January 23"
@@ -26,6 +27,7 @@
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 scales"
   friday-title: "D3 shapes, D3 tips"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 shapes"
+  friday-assignment: "[Programming Assignment 1 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-1)"
 
 - week-title: "Perception & color"
   week-date: "January 30"
