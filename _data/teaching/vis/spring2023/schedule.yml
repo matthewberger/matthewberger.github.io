@@ -25,7 +25,7 @@
   monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 scales"
   wednesday-title: "Advanced D3: grouping data, nested data joins [Nested data joins notebook](https://observablehq.com/d/9c59209a733c5051)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
-  friday-title: "D3 shapes, D3 tips"
+  friday-title: "D3 shapes, Observable & D3 tips [Shapes, tips notebook](https://observablehq.com/d/1e399cc53cc23bcb)"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2023/resources/) on D3 shapes"
   friday-assignment: "[Programming Assignment 1 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-1)"
 
