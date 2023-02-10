@@ -47,7 +47,7 @@ title: Assignments
 
 In this assignment you will perform a critique of the following visualization:
 
-{% include image.html url="/teaching/vis/spring2023/images/gdp-change.png" caption="Options" width=700 align="center" %}
+{% include image.html url="/teaching/vis/spring2023/images/gdp-change.jpg" caption="Options" width=700 align="center" %}
 
 This plot shows the **gross domestic product** (GDP) of different countries, measured in two ways:
 
