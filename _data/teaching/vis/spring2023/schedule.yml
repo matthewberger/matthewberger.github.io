@@ -54,6 +54,7 @@
   friday-title: "Single-view arrangements: layouts, stacking, compositing"
   friday-required-reading: "**Munzner** Ch. 7"
   friday-recommended-reading: "[Stacking geometry](https://www.cg.tuwien.ac.at/courses/InfoVis/papers/InfoVis2008%20Stacked%20Graphs%20-%20Geometry%20&%20Aesthetics%20%5bByron%5d.pdf), [Horizon graphs](http://idl.cs.washington.edu/files/2009-TimeSeries-CHI.pdf)"
+  friday-assignment: "[Design Critique 2 posted](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique2/)"
 
 - week-title: "Single & multiple-view arrangements"
   week-date: "February 13"
@@ -64,6 +65,7 @@
   wednesday-required-reading: "**Munzner** Ch. 12"
   wednesday-recommended-reading: "[Scagnostics](https://research.tableau.com/sites/default/files/Wilkinson_Infovis-05.pdf)"
   friday-title: "Guest lecture TBA"
+  friday-assignment: "[Design Critique 2 due](https://matthewberger.github.io/teaching/vis/spring2023/assignments/critique2/)"
 
 - week-title: "Interaction"
   week-date: "February 20"
