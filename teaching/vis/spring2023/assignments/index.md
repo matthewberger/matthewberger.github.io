@@ -87,6 +87,8 @@ To emphasize: **never select the Can view option** when sharing your solution. A
 
 [Design Critique 1](/teaching/vis/spring2023/assignments/critique1)
 
+[Design Critique 2](/teaching/vis/spring2023/assignments/critique2)
+
 # Programming Assignments
 
 [Programming Assignment 1](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-1)
