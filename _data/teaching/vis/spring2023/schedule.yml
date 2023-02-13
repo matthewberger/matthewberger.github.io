@@ -58,7 +58,7 @@
 
 - week-title: "Single & multiple-view arrangements"
   week-date: "February 13"
-  monday-title: "Single-view arrangements: projections, parallel coordinates"
+  monday-title: "Single-view arrangements: projections, parallel coordinates [keynote](https://vanderbilt.box.com/s/lzmx08v2ew9xxqnodc65fvfl88umiybg), [pdf](https://vanderbilt.box.com/s/z0kcm9drcpsvwcmqotgfjapeamosx12s)"
   monday-required-reading: "[Parallel coordinates survey](http://joules.de/files/heinrich_state_2013.pdf)"
   monday-recommended-reading: "[RadViz & star coordinates](http://www.gmrv.es/Publications/2016/RRDS16/article.pdf), [Parallel Sets](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf)"
   wednesday-title: "Mutiple-view arrangements: small multiples, scatterplot matrices"
