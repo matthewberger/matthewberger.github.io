@@ -70,7 +70,7 @@
 
 - week-title: "Interaction"
   week-date: "February 20"
-  monday-title: "Mutiple-view arrangements: design considerations"
+  monday-title: "Mutiple-view arrangements: design considerations [keynote](https://vanderbilt.box.com/s/dzi6lyip9emyg3i1ic0lyz2743lomxfo), [pdf](https://vanderbilt.box.com/s/t3ym6pb4w97pbbsybgga3odmnn53fpql)"
   monday-required-reading: "[Guidelines for multiple view design](https://dl.acm.org/doi/pdf/10.1145/345513.345271)"
   monday-recommended-reading: "[Composition and configuration patterns](https://arxiv.org/pdf/2007.15407.pdf), [Keeping multiple views consistent](http://users.eecs.northwestern.edu/~jhullman/VIS17_Consistency_CR.pdf)"
   monday-assignment: "[Programming Assignment 3 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-3)"
