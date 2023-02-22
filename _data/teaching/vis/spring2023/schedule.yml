@@ -74,7 +74,7 @@
   monday-required-reading: "[Guidelines for multiple view design](https://dl.acm.org/doi/pdf/10.1145/345513.345271)"
   monday-recommended-reading: "[Composition and configuration patterns](https://arxiv.org/pdf/2007.15407.pdf), [Keeping multiple views consistent](http://users.eecs.northwestern.edu/~jhullman/VIS17_Consistency_CR.pdf)"
   monday-assignment: "[Programming Assignment 3 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-3)"
-  wednesday-title: "Viewpoint manipulation"
+  wednesday-title: "Viewpoint manipulation [keynote](https://vanderbilt.box.com/s/xctqporeulp4qgxbfzpe8jl6ejyago40), [pdf](https://vanderbilt.box.com/s/9qvyd1eecxje1l9py4w2n0htazh53wg8), [interaction basics notebook](https://observablehq.com/d/a7ea9fea0d77c4d0), [changing views notebook](https://observablehq.com/d/669098b517091a86)"
   wednesday-required-reading: "**Munzner** Ch. 11.5"
   wednesday-recommended-reading: "[Smooth and efficent zooming and panning](https://www.win.tue.nl/~vanwijk/zoompan.pdf), [Fisheye views](https://dl.acm.org/doi/10.1145/503376.503424)"
   friday-title: "Selection"
