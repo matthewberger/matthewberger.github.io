@@ -85,7 +85,7 @@
   week-date: "February 27"
   monday-title: "Linked and coordinated multiple-view visualization design [keynote](https://vanderbilt.box.com/s/cmetdcmzqlb6dymi4scjrmu7fkx26itt), [pdf](https://vanderbilt.box.com/s/bzehvczaf7llcm523c1opdqjtd2m1kee), [linked and coordinated views notebook](https://observablehq.com/d/07f1884584124814)"
   monday-recommended-reading: "[Design Space of Composite Visualization](http://users.umiacs.umd.edu/~elm/projects/compvis/compvis.pdf), [Orientation-Enhanced Parallel Coordinate Plots](http://www.cg.its.tudelft.nl/Publications-new/2015/REBEV15/OPCPs_337.pdf)"
-  wednesday-title: "Geographic visualization: projections, geometric shapes and scales"
+  wednesday-title: "Geographic visualization: projections, geometric shapes and scales [keynote](https://vanderbilt.box.com/s/ya6h0kysz0sz7j901vdys5c93pq1hb3w), [pdf](https://vanderbilt.box.com/s/qunfk87zw7gun31v20q1rteo4tqckl98), [map notebook](https://observablehq.com/d/14a3a45f28813cb2)"
   wednesday-required-reading: "**Munzner** Ch. 8.1 -- 8.3"
   wednesday-assignment: "[Programming Assignment 3 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-3)"
   friday-title: "Choropleths, cartograms, and origin-destination flows"
