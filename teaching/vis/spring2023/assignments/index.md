@@ -96,3 +96,5 @@ To emphasize: **never select the Can view option** when sharing your solution. A
 [Programming Assignment 2](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-2)
 
 [Programming Assignment 3](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-3)
+
+[Programming Assignment 4](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-4)

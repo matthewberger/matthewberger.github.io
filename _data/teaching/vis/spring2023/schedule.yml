@@ -90,6 +90,7 @@
   wednesday-assignment: "[Programming Assignment 3 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-3)"
   friday-title: "Choropleths, cartograms, and origin-destination flows"
   friday-recommended-reading: "[Flavors of Cartograms](https://arxiv.org/pdf/1605.08485.pdf), [Evaluating Origin-Destination Flows](https://arxiv.org/pdf/1908.02052.pdf)"
+  friday-assignment: "[Programming Assignment 4 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-4)"
 
 - week-title: "Hierarchies"
   week-date: "March 6"
@@ -114,6 +115,7 @@
   wednesday-recommended-reading: "[Graphical Inference](http://vita.had.co.nz/papers/inference-infovis.pdf)"
   friday-title: "Encoding uncertainty across visual channels"
   friday-recommended-reading: "[Value-suppressing uncertainty palettes](http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf), [Surprise maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf), [Geospatial uncertainty](https://link.springer.com/article/10.1186/s41235-017-0076-1)"
+  friday-assignment: "[Programming Assignment 4 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-4)"
 
 - week-title: "Graphs"
   week-date: "March 27"
