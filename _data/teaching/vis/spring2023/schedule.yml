@@ -94,7 +94,7 @@
 
 - week-title: "Hierarchies"
   week-date: "March 6"
-  monday-title: "Area-based hierarchical visualization"
+  monday-title: "Area-based hierarchical visualization [keynote](https://vanderbilt.box.com/s/bluuso9aohla5baz89rgws53tjsabc7u), [pdf](https://vanderbilt.box.com/s/ncxj6ogtn8ssdc9znnik8lk2i0dks3ve)"
   monday-required-reading: "**Munzner** Ch. 9.5, [Treemaps](https://drum.lib.umd.edu/bitstream/handle/1903/370/CS-TR-2657.pdf), [Squarified Treemaps](https://www.win.tue.nl/~vanwijk/stm.pdf)"
   monday-recommended-reading: "[Voronoi Treemaps](https://pubsys.mmsp-kn.de/pubsys/publishedFiles/BaDe05b.pdf), [Perception of Treemaps](http://vis.stanford.edu/files/2010-Treemaps-InfoVis.pdf)"
   wednesday-title: "Node-link tree layouts"
