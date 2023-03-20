@@ -108,7 +108,7 @@
 
 - week-title: "Uncertainty visualization"
   week-date: "March 20"
-  monday-title: "Probability & statistics refresher, explicit encoding of distributions"
+  monday-title: "Probability & statistics refresher, explicit encoding of distributions [keynote](https://vanderbilt.box.com/s/eawhfj7stpcgyytdq4mf1b7t6ap3pac2), [pdf](https://vanderbilt.box.com/s/dsyazbdjxig7fdtvu3asnpwcxy7vdpif)"
   monday-required-reading: "[Visualizing summary statistics and uncertainty](http://www.sci.utah.edu/~kpotter/publications/potter-2010-VSSU.pdf), [Error bars considered harmful](https://graphics.cs.wisc.edu/Papers/2014/CG14/Preprint.pdf)"
   wednesday-title: "Making visualization-supported probabilistic queries"
   wednesday-required-reading: "[Dot Plots](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf), [Quantile Dot Plots](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf), [Hypothetical Outcome Plots](https://idl.cs.washington.edu/files/2015-HOPs-PLOS.pdf)"
