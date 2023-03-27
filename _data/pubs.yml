@@ -96,7 +96,7 @@
   snap: "/papersnaps/flowhks.png"
   pubinfo: "IEEE PacificVis"
   date: "2020"
-  authors: ["Kairong Jiang", "Matthew S. Berger", "Joshua A. Levine"]
+  authors: ["Kairong Jiang", "Matthew Berger", "Joshua A. Levine"]
 
 - title: "A Generative Model for Volume Rendering"
   arxiv: "https://arxiv.org/abs/1710.09545"
