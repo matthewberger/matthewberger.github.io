@@ -119,7 +119,7 @@
 
 - week-title: "Graphs"
   week-date: "March 27"
-  monday-title: "Graph drawing considerations, force-directed graph drawing, layered graph drawing"
+  monday-title: "Graph drawing considerations, force-directed graph drawing, layered graph drawing "
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   monday-assignment: "[Programming Assignment 5 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
   wednesday-title: "Spectral graph layouts, matrix-based visualizations"
