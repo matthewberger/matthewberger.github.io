@@ -74,7 +74,7 @@ TA office hours: Featheringill Hall 304
 
 ## Syllabus
 
-Go [here](/teaching/vis/spring2023/syllabus) for the syllabus. Test.
+Go [here](/teaching/vis/spring2023/syllabus) for the syllabus.
 
 ## Schedule
 
