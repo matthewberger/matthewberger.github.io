@@ -121,6 +121,7 @@
   week-date: "March 27"
   monday-title: "Graph drawing considerations, force-directed graph drawing, layered graph drawing"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
+  monday-assignment: "[Programming Assignment 5 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
   wednesday-title: "Spectral graph layouts, matrix-based visualizations"
   wednesday-required-reading: "[Spectral graph drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   wednesday-recommended-reading: "[Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
@@ -130,6 +131,10 @@
 
 - week-title: "Dimensionality reduction"
   week-date: "April 3"
+  monday-title: "Linear dimensionality reduction"
+  wednesday-title: "Nonlinear dimensionality reduction"
+  wednesday-assignment: "[Programming Assignment 5 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
+  friday-title: "Nonlinear dimensionality reduction"
 
 - week-title: "Scalar, vector, and tensor fields"
   week-date: "April 10"
