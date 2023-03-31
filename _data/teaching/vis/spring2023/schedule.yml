@@ -125,7 +125,7 @@
   wednesday-title: "Force-directed graph drawing, Optimization techniques for graph drawing [keynote](https://vanderbilt.box.com/s/zw4mb130lk9bp5aj1lcafqeafu3bluja), [pdf](https://vanderbilt.box.com/s/zpv2nk00pskuotzdz2nuuc41znbp35je)"
   wednesday-required-reading: "[Graph drawing by stress majorization](https://graphviz.org/documentation/GKN04.pdf)"
   wednesday-recommended-reading: "[Constrained graph drawing](https://www.vis.uni-stuttgart.de/documentcenter/staff/sedlmaml/papers/wang2017graph.pdf)"
-  friday-title: "Spectral graph layouts, matrix-based visualizations"
+  friday-title: "Spectral graph layouts, matrix-based visualizations [keynote](https://vanderbilt.box.com/s/3tui4z6x3e1b2m2xxccvfmbcf73lycr0), [pdf](https://vanderbilt.box.com/s/2zm0hdgk2x9l1rieksiwp1uky1o195lk)"
   friday-required-reading: "[Spectral graph drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   friday-recommended-reading: "[Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
 
