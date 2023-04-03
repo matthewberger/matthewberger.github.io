@@ -131,10 +131,13 @@
 
 - week-title: "Dimensionality reduction"
   week-date: "April 3"
-  monday-title: "Linear dimensionality reduction"
-  wednesday-title: "Nonlinear dimensionality reduction"
+  monday-title: "Linear dimensionality reduction: PCA, MDS"
+  monday-required-reading: "**Munzner** Ch. 13.4.3"
+  wednesday-title: "Nonlinear dimensionality reduction: Isomap, LLE, Laplacian eigenmaps"
+  wednesday-required-reading: "[Isomap](http://li.mit.edu/Stuff/CNSE/Paper/Tenenbaum00.pdf), [Locally linear embedding](https://www.science.org/doi/abs/10.1126/science.290.5500.2323)"
   wednesday-assignment: "[Programming Assignment 5 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
-  friday-title: "Nonlinear dimensionality reduction"
+  friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP"
+  friday-required-reading: "[tSNE]](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
 
 - week-title: "Scalar, vector, and tensor fields"
   week-date: "April 10"
