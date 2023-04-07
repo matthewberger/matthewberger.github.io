@@ -138,12 +138,17 @@
   wednesday-assignment: "[Programming Assignment 5 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
   friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP"
   friday-required-reading: "[tSNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
+  friday-assignment: "[Programming Assignment 6 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-6)"
 
 - week-title: "Scalar, vector, and tensor fields"
   week-date: "April 10"
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 17"
+  monday-title: 'TBA'
+  wednesday-title: 'TBA'
+  friday-title: 'TBA'
+  friday-assignment: "[Programming Assignment 6 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-6)"
 
 - week-title: "Review, Final Exam"
   week-date: "April 24"
