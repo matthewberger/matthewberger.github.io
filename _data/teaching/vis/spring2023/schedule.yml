@@ -136,7 +136,7 @@
   wednesday-title: "Nonlinear dimensionality reduction: Isomap, LLE [keynote](https://vanderbilt.box.com/s/zirwum5pjw8m9uj44uu8m4omnjc6du19), [pdf](https://vanderbilt.box.com/s/wtlos16khgcm75v1yts995zxitk9c45c)"
   wednesday-required-reading: "[Isomap](http://li.mit.edu/Stuff/CNSE/Paper/Tenenbaum00.pdf), [Locally linear embedding](https://www.science.org/doi/abs/10.1126/science.290.5500.2323)"
   wednesday-assignment: "[Programming Assignment 5 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-5)"
-  friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP"
+  friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP [keynote](https://vanderbilt.box.com/s/wrwph3d75x31vuwqz2y3kmejesofg516), [pdf](https://vanderbilt.box.com/s/rn3n3rd666aln3z2bu5yzn0n2hwd9b8a)"
   friday-required-reading: "[tSNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
   friday-assignment: "[Programming Assignment 6 posted](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-6)"
 
