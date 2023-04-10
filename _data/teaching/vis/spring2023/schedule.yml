@@ -142,6 +142,14 @@
 
 - week-title: "Scalar, vector, and tensor fields"
   week-date: "April 10"
+  monday-title: "Scalar fields"
+  monday-required-reading: "**Munzner** Ch. 8.4"
+  monday-recommended-reading: "[The Asymptotic Decider](http://web.cse.ohio-state.edu/~shen.94/788/Site/Reading_files/p83-nielson.pdf)"
+  wednesday-title: "Vector fields"
+  wednesday-required-reading: "**Munzner** Ch. 8.5 -- 8.6"
+  wednesday-recommended-reading: "[Image-Guided Streamline Placement](http://cs.brown.edu/courses/cs237/2000/1999/turk.pdf), [Line Integral Convolution](https://users.soe.ucsc.edu/~pang/161/w09/prog3/cabral.pdf)"
+  friday-title: "Tensor fields"
+  friday-recommended-reading: "[Introduction to visualization of diffusion tensor imaging](http://people.cs.uchicago.edu/~glk/pubs/pdf/Vilanova-IntroVisualizationOfDTI-MnV-2006.pdf)"
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 17"
