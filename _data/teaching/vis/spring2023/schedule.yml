@@ -153,10 +153,25 @@
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 17"
-  monday-title: 'TBA'
-  wednesday-title: 'TBA'
-  friday-title: 'TBA'
+  monday-title: "Dimensionality reduction"
+  monday-required-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [iPCA](https://www.cs.tufts.edu/~remco/publications/2009/Eurovis2009-iPCA.pdf)"
+  monday-recommended-reading: "[t-viSNE](https://arxiv.org/pdf/2002.06910.pdf)"
+  wednesday-title: "Clustering"
+  wednesday-required-reading: "[Contrastive PCA](https://arxiv.org/pdf/1905.03911.pdf) [Clustrophile](https://hci.stanford.edu/~cagatay/projects/clustrophile/clustrophile-2-draft.pdf)"
+  wednesday-recommended-reading: "[Interactive steering of hierarchical clustering](https://webpages.charlotte.edu/~wdou1/publications/2020/Interactive%20Steering%20of%20Hierarchical%20Clustering.pdf)"
+  friday-title: "Model understanding and steering"
+  friday-required-reading: "[Dis-Function](https://valt.cs.tufts.edu/pdf/brown2012disfunction.pdf) [RegressionExplorer](https://pure.tue.nl/ws/portalfiles/portal/116894719/08464305.pdf)"
+  friday-recommended-reading: "[Gam Changer](https://arxiv.org/pdf/2112.03245.pdf)"
   friday-assignment: "[Programming Assignment 6 due](https://observablehq.com/@vandy-data-vis-spring2023/programming-assignment-6)"
 
-- week-title: "Review, Final Exam"
+- week-title: "Final exam review"
   week-date: "April 24"
+  monday-title: "Review"
+  wednesday-title: ""
+  friday-title: ""
+  
+- week-title: "Final Exam"
+  week-date: "May 1"
+  monday-title: "Final exam: 2pm"
+  wednesday-title: ""
+  friday-title: ""
