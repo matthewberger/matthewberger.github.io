@@ -3,6 +3,7 @@
   wednesday-title: "Course introduction, Bayesian statistics [keynote](https://vanderbilt.box.com/s/0alb3yr8f10t5ezphwvuaryhvpxo585c), [pdf](https://vanderbilt.box.com/s/bjs2kt1ws0d04sac6lkq6h5z12pdmya8)"
   wednesday-required-reading: "(PML-1) Ch. 2.1-2.5, (PML-2) Ch. 3.1-3.2"
   wednesday-recommended-reading: "[Exploring the beta distribution](https://observablehq.com/@mattiasvillani/beta-distribution)"
+  wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment1/) **Posted**"
 
 - week-title: "Bayesian regression"
   week-date: "August 28"
@@ -19,6 +20,7 @@
   monday-recommended-reading: "[Estimating a Dirichlet distribution](https://tminka.github.io/papers/dirichlet/minka-dirichlet.pdf), [LOO Importance Sampling](https://stat.columbia.edu/~gelman/research/published/loo_stan.pdf)"
   wednesday-title: "Logistic regression, multinomial regression"
   wednesday-required-reading: "(PML-1) Ch. 8.2-8.3, (PML-2) Ch. 15.3.1-15.3.6, Ch. 15.4"
+  wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment1/) **Due**"
 
 - week-title: "GP Classification, Generalized linear models"
   week-date: "September 11"
