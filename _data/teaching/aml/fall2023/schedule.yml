@@ -19,7 +19,7 @@
   monday-title: "Bayesian model selection [keynote](https://vanderbilt.box.com/s/ji0kjskgt6bax6pactkteso7vr4gafya), [pdf](https://vanderbilt.box.com/s/wyduoakqqzuk101jvxxzfuivqgt94x96)"
   monday-required-reading: "(PML-2) Ch. 3.7-3.8, Ch. 18.6, (GPML) Ch. 5"
   monday-recommended-reading: "[Exploring Gaussian processes](https://distill.pub/2019/visual-exploration-gaussian-processes/), [Notebook comparing kernels and hyperparameters](https://observablehq.com/@mattberger/gp-kernels), [Estimating a Dirichlet distribution](https://tminka.github.io/papers/dirichlet/minka-dirichlet.pdf), [LOO Importance Sampling](https://stat.columbia.edu/~gelman/research/published/loo_stan.pdf)"
-  wednesday-title: "Logistic regression, multinomial regression"
+  wednesday-title: "Logistic regression [keynote](https://vanderbilt.box.com/s/1rzb0gr535h8xa3gde54xg3g8555zwmq), [pdf](https://vanderbilt.box.com/s/mmnu0szzc3c8ts6aojt14lyxc53yuh8x)"
   wednesday-required-reading: "(PML-1) Ch. 8.2-8.3, (PML-2) Ch. 15.3.1-15.3.6, Ch. 15.4"
   wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment1/) **Due**"
 
