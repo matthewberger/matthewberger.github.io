@@ -22,6 +22,7 @@
   wednesday-title: "Logistic regression [keynote](https://vanderbilt.box.com/s/1rzb0gr535h8xa3gde54xg3g8555zwmq), [pdf](https://vanderbilt.box.com/s/mmnu0szzc3c8ts6aojt14lyxc53yuh8x)"
   wednesday-required-reading: "(PML-1) Ch. 8.2-8.3, (PML-2) Ch. 15.3.1-15.3.6, Ch. 15.4"
   wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment1/) **Due**"
+  friday-title: ""
   friday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment2/) **Posted**"
 
 - week-title: "GP Classification, Generalized linear models"
