@@ -22,6 +22,7 @@
   wednesday-title: "Logistic regression [keynote](https://vanderbilt.box.com/s/1rzb0gr535h8xa3gde54xg3g8555zwmq), [pdf](https://vanderbilt.box.com/s/mmnu0szzc3c8ts6aojt14lyxc53yuh8x)"
   wednesday-required-reading: "(PML-1) Ch. 8.2-8.3, (PML-2) Ch. 15.3.1-15.3.6, Ch. 15.4"
   wednesday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment1/) **Due**"
+  friday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment2/) **Posted**"
 
 - week-title: "GP Classification, Generalized linear models"
   week-date: "September 11"
@@ -37,6 +38,7 @@
   wednesday-title: "Stochastic VI, gradient-based VI, coordinate ascent VI"
   wednesday-required-reading: "(PML-2) Ch. 2.5, Ch. 10.2, Ch. 10.3.1-10.3.5"
   wednesday-recommended-reading: "[Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), [Automatic Differentiation Variational Inference](https://www.jmlr.org/papers/volume18/16-107/16-107.pdf)"
+  wednesday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment2/) **Due**"
 
 - week-title: "Variational inference: mixture models, topic models"
   week-date: "September 25"
