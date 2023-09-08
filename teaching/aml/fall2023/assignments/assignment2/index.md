@@ -117,6 +117,23 @@ When submitting your assignment to Brightspace, be sure to include all of your c
 
 This assignment is due on **September 20**.
 
+# Grading criteria
+
+## Part 1 (60 points)
+
+* Construction of covariance matrix. (10 points)
+* Formation of posterior predictive distribution. (10 points)
+* Taking draws from the posterior predictive distribution. (10 points)
+* Numerically-stable implementation of log marginal likelihood. (10 points)
+* Negative log likelihood. (5 points)
+* Experimental results and discussion. (15 points)
+
+## Part 2 (40 points)
+
+* Construction of covariance matrix (dimension-dependent length scale for squared exponential kernel). (10 points)
+* Implementation of gradient ascent for the log marginal likelihood. (15 points)
+* Experimental results and discussion. (15 points)
+
 # Implementation Tips
 
 ## Numerical stability
