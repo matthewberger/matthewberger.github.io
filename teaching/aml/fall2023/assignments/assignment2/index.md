@@ -93,9 +93,9 @@ You should consider the length scale, noise variance, and signal variance as hyp
 
 In forming the squared exponential kernel, you should divide _each_ dimension of a given data point by its dimension-specific length scale, prior to computing squared Euclidean distances. In effect, this corresponds to a Mahalanobis distance, under a diagonal matrix, where the squared distance between points will be computed as:
 
-$d_ M^2(\mathbf{x}_ i,\mathbf{x}_ j) = (\mathbf{x}_ i - \mathbf{x}_ j)^T \mathbf{L}^{-1} (\mathbf{x}_ i - \mathbf{x}_ j)$
+$d_ L^2(\mathbf{x}_ i,\mathbf{x}_ j) = (\mathbf{x}_ i - \mathbf{x}_ j)^T \mathbf{L}^{-1} (\mathbf{x}_ i - \mathbf{x}_ j)$
 
-Given a set of length scales $(l_ 1,l_ 2,\ldots,l_ D)$, the matrix $\mathbf{L}$ is diagonal, with diagonal elements $\mathbf{L}_ {dd} = l_ i^2$.
+Given a set of length scales $(l_ 1,l_ 2,\ldots,l_ D)$, the matrix $\mathbf{L}$ is diagonal, with diagonal elements $\mathbf{L}_ {dd} = l_ d^2$.
 
 Moreover, note that all hyperparameters should be strictly positive. Thus, you should transform the hyperparameters to guarantee positivity. Namely, for each hyperparameter, you can do this by applying the exponential function to the value. **Note:** this operation needs to be recorded as part of the automatic differentiation computation, e.g. when you are computing the log marginal likelihood. Further note that to initialize the hyperparameters to desired values, you will need to take the log.
 
