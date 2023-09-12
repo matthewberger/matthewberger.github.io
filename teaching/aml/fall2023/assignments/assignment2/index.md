@@ -66,7 +66,7 @@ You will then be expected to implement the following functionality:
 1. Compute the posterior predictive mean, and variance, for a set of test inputs.
 2. Draw from the posterior predictive distribution, limited to a set of test inputs.
 3. Compute the log marginal likelihood. Note: this needs to be done in a numerically-stable way, see Implementation Tips below.
-4. Compute the negative log likelihood on a given set of test inputs, using the posterior predictive mean and posterior predictive variance, evaluated on the corresponding targets for the test inputs. Note: this amounts to evaluating the negative log of a Gaussian whose mean parameter is the posterior predictive mean, but whose covariance is a diagonal matrix, with the posterior predictive variance on the diagonal, since test instances should be treated independent from one another.
+4. Compute the negative log likelihood on a given set of test inputs, using the posterior predictive mean, evaluated on the corresponding targets for the test inputs.
 
 Please see `regression.py` for the starting source code.
 
