@@ -30,7 +30,7 @@
   monday-title: "Monte Carlo integration, Gaussian process classification [keynote](https://vanderbilt.box.com/s/7bohdyp9227sj2ciu9dihwl485vf1j8o), [pdf](https://vanderbilt.box.com/s/bpq1d0xz4lmelppl46t7zxod2kuyseft)"
   monday-required-reading: "(PML-2) Ch. 11.1-11.5, Ch. 18.4.1-18.4.2 (GPML) Ch. 3.1-3.5"
   monday-recommended-reading: "[Monte Carlo integration](https://observablehq.com/@mattberger/mc-integration)"
-  wednesday-title: "GLM: exponential family, priors, likelihoods"
+  wednesday-title: "GLM: exponential family, priors, likelihoods [keynote](https://vanderbilt.box.com/s/88ih0bp2py6mjqapy2an840ini7p00ys), [pdf](https://vanderbilt.box.com/s/t32cyz1ymm8hwsjzk9uw9g1howpjye5u)"
   wednesday-required-reading: "(PML-2) Ch. 2.4, Ch. 15.2.5-15.2.8"
 
 - week-title: "Variational inference"
