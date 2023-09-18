@@ -35,11 +35,11 @@
 
 - week-title: "Variational inference"
   week-date: "September 18"
-  monday-title: "Background: information theory, ELBO, VI flavors"
+  monday-title: "Background: information theory, ELBO, VI flavors [keynote](https://vanderbilt.box.com/s/d0oectdptrtqighf6c246fpa5mzrj0gr), [pdf](https://vanderbilt.box.com/s/y55dk76ud5ohiysckuavijwybaptrl3w)"
   monday-required-reading: "(PML-1) Ch. 6.1-6.2, (PML-2) Ch. 5.1, Ch. 10.1"
   wednesday-title: "Stochastic VI, gradient-based VI, coordinate ascent VI"
   wednesday-required-reading: "(PML-2) Ch. 2.5, Ch. 10.2, Ch. 10.3.1-10.3.5"
-  wednesday-recommended-reading: "[Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), [Automatic Differentiation Variational Inference](https://www.jmlr.org/papers/volume18/16-107/16-107.pdf)"
+  wednesday-recommended-reading: "[Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), [Automatic Differentiation Variational Inference](https://www.jmlr.org/papers/volume18/16-107/16-107.pdf), [Monte Carlo gradients](https://arxiv.org/pdf/1906.10652.pdf)"
   wednesday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment2/) **Due**"
 
 - week-title: "Variational inference: mixture models, topic models"
@@ -70,6 +70,7 @@
   wednesday-title: "Sparse GPs: inducing point methods, sparse variational GPs"
   wednesday-required-reading: "(PML-2) Ch. 18.5"
   wednesday-recommended-reading: "[Variational learning of inducing variables](http://proceedings.mlr.press/v5/titsias09a/titsias09a.pdf), [Stochastic variational inference for GPs](https://arxiv.org/abs/1309.6835)"
+  wednesday-assignment: "Project proposal **Due**"
 
 - week-title: "Bayesian deep learning, active learning"
   week-date: "October 23"
@@ -102,6 +103,7 @@
   monday-title: "Residual flows, continuous-time flows"
   monday-required-reading: "(PML-2) 23.2.4-23.2.6"
   monday-recommended-reading: "[Inverse autoregressive flows](https://proceedings.neurips.cc/paper/2016/file/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf), [Invertible residual networks](http://proceedings.mlr.press/v97/behrmann19a/behrmann19a.pdf), [FFJORD](https://openreview.net/pdf?id=rJxgknCcK7)"
+  monday-assignment: "Project midway report **Due**"
   wednesday-title: "Energy-based models: basics, score matching"
   wednesday-required-reading: "(PML-2) Ch. 24.1-24.3"
   wednesday-recommended-reading: "[Contrastive divergence minimization](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf), [Score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf), [Sliced score matching](http://proceedings.mlr.press/v115/song20a/song20a.pdf)"
@@ -128,3 +130,4 @@
   week-date: "December 11"
   monday-title: ""
   wednesday-title: ""
+  wednesday-assignment: "Final project submissions **Due**"
