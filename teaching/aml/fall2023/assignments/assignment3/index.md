@@ -58,17 +58,17 @@ The code and data for this assignment can be [found here](https://vanderbilt.box
 
 # Model structure
 
-We will assume that model parameters can be partitioned into mutually exclusive groups. Specifically, for model parameters $\boldsymbol{\Theta}$, we can partition this into groups $\boldsymbol{\Theta} := ( \Theta_ 1 , \Theta_ 2 , \ldots , \Theta_ M)$. Each parameter group $\Theta_ m$ is in 1:1 correspondence with a _prior_ $p_ m(\Theta_ m | \phi_ m)$ with prior parameters $\phi_ m$ - we will assume the prior parameters are fixed, not to be estimated, and do not consist of other model parameters. The priors _factorize_, e.g the full prior probability can be written as:
+We will assume that model parameters can be partitioned into mutually exclusive groups. Specifically, for model parameters $\boldsymbol{\Theta}$, we can partition this into groups $\boldsymbol{\Theta} := ( \Theta_ 1 , \Theta_ 2 , \ldots , \Theta_ M)$. Each parameter group $\Theta_ m$ is in 1:1 correspondence with a _prior_ $p_ m(\Theta_ m \| \phi_ m)$ with prior parameters $\phi_ m$ - we will assume the prior parameters are fixed, not to be estimated, and do not consist of other model parameters. The priors _factorize_, e.g the full prior probability can be written as:
 
-$p(\boldsymbol{\Theta}) = \prod_{m=1}^M p_ m(\Theta_ m | \phi_ m)$.
+$p(\boldsymbol{\Theta}) = \prod_{m=1}^M p_ m(\Theta_ m \| \phi_ m)$.
 
-The data likelihood $p(\mathbf{X} | \boldsymbol{\Theta})$ as usual conditions on all model parameters. Thus we may form the joint probability distribution:
+The data likelihood $p(\mathbf{X} \| \boldsymbol{\Theta})$ as usual conditions on all model parameters. Thus we may form the joint probability distribution:
 
-$p(\mathbf{X}, \boldsymbol{\Theta}) = p(\mathbf{X} | \boldsymbol{\Theta}) p(\boldsymbol{\Theta})$.
+$p(\mathbf{X}, \boldsymbol{\Theta}) = p(\mathbf{X} \| \boldsymbol{\Theta}) p(\boldsymbol{\Theta})$.
 
 The variational distribution will be a Gaussian distribution. In particular, the covariance structure of the Gaussian will be _block-diagonal_, where each block corresponds to a particular group of the model parameters. This implies the following factorization:
 
-$q(\boldsymbol{\Theta} | \boldsymbol{\psi}) = \prod_{m=1}^M \mathcal{N}(\boldsymbol{\Theta} | \boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$,
+$q(\boldsymbol{\Theta} \| \boldsymbol{\psi}) = \prod_{m=1}^M \mathcal{N}(\boldsymbol{\Theta} \| \boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$,
 
 where the variational parameters for the $m$'th parameter group are comprised of mean and covariance parameters, $\boldsymbol{\psi}_ m = (\boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$. Thus the full set of variational parameters $\boldsymbol{\psi} := (\boldsymbol{\psi}_ 1 , \boldsymbol{\psi}_ 2 , \ldots , \boldsymbol{\psi}_ M)$ are the parameters that you will find by maximizing the evidence lower bound (ELBO).
 
@@ -76,12 +76,12 @@ where the variational parameters for the $m$'th parameter group are comprised of
 
 Your implementation should support different types of prior densities. Any prior $p_ m$ will need to support the following:
 
-1. **Evaluate the log probability**: given model parameters $\Theta_ m$, compute the log probability $\log p(\Theta_ m | \phi_ m)$. Note: you may exclude additive constants, since these will be zero'd out upon taking gradients.
+1. **Evaluate the log probability**: given model parameters $\Theta_ m$, compute the log probability $\log p(\Theta_ m \| \phi_ m)$. Note: you may exclude additive constants, since these will be zero'd out upon taking gradients.
 2. **Transform constrained parameters to an unconstrained space**: implement a function $T_ m$, specific to the model parameters, that yields $\zeta_ m = T_ m(\Theta_ m)$, where $\zeta_ m$ is a vector of real-valued scalars.
 3. **Transform unconstrained parameters to the constrained space of the model parameters**: this is the inverse, $\Theta_ m = T^{-1}_ m(\zeta_ m)$.
 4. **Evaluate the log of the absolute determinant of the Jacobian**: the Jacobian is in reference to the transformation $T_ m$.
 
-Moreover, each prior should report the total number of model parameters $|\Theta_ m|$.
+Moreover, each prior should report the total number of model parameters $\|\Theta_ m\|$.
 
 ## Prior types
 
@@ -90,7 +90,7 @@ Your implementation should support the following priors:
 1. A Gaussian distribution.
 2. A Dirichlet distribution. Note, this should be a **minimal representation**, to ensure unique transformations, see (PML-2, Sec. 2.4.2.2).
 3. A factored prior on variances. Specifically, this should be a product of exponential distributions, where each exponential distribution is a prior for a single variance term. This prior will be used for diagonal covariance matrices, see e.g. (PML-2, Sec. 3.4.6.4).
-4. A diagonal + low-rank covariance matrix that decomposes into the following: $\boldsymbol{\Sigma} = \text{diag}(\boldsymbol{\sigma^2}) + \mathbf{L} \mathbf{L}^T$, with vector $\boldsymbol{\sigma^2}$ being strictly positive values, and $\mathbf{L} \in \mathbb{R}^{D \times r}$ for a specified rank $r$. The above factored prior on variances (product of exponentials) should be used for $\boldsymbol{\sigma^2}$. A Gaussian prior should be used for the low rank part, flattening it to a vector: $\mathcal{N}(\text{vec}(\mathbf{L}) | \mathbf{0}, \rho^{-1} \mathbf{I})$, with a single parameter for prior strength $\rho$. These 2 priors (diagonal part & low-rank part) should factorize.
+4. A diagonal + low-rank covariance matrix that decomposes into the following: $\boldsymbol{\Sigma} = \text{diag}(\boldsymbol{\sigma^2}) + \mathbf{L} \mathbf{L}^T$, with vector $\boldsymbol{\sigma^2}$ being strictly positive values, and $\mathbf{L} \in \mathbb{R}^{D \times r}$ for a specified rank $r$. The above factored prior on variances (product of exponentials) should be used for $\boldsymbol{\sigma^2}$. A Gaussian prior should be used for the low rank part, flattening it to a vector: $\mathcal{N}(\text{vec}(\mathbf{L}) \| \mathbf{0}, \rho^{-1} \mathbf{I})$, with a single parameter for prior strength $\rho$. These 2 priors (diagonal part & low-rank part) should factorize.
 
 # Likelihood
 
@@ -103,7 +103,7 @@ Moreover, for the GMM likelihood, you should implement a method for drawing a sa
 
 # Gaussian variational approximation
 
-You will create a Gaussian with variational parameters $\boldsymbol{\mu}_ m, $\boldsymbol{\Sigma}_ m$, in correspondence with model parameters $\Theta_ m$. The dimensionality of the Gaussian will be determined from $|\Theta_ m|$, supplied by its corresponding prior. For simplicity, you should use a diagonal covariance matrix for $\boldsymbol{\Sigma}_ m$; this limits the approximation power of the posterior, but for this assignment will suffice.
+You will create a Gaussian with variational parameters $\boldsymbol{\mu}_ m, $\boldsymbol{\Sigma}_ m$, in correspondence with model parameters $\Theta_ m$. The dimensionality of the Gaussian will be determined from $\|\Theta_ m\|$, supplied by its corresponding prior. For simplicity, you should use a diagonal covariance matrix for $\boldsymbol{\Sigma}_ m$; this limits the approximation power of the posterior, but for this assignment will suffice.
 
 # Maximizing the ELBO
 
