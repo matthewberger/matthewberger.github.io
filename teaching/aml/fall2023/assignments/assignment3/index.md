@@ -58,7 +58,7 @@ The code and data for this assignment can be [found here](https://vanderbilt.box
 
 # Model structure
 
-We will assume that model parameters can be partitioned into mutually exclusive groups. Specifically, for model parameters $\boldsymbol{\Theta}}$, we can partition this into groups $\boldsymbol{\Theta} := ( \Theta_ 1 , \Theta_ 2 , \ldots , \Theta_ M)$. Each parameter group $\Theta_ m$ is in 1:1 correspondence with a _prior_ $p_ m(\Theta_ m | \phi_ m)$ with prior parameters $\phi_ m$ - we will assume the prior parameters are fixed, not to be estimated, and do not consist of other model parameters. The priors _factorize_, e.g the full prior probability can be written as:
+We will assume that model parameters can be partitioned into mutually exclusive groups. Specifically, for model parameters $\boldsymbol{\Theta}$, we can partition this into groups $\boldsymbol{\Theta} := ( \Theta_ 1 , \Theta_ 2 , \ldots , \Theta_ M)$. Each parameter group $\Theta_ m$ is in 1:1 correspondence with a _prior_ $p_ m(\Theta_ m | \phi_ m)$ with prior parameters $\phi_ m$ - we will assume the prior parameters are fixed, not to be estimated, and do not consist of other model parameters. The priors _factorize_, e.g the full prior probability can be written as:
 
 $p(\boldsymbol{\Theta}) = \prod_{m=1}^M p_ m(\Theta_ m | \phi_ m)$.
 
