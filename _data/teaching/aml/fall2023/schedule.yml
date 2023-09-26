@@ -46,6 +46,7 @@
   week-date: "September 25"
   monday-title: "Mixture models, GMMs, variational (Bayes) Expectation-Maximization [keynote](https://vanderbilt.box.com/s/lzp01mezw9g1dtk8ap4gern0vy7i9yvp), [pdf](https://vanderbilt.box.com/s/qvu19zd7n02kzw61lp17bwgt2hxhpjrg)"
   monday-required-reading: "(PML-2) Ch. 6.5, Ch. 10.3.6, Ch. 28.2"
+  monday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment3/) **Posted**"
   wednesday-title: "Graphical models, topic models, latent Dirichlet allocation"
   wednesday-required-reading: "(PML-2) Ch. 4.2, Ch. 28.5.1, (PML-2-supp) Ch. 28.1.2"
 
@@ -61,6 +62,7 @@
   week-date: "October 9"
   monday-title: "Midterm"
   wednesday-title: "Project introductions"
+  friday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment3/) **Due**"
 
 - week-title: "Hamiltonian Monte Carlo, sparse Gaussian processes"
   week-date: "October 16"

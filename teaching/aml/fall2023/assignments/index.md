@@ -76,3 +76,5 @@ Please submit all of the code pertaining to programming assignments as archived 
 [Assignment 1](/teaching/aml/fall2023/assignments/assignment1)
 
 [Assignment 2](/teaching/aml/fall2023/assignments/assignment2)
+
+[Assignment 3](/teaching/aml/fall2023/assignments/assignment3)
