@@ -103,7 +103,7 @@ Moreover, for the GMM likelihood, you should implement a method for drawing a sa
 
 # Gaussian variational approximation
 
-You will create a Gaussian with variational parameters $\boldsymbol{\mu}_ m, $\boldsymbol{\Sigma}_ m$, in correspondence with model parameters $\Theta_ m$. The dimensionality of the Gaussian will be determined from $\|\Theta_ m\|$, supplied by its corresponding prior. For simplicity, you should use a diagonal covariance matrix for $\boldsymbol{\Sigma}_ m$; this limits the approximation power of the posterior, but for this assignment will suffice.
+You will create a Gaussian with variational parameters $\boldsymbol{\mu}_ m, \boldsymbol{\Sigma}_ m$, in correspondence with model parameters $\Theta_ m$. The dimensionality of the Gaussian will be determined from $\|\Theta_ m\|$, supplied by its corresponding prior. For simplicity, you should use a diagonal covariance matrix for $\boldsymbol{\Sigma}_ m$; this limits the approximation power of the posterior, but for this assignment will suffice.
 
 # Maximizing the ELBO
 
