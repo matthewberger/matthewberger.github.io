@@ -38,7 +38,7 @@
   monday-title: "Background: information theory, ELBO, VI flavors [keynote](https://vanderbilt.box.com/s/d0oectdptrtqighf6c246fpa5mzrj0gr), [pdf](https://vanderbilt.box.com/s/y55dk76ud5ohiysckuavijwybaptrl3w)"
   monday-required-reading: "(PML-1) Ch. 6.1-6.2, (PML-2) Ch. 5.1, Ch. 10.1"
   wednesday-title: "Stochastic VI, gradient-based VI, coordinate ascent VI [keynote](https://vanderbilt.box.com/s/f2077ufqxkbttqbuz1dxwlloam1v09t1), [pdf](https://vanderbilt.box.com/s/7wwuqbs3b0rqolkqrau0lygshfbvjm6v)"
-  wednesday-required-reading: "(PML-2) Ch. 2.5, Ch. 10.2, Ch. 10.3.1-10.3.5"
+  wednesday-required-reading: "(PML-2) Ch. 2.5, Ch. 10.2, Ch. 10.3.1-10.3.5 [keynote](https://vanderbilt.box.com/s/dumuw6p6e23kn1kif02fb1bdmbqotxqa), [pdf](https://vanderbilt.box.com/s/y2irva4hzcq8ymmqrukw5twcdfiyilts)"
   wednesday-recommended-reading: "[Stochastic Variational Inference](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf), [Automatic Differentiation Variational Inference](https://www.jmlr.org/papers/volume18/16-107/16-107.pdf), [Monte Carlo gradients](https://arxiv.org/pdf/1906.10652.pdf)"
   wednesday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment2/) **Due**"
 
