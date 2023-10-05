@@ -68,9 +68,9 @@ $p(\mathbf{X}, \boldsymbol{\Theta}) = p(\mathbf{X} \| \boldsymbol{\Theta}) p(\bo
 
 The variational distribution will be a Gaussian distribution. In particular, the covariance structure of the Gaussian will be _block-diagonal_, where each block corresponds to a particular group of the model parameters. This implies the following factorization:
 
-$q(\boldsymbol{\Theta} \| \boldsymbol{\psi}) = \prod_{m=1}^M \mathcal{N}(T^{-1}_ m(\Theta_ m) \| \boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$,
+$q(\boldsymbol{\Theta} \| \boldsymbol{\psi}) = \prod_{m=1}^M \mathcal{N}(T_ m(\Theta_ m) \| \boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$,
 
-where the variational parameters for the $m$'th parameter group are comprised of mean and covariance parameters, $\boldsymbol{\psi}_ m = (\boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$. The transformation $T^{-1}_ m$ is a map from the support of the model parameters $\Theta_ m$, to the space of real-valued vectors. The full set of variational parameters $\boldsymbol{\psi} := (\boldsymbol{\psi}_ 1 , \boldsymbol{\psi}_ 2 , \ldots , \boldsymbol{\psi}_ M)$ are the parameters that you will find by maximizing the evidence lower bound (ELBO).
+where the variational parameters for the $m$'th parameter group are comprised of mean and covariance parameters, $\boldsymbol{\psi}_ m = (\boldsymbol{\mu}_ m , \boldsymbol{\Sigma}_ m)$. The transformation $T_ m$ is a map from the support of the model parameters $\Theta_ m$, to the space of real-valued vectors. The full set of variational parameters $\boldsymbol{\psi} := (\boldsymbol{\psi}_ 1 , \boldsymbol{\psi}_ 2 , \ldots , \boldsymbol{\psi}_ M)$ are the parameters that you will find by maximizing the evidence lower bound (ELBO).
 
 # Priors
 
