@@ -62,6 +62,7 @@
   week-date: "October 9"
   monday-title: "Midterm"
   wednesday-title: "Project introductions"
+  friday-title: ""
   friday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2023/assignments/assignment3/) **Due**"
 
 - week-title: "Hamiltonian Monte Carlo, sparse Gaussian processes"
