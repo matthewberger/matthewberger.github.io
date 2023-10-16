@@ -67,7 +67,7 @@
 
 - week-title: "Hamiltonian Monte Carlo, sparse Gaussian processes"
   week-date: "October 16"
-  monday-title: "Hamiltonian Monte Carlo"
+  monday-title: "Hamiltonian Monte Carlo [keynote](https://vanderbilt.box.com/s/6kh6ia1tfmxrf68mvsssfqa66lyntmjl), [pdf](https://vanderbilt.box.com/s/myls43uiihreusvliwok2o1ptwc45s54)"
   monday-required-reading: "(PML-2) Ch. 12.5-12.7"
   monday-recommended-reading: "[Conceptual introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434.pdf), [NUTS: No-U-Turn Sampler](https://www.jmlr.org/papers/volume15/hoffman14a/hoffman14a.pdf)"
   wednesday-title: "Sparse GPs: inducing point methods, sparse variational GPs"
