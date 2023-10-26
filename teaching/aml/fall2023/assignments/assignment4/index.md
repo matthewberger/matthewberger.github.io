@@ -79,7 +79,7 @@ The matrix $\mathbf{X} \in \mathbb{R}^{N \times D}$ is the data matrix, while $\
 
 The prior on the weight vector and bias, is a multivariate t-distribution, with 3 prior parameters: degrees of freedom $\nu$, variance $\sigma^2$ wherein covariance follows as a scaled identity matrix $\sigma^2 \mathbf{I}$, and a zero mean vector $\boldsymbol{\mu} = \mathbf{0}$. Specifically, ignoring the normalizing constant and taking $\mathbf{\bar{w}} = [\mathbf{w} , b]$:
 
-$p(\mathbf{\bar{w}} | \nu, \sigma^2, \boldsymbol{\mu}) = \left[ 1 + \frac{1}{\nu \sigma^2} \mathbf{w}^T\mathbf{w} \right]^{-(\nu+D)/2}$
+$p(\mathbf{\bar{w}} \| \nu, \sigma^2, \boldsymbol{\mu}) = \left[ 1 + \frac{1}{\nu \sigma^2} \mathbf{w}^T\mathbf{w} \right]^{-(\nu+D)/2}$
 
 The degrees of freedom and variance parameters will be set for you by default.
 
@@ -99,7 +99,7 @@ The probabilistic model you will implement for matrix factorization is a simplif
 
 You should implement the following Gaussian likelihood:
 
-$p(\mathcal{T} | \mathbf{U},\mathbf{V}) = \prod_{(i,j,v) \in \mathcal{T}} \mathcal{N}(v \| \mathbf{u}_ i^T \mathbf{v}_ j, 1)$,
+$p(\mathcal{T} \| \mathbf{U},\mathbf{V}) = \prod_{(i,j,v) \in \mathcal{T}} \mathcal{N}(v \| \mathbf{u}_ i^T \mathbf{v}_ j, 1)$,
 
 where the $(i,j,v)$ triplet is a training data item that respectively contains user id $i$, beer id $j$, and preference value $v$. Matrices $\mathbf{U}$ and $\mathbf{V}$ contain, respectively, the latent user vectors and latent beer vectors - these should be treated as model parameters.
 
@@ -117,17 +117,17 @@ where $\boldsymbol{\mu}_ v$ is a model parameter representing the mean beer, and
 
 The mean user parameter $\boldsymbol{\mu}_ u$ will have its own Gaussian prior (note dependence on precision parameter):
 
-$p(\boldsymbol{\mu}_ u \| \lambda_ u) = \mathcal{N}(\boldsymbol{\mu}_ u | \mathbf{0}, \lambda_ u^{-1}\mathbf{I})$,
+$p(\boldsymbol{\mu}_ u \| \lambda_ u) = \mathcal{N}(\boldsymbol{\mu}_ u \| \mathbf{0}, \lambda_ u^{-1}\mathbf{I})$,
 
 As will the mean beer parameter $\boldsymbol{\mu}_ v$:
 
-$p(\boldsymbol{\mu}_ v \| \lambda_ v) = \mathcal{N}(\boldsymbol{\mu}_ v | \mathbf{0}, \lambda_ v^{-1}\mathbf{I})$,
+$p(\boldsymbol{\mu}_ v \| \lambda_ v) = \mathcal{N}(\boldsymbol{\mu}_ v \| \mathbf{0}, \lambda_ v^{-1}\mathbf{I})$,
 
 Last, the precision parameters will have Gamma priors:
 
-$p(\lambda_ u) = Ga(\lambda_ u \| D \cdot a, D \cdot b)
+$p(\lambda_ u) = Ga(\lambda_ u \| D \cdot a, D \cdot b)$
 
-$p(\lambda_ v) = Ga(\lambda_ v \| D \cdot a, D \cdot b)
+$p(\lambda_ v) = Ga(\lambda_ v \| D \cdot a, D \cdot b)$
 
 with shape $a$ and rate $b$ parameters - these have been defaulted for you, though you are free to adjust. The scaling by $D$ accounts for the latent dimensionality; this is equivalent to a Wishart prior with scale matrix set to a (scaled) identity.
 
