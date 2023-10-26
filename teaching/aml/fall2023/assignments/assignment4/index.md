@@ -73,7 +73,7 @@ The output should give a list of model parameters. You will this list of paramet
 
 The data likelihood is the standard Bernoulli likelihood, using a sigmoid function to map the linear function to $[0,1]$:
 
-$p(\mathbf{X}, \mathbf{y} \| \mathbf{w}, b) = \prod_{n=1}^N Bernoulli(y_ n ; \sigma(\mathbf{w}^T \mathbf{x}_ n + b))
+$p(\mathbf{X}, \mathbf{y} \| \mathbf{w}, b) = \prod_{n=1}^N Bernoulli(y_ n ; \sigma(\mathbf{w}^T \mathbf{x}_ n + b))$
 
 The matrix $\mathbf{X} \in \mathbb{R}^{N \times D}$ is the data matrix, while $\mathbf{y}$ is an n-dimensional vector that contains class labels, either 0 or 1.
 
