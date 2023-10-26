@@ -67,13 +67,13 @@ Your implementation of Hamiltonian Monte Carlo should accept a probabilistic mod
 2. At a given step, you should numerically solve Hamilton's equations using leapfrog integration. The number of leapfrog steps to take, and the step size, are both user-defined parameters.
 3. Upon conclusion of the integration, compute the Metropolis-Hastings proposal acceptance. Only move to the new state if the acceptance is true, otherwise keep the current state.
 
-The output should give a list of model parameters. You will this list of parameters to compute the posterior predictive distribution, which is necessarily model-specific, detailed below.
+The output should give a list of model parameters. You will use this list of parameters to compute the posterior predictive distribution, which is necessarily model-specific, detailed below.
 
 # Logistic regression probability specification
 
-The data likelihood is the standard Bernoulli likelihood, using a sigmoid function to map the linear function to $[0,1]$:
+The data likelihood is the standard Bernoulli likelihood, using a sigmoid function to map the output of the linear function to $[0,1]$:
 
-$p(\mathbf{X}, \mathbf{y} \| \mathbf{w}, b) = \prod_{n=1}^N Bernoulli(y_ n ; \sigma(\mathbf{w}^T \mathbf{x}_ n + b))$
+$p(\mathbf{X}, \mathbf{y} \| \mathbf{w}, b) = \prod_{n=1}^N Ber(y_ n ; \sigma(\mathbf{w}^T \mathbf{x}_ n + b))$
 
 The matrix $\mathbf{X} \in \mathbb{R}^{N \times D}$ is the data matrix, while $\mathbf{y}$ is an n-dimensional vector that contains class labels, either 0 or 1.
 
@@ -99,9 +99,9 @@ The probabilistic model you will implement for matrix factorization is a simplif
 
 You should implement the following Gaussian likelihood:
 
-$p(\mathcal{T} \| \mathbf{U},\mathbf{V}) = \prod_{(i,j,v) \in \mathcal{T}} \mathcal{N}(v \| \mathbf{u}_ i^T \mathbf{v}_ j, 1)$,
+$p(\mathcal{T} \| \mathbf{U},\mathbf{V}) = \prod_{(i,j,y) \in \mathcal{T}} \mathcal{N}(y \| \mathbf{u}_ i^T \mathbf{v}_ j, 1)$,
 
-where the $(i,j,v)$ triplet is a training data item that respectively contains user id $i$, beer id $j$, and preference value $v$. Matrices $\mathbf{U}$ and $\mathbf{V}$ contain, respectively, the latent user vectors and latent beer vectors - these should be treated as model parameters.
+where the $(i,j,y)$ triplet is a training data item that respectively contains user id $i$, beer id $j$, and preference value $y$. Matrices $\mathbf{U}$ and $\mathbf{V}$ contain, respectively, the latent user vectors and latent beer vectors - these should be treated as model parameters.
 
 ## Priors
 
