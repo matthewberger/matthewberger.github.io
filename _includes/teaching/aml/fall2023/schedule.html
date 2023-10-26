@@ -66,6 +66,25 @@ Recommended Reading: {{ week.wednesday-recommended-reading }}<br/>
 </tr>
 {% endif %}
 
+{% if week.thursday-title %}
+<tr>
+<td markdown='span' width='40%'>
+**Thursday:** {{ week.thursday-title }}<br/>
+{% if week.thursday-assignment %}
+--- {{ week.thursday-assignment }}<br/>
+{% endif %}
+</td>
+<td markdown='span' width='60%'>
+{% if week.thursday-required-reading %}
+Required Reading: {{ week.thursday-required-reading }}<br/>
+{% endif %}
+{% if week.thursday-recommended-reading %}
+Recommended Reading: {{ week.thursday-recommended-reading }}<br/>
+{% endif %}
+</td>
+</tr>
+{% endif %}
+
 {% if week.friday-title %}
 <tr>
 <td markdown='span' width='40%'>
