@@ -88,7 +88,7 @@
 
 - week-title: "Domain adaptation, Variational autoencoders"
   week-date: "October 30"
-  monday-title: "Distribution shift, domain adaptation"
+  monday-title: "Distribution shift, domain adaptation [keynote](https://vanderbilt.box.com/s/fwlp9v2nyrp3dkk89qur6n9mjqfntd18), [pdf](https://vanderbilt.box.com/s/onql4b84jfxw2qpz4ney4v0e9u0xe3yt)"
   monday-required-reading: "(PML-2) Ch. 19.1-19.5"
   wednesday-title: "VAE basics, posterior collapse, more flexible priors"
   wednesday-required-reading: "(PML-2) Ch. 21.2, 21.4, [Auto-encoding variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)"
