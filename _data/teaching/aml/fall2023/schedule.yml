@@ -99,7 +99,7 @@
   monday-title: "Disentanglement, structured decoders, discrete variables [keynote](https://vanderbilt.box.com/s/a8404q028yrf9cdk8ac4z8n4ibt8foaa), [pdf](https://vanderbilt.box.com/s/s9ei3zadj6an3u8x42tvzkzul64bjq8b)"
   monday-required-reading: "(PML-2) Ch. 21.3, 21.5-21.6"
   monday-recommended-reading: "[On implicit regularization in beta-VAEs](http://proceedings.mlr.press/v119/kumar20d/kumar20d.pdf), [Grammar variational autoencoder](http://proceedings.mlr.press/v70/kusner17a/kusner17a.pdf), [Vector-quantized VAEs](https://proceedings.neurips.cc/paper/2017/file/7a98af17e63a0ac09ce2e96d03992fbc-Paper.pdf)"
-  wednesday-title: "Normalizing flows: basics, elementwise flows, coupled flows"
+  wednesday-title: "Normalizing flows: basics, elementwise flows, coupled flows [keynote](https://vanderbilt.box.com/s/vm67phlz1cvphj2vn3ixbtbs3yrwg0go), [pdf](https://vanderbilt.box.com/s/kfu9kc383c6je39uiw5wemq0ub7rygs7)"
   wednesday-required-reading: "(PML-2) Ch. 23.1, 23.2.1-23.2.3, 23.3"
   wednesday-recommended-reading: "[Variational inference with normalizing flows](http://proceedings.mlr.press/v37/rezende15.pdf), [Density estimation using real NVP](https://openreview.net/pdf?id=HkpbnH9lx)"
 
