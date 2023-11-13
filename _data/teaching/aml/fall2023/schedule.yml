@@ -105,7 +105,7 @@
 
 - week-title: "Normalizing flows, Energy-based models"
   week-date: "November 13"
-  monday-title: "Residual flows, continuous-time flows"
+  monday-title: "Residual flows, continuous-time flows [keynote](https://vanderbilt.box.com/s/m347yws30w5axxm87s4pplvbpp0b75ud), [pdf](https://vanderbilt.box.com/s/2gysyj2mdo9b1lmbpufykg26pbdkww7i)"
   monday-required-reading: "(PML-2) 23.2.4-23.2.6"
   monday-recommended-reading: "[Inverse autoregressive flows](https://proceedings.neurips.cc/paper/2016/file/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf), [Invertible residual networks](http://proceedings.mlr.press/v97/behrmann19a/behrmann19a.pdf), [FFJORD](https://openreview.net/pdf?id=rJxgknCcK7)"
   monday-assignment: "Project midway report **Due**"
