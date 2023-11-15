@@ -109,7 +109,7 @@
   monday-required-reading: "(PML-2) 23.2.4-23.2.6"
   monday-recommended-reading: "[Inverse autoregressive flows](https://proceedings.neurips.cc/paper/2016/file/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf), [Invertible residual networks](http://proceedings.mlr.press/v97/behrmann19a/behrmann19a.pdf), [FFJORD](https://openreview.net/pdf?id=rJxgknCcK7)"
   monday-assignment: "Project midway report **Due**"
-  wednesday-title: "Energy-based models: basics, score matching"
+  wednesday-title: "Energy-based models: basics, score matching [keynote](https://vanderbilt.box.com/s/nnhqq0cjrbn55f6687nqpjfhp4suzhgz), [pdf](https://vanderbilt.box.com/s/6hl2jghq597g8m7yafktff23p9fi4fqw)"
   wednesday-required-reading: "(PML-2) Ch. 24.1-24.3"
   wednesday-recommended-reading: "[Contrastive divergence minimization](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf), [Score matching](https://www.jmlr.org/papers/volume6/hyvarinen05a/hyvarinen05a.pdf), [Sliced score matching](http://proceedings.mlr.press/v115/song20a/song20a.pdf)"
   friday-title: ""
