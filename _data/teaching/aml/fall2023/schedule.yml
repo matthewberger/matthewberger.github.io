@@ -124,6 +124,7 @@
   week-date: "November 27"
   monday-title: "Gaussian Markov chains, ELBO, DDPM, DDIM"
   monday-required-reading: "(PML-2) Ch. 25.1-25.5"
+  monday-recommended-reading: "[Deep unsupervised learning using nonequilibrium thermodynamics](https://arxiv.org/pdf/1503.03585.pdf), [Denoising diffusion probabilistic models](https://arxiv.org/pdf/2006.11239.pdf)"
   wednesday-title: "Conditional diffusion models"
   wednesday-required-reading: "(PML-2) Ch. 25.6"
 
