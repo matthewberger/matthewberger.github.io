@@ -125,7 +125,7 @@
   monday-title: "Gaussian Markov chains, ELBO, DDPM, DDIM [keynote](https://vanderbilt.box.com/s/b4roonan4dpph2vud18d40o405b77mx1), [pdf](https://vanderbilt.box.com/s/nhn8312gknj3wyf6t2l8jsl13ne8eb5q)"
   monday-required-reading: "(PML-2) Ch. 25.1-25.5"
   monday-recommended-reading: "[Deep unsupervised learning using nonequilibrium thermodynamics](https://arxiv.org/pdf/1503.03585.pdf), [Denoising diffusion probabilistic models](https://arxiv.org/pdf/2006.11239.pdf)"
-  wednesday-title: "Conditional diffusion models"
+  wednesday-title: "Conditional diffusion models [keynote](https://vanderbilt.box.com/s/aqr87xefvng9jbkg60vyo3xch8daiuko), [pdf](https://vanderbilt.box.com/s/iu05mf24roimc1r7zxt6nd6h6hzj8ixj)"
   wednesday-required-reading: "(PML-2) Ch. 25.6"
 
 - week-title: "Latent factor models, project presentations"
