@@ -13,10 +13,10 @@
 - week-title: "Mechanics: Observable, JavaScript, SVG, D3 introduction"
   week-date: "January 15"
   monday-title: "Martin Luther King Jr. Day, no class"
-  wednesday-title: "JavaScript, Observable, HTML, SVG"
+  wednesday-title: "Observable, JavaScript, HTML, SVG [Observable & JS notebook](https://observablehq.com/@vandy-data-vis-spring2024/observable-javascript), [SVG notebook](https://observablehq.com/@vandy-data-vis-spring2024/svg)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on JavaScript, Observable, SVG"
   wednesday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2024/assignments/critique1/)"
-  friday-title: "SVG continued, D3: selections and joins"
+  friday-title: "D3: selections and joins"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 joins"
 
 - week-title: "D3 mechanics, scales, axes, shapes"
