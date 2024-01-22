@@ -22,12 +22,12 @@
 
 - week-title: "D3 mechanics, scales, axes, shapes"
   week-date: "January 22"
-  monday-title: "Authoring visualizations with D3: data, scales, axes"
-  monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 joins, scales"
-  wednesday-title: "Advanced D3: grouping data, nested data joins"
-  wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
-  friday-title: "D3 shapes, Observable & D3 tips"
-  friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 shapes"
+  monday-title: "D3: selections continued, data join [data join notebook](https://observablehq.com/@vandy-data-vis-spring2024/d3-data-join)"
+  monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 joins"
+  wednesday-title: "Authoring visualizations with D3: data, scales, axes"
+  wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 scales"
+  friday-title: "Advanced D3: grouping data, nested data joins, D3 shapes"
+  friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
 
 - week-title: "Perception & color"
   week-date: "January 29"
