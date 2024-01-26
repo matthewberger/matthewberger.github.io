@@ -26,7 +26,7 @@
   monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 joins"
   wednesday-title: "Authoring visualizations with D3: data, scales, axes [scales notebook](https://observablehq.com/@vandy-data-vis-spring2024/authoring-visualizations-using-d3)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on D3 scales"
-  friday-title: "Advanced D3: grouping data, nested data joins, D3 shapes"
+  friday-title: "Advanced D3: grouping data, nested data joins [nested data join notebook](https://observablehq.com/@vandy-data-vis-spring2024/nested-data-joins)"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2024/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
 
 - week-title: "Perception & color"
