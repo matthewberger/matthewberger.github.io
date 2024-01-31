@@ -38,6 +38,7 @@
   wednesday-title: "Preattentive processing, ensemble coding, change blindness"
   wednesday-required-reading: "**Munzner** Ch. 6.5"
   wednesday-recommended-reading: "[Four types of ensemble coding](https://jov.arvojournals.org/article.aspx?articleid=2504104), [Perception of correlation](https://www.cs.tufts.edu/~remco/publications/2014/InfoVis2014-JND.pdf), [Capacity limits of attention](https://whitneylab.berkeley.edu/PDFs/Haroz_Whitney_2012_InfoVis.pdf)"
+  wednesday-assignment: "[Programming Assignment 2 posted](https://observablehq.com/@vandy-data-vis-spring2024/pa-2)"
   friday-title: "Color spaces, principles for design"
   friday-required-reading: "**Ware** Ch. 4, **Munzner** Ch. 10.1 -- 10.3"
 
@@ -58,6 +59,7 @@
   monday-title: "Single-view arrangements: layouts, stacking, compositing"
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Stacking geometry](https://www.cg.tuwien.ac.at/courses/InfoVis/papers/InfoVis2008%20Stacked%20Graphs%20-%20Geometry%20&%20Aesthetics%20%5bByron%5d.pdf), [Horizon graphs](http://idl.cs.washington.edu/files/2009-TimeSeries-CHI.pdf)"
+  monday-assignment: "[Programming Assignment 2 due](https://observablehq.com/@vandy-data-vis-spring2024/pa-2)"
   wednesday-title: "Single-view arrangements: projections, parallel coordinates"
   wednesday-required-reading: "[Parallel coordinates survey](http://joules.de/files/heinrich_state_2013.pdf)"
   wednesday-recommended-reading: "[Parallel Sets](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf), [Star Coordinates and RadViz](https://ieeexplore.ieee.org/document/7192699), [Comparing projections](https://observablehq.com/@igor-a1/star-coordinates-vs-radviz)"
