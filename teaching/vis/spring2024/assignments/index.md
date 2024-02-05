@@ -92,4 +92,5 @@ Further note that notebooks are time-stamped. I will use the date at the top of 
 # Programming Assignments
 
 [Programming Assignment 1](https://observablehq.com/@vandy-data-vis-spring2024/programming-assignment-1)
+
 [Programming Assignment 2](https://observablehq.com/@vandy-data-vis-spring2024/pa-2)
