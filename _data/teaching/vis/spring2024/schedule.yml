@@ -56,7 +56,7 @@
 
 - week-title: "Single & multiple-view arrangements"
   week-date: "February 12"
-  monday-title: "Single-view arrangements: layouts, stacking, compositing"
+  monday-title: "Single-view arrangements: layouts, stacking, compositing [pdf](https://vanderbilt.box.com/s/bzl7n4xx9wcgvyfnki4htmh18kab536h), [keynote](https://vanderbilt.box.com/s/hmd7dfx44qs6sxnpqhvdldqx4jfzo05w)"
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Stacking geometry](https://www.cg.tuwien.ac.at/courses/InfoVis/papers/InfoVis2008%20Stacked%20Graphs%20-%20Geometry%20&%20Aesthetics%20%5bByron%5d.pdf), [Horizon graphs](http://idl.cs.washington.edu/files/2009-TimeSeries-CHI.pdf)"
   monday-assignment: "[Programming Assignment 2 due](https://observablehq.com/@vandy-data-vis-spring2024/pa-2)"
