@@ -89,6 +89,8 @@ Further note that notebooks are time-stamped. I will use the date at the top of 
 
 [Design Critique 1](/teaching/vis/spring2024/assignments/critique1)
 
+[Design Critique 2](https://observablehq.com/@vandy-data-vis-spring2024/design-critique-2)
+
 # Programming Assignments
 
 [Programming Assignment 1](https://observablehq.com/@vandy-data-vis-spring2024/programming-assignment-1)
