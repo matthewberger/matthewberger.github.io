@@ -60,7 +60,7 @@
   monday-required-reading: "**Munzner** Ch. 7"
   monday-recommended-reading: "[Stacking geometry](https://www.cg.tuwien.ac.at/courses/InfoVis/papers/InfoVis2008%20Stacked%20Graphs%20-%20Geometry%20&%20Aesthetics%20%5bByron%5d.pdf), [Horizon graphs](http://idl.cs.washington.edu/files/2009-TimeSeries-CHI.pdf)"
   monday-assignment: "[Programming Assignment 2 due](https://observablehq.com/@vandy-data-vis-spring2024/pa-2)"
-  wednesday-title: "Single-view arrangements: projections, parallel coordinates"
+  wednesday-title: "Single-view arrangements: projections, parallel coordinates [pdf](https://vanderbilt.box.com/s/zox0p8g2vfj0xkvqm0fad307aeu0vlft), [keynote](https://vanderbilt.box.com/s/dw5s76hz3c3wucy9zdrv0fhp0ppmcnzn)"
   wednesday-required-reading: "[Parallel coordinates survey](http://joules.de/files/heinrich_state_2013.pdf)"
   wednesday-recommended-reading: "[Parallel Sets](https://kosara.net/papers/2005/Bendix-InfoVis-2005.pdf), [Star Coordinates and RadViz](https://ieeexplore.ieee.org/document/7192699), [Comparing projections](https://observablehq.com/@igor-a1/star-coordinates-vs-radviz)"
   friday-title: "Multiple-view arrangements: small multiples, scatterplot matrices"
