@@ -85,7 +85,7 @@
 
 - week-title: "Interaction wrap up, Geographic data"
   week-date: "February 26"
-  monday-title: "Linked and coordinated multiple-view visualization design"
+  monday-title: "Linked and coordinated multiple-view visualization design [pdf](https://vanderbilt.box.com/s/mlojdbkr8br1tr6ilujifzl328nb827n), [slides](https://vanderbilt.box.com/s/8ezwyycughe8lw3r4ljgv3dflbot76zr), [notebook](https://observablehq.com/@vandy-data-vis-spring2024/linked-and-coordinated-views)"
   monday-recommended-reading: "[Design Space of Composite Visualization](http://users.umiacs.umd.edu/~elm/projects/compvis/compvis.pdf)"
   wednesday-title: "Geographic visualization: projections, geometric shapes and scales"
   wednesday-required-reading: "**Munzner** Ch. 8.1 -- 8.3"
