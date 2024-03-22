@@ -116,7 +116,7 @@
   wednesday-title: "Making visualization-supported probabilistic queries [pdf](https://vanderbilt.box.com/s/v93l2iz19xntfk1jd44wy04a33qwodc7), [keynote](https://vanderbilt.box.com/s/umokk9x13mhfsg4m322zf5jlqgls0oim)"
   wednesday-required-reading: "[Dot Plots](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf), [Quantile Dot Plots](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf), [Hypothetical Outcome Plots](https://idl.cs.washington.edu/files/2015-HOPs-PLOS.pdf)"
   wednesday-recommended-reading: "[Graphical Inference](http://vita.had.co.nz/papers/inference-infovis.pdf)"
-  friday-title: "Encoding uncertainty across visual channels"
+  friday-title: "Encoding uncertainty across visual channels [pdf](https://vanderbilt.box.com/s/wudir8se2dse8s55l2twlqn1o4f2tnqe), [keynote](https://vanderbilt.box.com/s/cqs3dwd35kzpptp3zxq1hhazknvi496p)"
   friday-recommended-reading: "[Value-suppressing uncertainty palettes](http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf), [Surprise maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf), [Geospatial uncertainty](https://link.springer.com/article/10.1186/s41235-017-0076-1)"
   friday-assignment: "[Programming Assignment 4 due](https://observablehq.com/@vandy-data-vis-spring2024/pa-4)"
 
