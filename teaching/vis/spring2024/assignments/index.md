@@ -100,3 +100,5 @@ Further note that notebooks are time-stamped. I will use the date at the top of 
 Programming Assignment 3 [grads](https://observablehq.com/@vandy-data-vis-spring2024/pa3-grad) [undergraduates](https://observablehq.com/@vandy-data-vis-spring2024/pa3-ug)
 
 [Programming Assignment 4](https://observablehq.com/@vandy-data-vis-spring2024/pa-4)
+
+[Programming Assignment 5](https://observablehq.com/@vandy-data-vis-spring2024/pa-5)

@@ -124,6 +124,7 @@
   week-date: "March 25"
   monday-title: "Graph drawing considerations, layered graph drawing"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
+  monday-assignment: "[Programming Assignment 5 posted](https://observablehq.com/@vandy-data-vis-spring2024/pa-5)"
   wednesday-title: "Force-directed graph drawing, Optimization techniques for graph drawing"
   wednesday-required-reading: "[Graph drawing by stress majorization](https://graphviz.org/documentation/GKN04.pdf)"
   wednesday-recommended-reading: "[Constrained graph drawing](https://www.vis.uni-stuttgart.de/documentcenter/staff/sedlmaml/papers/wang2017graph.pdf)"
@@ -150,6 +151,7 @@
   wednesday-recommended-reading: "[Image-Guided Streamline Placement](http://cs.brown.edu/courses/cs237/2000/1999/turk.pdf), [Line Integral Convolution](https://users.soe.ucsc.edu/~pang/161/w09/prog3/cabral.pdf)"
   friday-title: "Vector fields"
   friday-recommended-reading: "[Introduction to visualization of diffusion tensor imaging](http://people.cs.uchicago.edu/~glk/pubs/pdf/Vilanova-IntroVisualizationOfDTI-MnV-2006.pdf)"
+  friday-assignment: "[Programming Assignment 5 due](https://observablehq.com/@vandy-data-vis-spring2024/pa-5)"
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 15"
