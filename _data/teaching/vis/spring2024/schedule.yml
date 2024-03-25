@@ -122,7 +122,7 @@
 
 - week-title: "Graphs"
   week-date: "March 25"
-  monday-title: "Graph drawing considerations, layered graph drawing [pdf](https://vanderbilt.box.com/s/c7vsrehxftworfhc389bye98bqovzihk), [keynote](https://vanderbilt.box.com/s/0rfricewfxhqmgtr3xa4wr62h337ideu)"
+  monday-title: "Graph drawing considerations, layered graph drawing [pdf](https://vanderbilt.box.com/s/c7vsrehxftworfhc389bye98bqovzihk), [pdf build-in](https://vanderbilt.box.com/s/hcoseh8nsm98k7934rajnx3oealfxioo), [keynote](https://vanderbilt.box.com/s/0rfricewfxhqmgtr3xa4wr62h337ideu)"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   monday-assignment: "[Programming Assignment 5 posted](https://observablehq.com/@vandy-data-vis-spring2024/pa-5)"
   wednesday-title: "Force-directed graph drawing, Optimization techniques for graph drawing"
