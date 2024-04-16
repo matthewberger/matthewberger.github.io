@@ -91,6 +91,8 @@ Further note that notebooks are time-stamped. I will use the date at the top of 
 
 [Design Critique 2](https://observablehq.com/@vandy-data-vis-spring2024/design-critique-2)
 
+[Design Critique 2](https://observablehq.com/@vandy-data-vis-spring2024/design-critique-3)
+
 # Programming Assignments
 
 [Programming Assignment 1](https://observablehq.com/@vandy-data-vis-spring2024/programming-assignment-1)

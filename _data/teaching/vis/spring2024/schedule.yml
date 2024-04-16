@@ -158,6 +158,7 @@
   monday-title: "Dimensionality reduction"
   monday-required-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [iPCA](https://www.cs.tufts.edu/~remco/publications/2009/Eurovis2009-iPCA.pdf)"
   monday-recommended-reading: "[t-viSNE](https://arxiv.org/pdf/2002.06910.pdf)"
+  monday-assignment: "[Design Critique 3 posted](https://observablehq.com/@vandy-data-vis-spring2024-2/design-critique-3)"
   wednesday-title: "DR & Clustering"
   wednesday-required-reading: "[Contrastive PCA](https://arxiv.org/pdf/1905.03911.pdf), [Clustervision](https://www.bckwon.com/pdf/clustervision.pdf)"
   wednesday-recommended-reading: "[Interactive steering of hierarchical clustering](https://webpages.charlotte.edu/~wdou1/publications/2020/Interactive%20Steering%20of%20Hierarchical%20Clustering.pdf)"
@@ -169,6 +170,7 @@
   week-date: "April 22"
   monday-title: "Review"
   wednesday-title: ""
+  wednesday-assignment: "[Design Critique 3 due](https://observablehq.com/@vandy-data-vis-spring2024-2/design-critique-3)"
   friday-title: ""
   
 - week-title: "Final Exam"
