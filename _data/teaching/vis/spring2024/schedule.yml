@@ -155,7 +155,7 @@
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 15"
-  monday-title: "Dimensionality reduction"
+  monday-title: "Dimensionality reduction [pdf](https://vanderbilt.box.com/s/zrjdgbwqcp5uc4hld4rnbqaj2sm3j5iz), [pdf build-in](https://vanderbilt.box.com/s/knacv50sbbe06lstqpxjs0rs580mqvqa), [keynote](https://vanderbilt.box.com/s/56sgv4mu9tq7jsp9qy3rt93ad6xl3dyq)"
   monday-required-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [iPCA](https://www.cs.tufts.edu/~remco/publications/2009/Eurovis2009-iPCA.pdf)"
   monday-recommended-reading: "[t-viSNE](https://arxiv.org/pdf/2002.06910.pdf)"
   monday-assignment: "[Design Critique 3 posted](https://observablehq.com/@vandy-data-vis-spring2024-2/design-critique-3)"
