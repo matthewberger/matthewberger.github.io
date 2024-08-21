@@ -1,0 +1,74 @@
+- week-title: "Course introduction, ML basics"
+  week-date: "August 19"
+  wednesday-title: "Course introduction, review on regression and classification"
+  wednesday-reading: "[MML](https://mml-book.github.io/) Ch. 6.1 - 6.4, Ch. 8.1 - 8.2, Ch. 9.1 - 9.2, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. C"
+
+- week-title: "Gradient descent"
+  week-date: "August 26"
+  monday-title: "Gradient descent"
+  monday-reading: "[MML](https://mml-book.github.io/) Ch. 5, Ch. 7.1, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. A, B"
+  wednesday-title: "Stochastic gradient descent"
+  wednesday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 2 - 4"
+
+- week-title: "Topics on gradient descent"
+  week-date: "September 2"
+  monday-title: "Noise reduction, natural gradients, momentum"
+  monday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 5 - 7"
+  wednesday-title: "Neural tangent kernel"
+  wednesday-reading: "[MML](https://mml-book.github.io/) Ch. 12.4, [Neural tangent kernel](https://arxiv.org/abs/1806.07572), [Fourier features](https://arxiv.org/pdf/2006.10739), [Tangent space task arithmetic](https://arxiv.org/abs/2305.12827)"
+
+- week-title: "Bayesian inference: basics, parametric and nonparametric methods"
+  week-date: "September 9"
+  monday-title: "Bayesian statistics, linear regression"
+  monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 2.3, Ch. 3.2, Ch. 15.2.1 - 15.2.4"
+  wednesday-title: "Gaussian processes, Bayesian model selection"
+  wednesday-reading: "[GP](https://gaussianprocess.org/gpml/chapters/) Ch. 2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 3.7 - 3.8"
+
+- week-title: "Approximate inference, variational inference"
+  week-date: "September 16"
+  monday-title: "Laplace approximation, information theory basics, ELBO"
+  monday-reading: "[PML-1](https://probml.github.io/pml-book/book1.html) Ch. 6.1 - 6.2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 5.1, Ch. 7.4, Ch. 10.1"
+  wednesday-title: "Gradient-based variational inference"
+  wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
+
+- week-title: "Approximate inference: MCMC"
+  week-date: "September 23"
+  monday-title: "Monte Carlo, Markov chains, Metropolis-Hastings"
+  monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 11.1 - 11.4, Ch. 12.1 - 12.2"
+  wednesday-title: "Gibbs sampling, Hamiltonian Monte Carlo"
+  wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 12.3 - 12.5, [Conceptual introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434.pdf)"
+
+- week-title: "Project introductions, midterm"
+  week-date: "September 30"
+  monday-title: "Project introductions"
+  wednesday-title: "Midterm"
+
+- week-title: "Neural network posteriors, out-of-distribution detection"
+  week-date: "October 7"
+
+- week-title: "Domain adaptation, active learning"
+  week-date: "October 14"
+
+- week-title: "Few-shot learning, semi-supervised learning"
+  week-date: "October 21"
+
+- week-title: "Generative models: variational autoencoders"
+  week-date: "October 28"
+
+- week-title: "Generative models: normalizing flows, score matching"
+  week-date: "November 4"
+
+- week-title: "Generative models: diffusion models"
+  week-date: "November 11"
+
+- week-title: "Unsupervised learning"
+  week-date: "November 18"
+
+- week-title: "Thanksgiving break"
+  week-date: "November 25"
+
+- week-title: "Project presentations"
+  week-date: "December 2"
+
+- week-title: "Final project submissions"
+  week-date: "December 9"
