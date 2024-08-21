@@ -1,6 +1,6 @@
 - week-title: "Course introduction, ML basics"
   week-date: "August 19"
-  wednesday-title: "Course introduction, review on regression and classification"
+  wednesday-title: "Course introduction, review on regression [slides](https://vanderbilt.box.com/s/iwg6ckl262t7529gz941orpu018kvzce), [build slides](https://vanderbilt.box.com/s/ry19kebrx798elh69m0wxc9wpfmqdkxb)"
   wednesday-reading: "[MML](https://mml-book.github.io/) Ch. 6.1 - 6.4, Ch. 8.1 - 8.2, Ch. 9.1 - 9.2, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. C"
 
 - week-title: "Gradient descent"
