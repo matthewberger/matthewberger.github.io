@@ -5,7 +5,7 @@
 
 - week-title: "Gradient descent"
   week-date: "August 26"
-  monday-title: "Gradient descent"
+  monday-title: "Gradient descent  [slides](https://vanderbilt.box.com/s/ibmhwstklxmz0i0jluj71v73f8te3apj), [build slides](https://vanderbilt.box.com/s/f23r4ps4qeglhijipq3ans0rjmrt6zia)"
   monday-reading: "[MML](https://mml-book.github.io/) Ch. 5, Ch. 7.1, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. A, B"
   wednesday-title: "Stochastic gradient descent"
   wednesday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 2 - 4"
