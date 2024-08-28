@@ -5,9 +5,9 @@
 
 - week-title: "Gradient descent"
   week-date: "August 26"
-  monday-title: "Gradient descent  [slides](https://vanderbilt.box.com/s/ibmhwstklxmz0i0jluj71v73f8te3apj), [build slides](https://vanderbilt.box.com/s/f23r4ps4qeglhijipq3ans0rjmrt6zia)"
+  monday-title: "Gradient descent [slides](https://vanderbilt.box.com/s/ibmhwstklxmz0i0jluj71v73f8te3apj), [build slides](https://vanderbilt.box.com/s/f23r4ps4qeglhijipq3ans0rjmrt6zia)"
   monday-reading: "[MML](https://mml-book.github.io/) Ch. 5, Ch. 7.1, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. A, B"
-  wednesday-title: "Stochastic gradient descent"
+  wednesday-title: "Stochastic gradient descent [slides](https://vanderbilt.box.com/s/2vg8nyvza1v70pv4s6de046vqjj25v4b), [build slides](https://vanderbilt.box.com/s/ndfpf3c5wemnlg7vjdcs93mfxl6oyt87), [Function approximation notebook](https://observablehq.com/@mattberger/aml-2024-function-approximations)"
   wednesday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 2 - 4"
 
 - week-title: "Topics on gradient descent"
