@@ -127,7 +127,7 @@ For this experiment, you will evaluate the following schemes:
 3. Minibatch gradient descent, of varying minibatch sizes, using standard update and a diminishing step size.
 4. Stochastic gradient descent (special case of above with minibatch size set to 1), using standard update and a diminishing step size.
 
-You will consider two classification problems for CIFAR-10: birds vs. airplanes, and deer vs. horses. For each problem you will show, as superimposed line plots, the number of data items (x-axis) accessed against the **training loss** (y-axis) gathered over the course of optimization. Moreover, compute the validation accuracy for each method, and show the results in a table. Provide a discussion on your findings, supplied as individual Markdown cells in the notebook.
+You will consider two classification problems for CIFAR-10: birds vs. airplanes, and deer vs. horses. For each problem you will show, as superimposed line plots, the number of data items accessed (x-axis) against the **training loss** (y-axis) gathered over the course of optimization. Moreover, compute the validation accuracy for each method, and show the results in a table. Provide a discussion on your findings, supplied as individual Markdown cells in the notebook.
 
 Please see notebook `data_access.ipynb` for this experiment, and details on parameters that you should set in the above methods.
 
