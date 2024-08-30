@@ -57,6 +57,7 @@ In this assignment you will implement, and study, different forms of gradient de
 * How a direction of descent is formed.
 * The choice of step size for each step.
 * The parameter update.
+
 You will implement different schemes for each of the above. 
 
 The code for this assignment can be [found here](https://vanderbilt.box.com/s/zeuvsthig8cmv5dl2w8pwcneofmxtaef).
@@ -72,6 +73,7 @@ As part of your model, you will need to support a number of functions:
 * Computing the (averaged) negative log likelihood (NLL) on training/validation data.
 * Computing the accuracy of the model's prediction on validation data.
 * Gradient and Hessian of the NLL. You may use JAX auto-differentiation for this purpose, but note that explicit formulas can be found in the lecture notes.
+
 Make sure your code takes advantage of matrix computations, and vectorization, offered by JAX/NumPy. The only loop in your implementation should be your optimization loop.
 
 ## Data access
@@ -89,6 +91,7 @@ You should support two kinds of descent directions:
 There are two kinds of step size schemes:
 * A constant step size.
 * A step size that diminishes over the course of optimization. Specifically, you should implement the scheme in [Bottou et al.](https://epubs.siam.org/doi/10.1137/16M1080173) Eq. (4.20).
+
 Your step size should be expressed as a scaling of the Lipschitz constant of the loss gradient. This is straightforward to compute; please see the lecture notes.
 
 ## Parameter update
@@ -97,6 +100,7 @@ Your implementation should support three types of parameter updates:
 * Standard gradient update. This is done for you in the provided code, as it is effectively an identity mapping (once you have the descent direction).
 * An implementation of [SAGA](https://arxiv.org/pdf/1407.0202), for variance reduction in SGD. See also [Bottou et al.](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 5.3.2. Note: your implementation of SAGA should be _efficient_, e.g. you should allow for incremental updates of the averaged gradient.
 * An implementation of gradient descent with momentum. See [Bottou et al.](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 7.1.
+
 The above updates should **return a direction** that will subsequently be scaled by the step size, and subtracted off from the weight vector, in your optimization loop.
 
 ## Optimization loop
@@ -122,6 +126,7 @@ For this experiment, you will evaluate the following schemes:
 2. Newton's method (full batch), using a standard update and constant step size.
 3. Minibatch gradient descent, of varying minibatch sizes, using standard update and a diminishing step size.
 4. Stochastic gradient descent (special case of above with minibatch size set to 1), using standard update and a diminishing step size.
+
 You will consider two classification problems for CIFAR-10: birds vs. airplanes, and deer vs. horses. For each problem you will show, as superimposed line plots, the number of data items (x-axis) accessed against the **training loss** (y-axis) gathered over the course of optimization. Moreover, compute the validation accuracy for each method, and show the results in a table. Provide a discussion on your findings, supplied as individual Markdown cells in the notebook.
 
 Please see notebook `data_access.ipynb` for this experiment, and details on parameters that you should set in the above methods.
@@ -135,6 +140,7 @@ Specifically, you will consider the following schemes:
 2. Stochastic gradient descent, with standard update, and constant step size.
 3. The SAGA update, with constant step size.
 4. Gradient descent with momentum, with diminishing step size.
+
 What you will show for this experiment is very similar to the previous (same datasets, line plots, accuracy), but show **validation loss** rather than training loss. Moreover, the x-axis should simply correspond to the iteration number in SGD. Report your findings in the notebook as separate Markdown cells. Note: SAGA uses a constant step size; how does this compare with a constant step size in SGD?
 
 Please see notebook `sgd_comparison.ipynb` for this experiment, and details on parameters that you should set in the above methods.
@@ -146,6 +152,7 @@ SGD methods can be shown to converge, but only if certain conditions are met. In
 To study convergence, you will inspect two methods:
 1. Stochastic gradient descent, with standard update, with diminishing step size.
 2. The SAGA update, with constant step size.
+
 You will run each method multiple times. At the conclusion of each run, you should compute the training loss and validation loss. You should then show a scatterplot where the x-axis corresponds to the training loss, the y-axis the validation loss, and each point is a single optimization run. Points should be colored to distinguish the different methods (SAGA vs. SGD). Report your findings.
 
 Please see notebook `convergence.ipynb` for this experiment, and details on parameters that you should set in the above methods.
