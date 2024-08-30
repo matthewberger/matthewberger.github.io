@@ -9,6 +9,7 @@
   monday-reading: "[MML](https://mml-book.github.io/) Ch. 5, Ch. 7.1, [FML](https://cs.nyu.edu/~mohri/mlbook/) App. A, B"
   wednesday-title: "Stochastic gradient descent [slides](https://vanderbilt.box.com/s/2vg8nyvza1v70pv4s6de046vqjj25v4b), [build slides](https://vanderbilt.box.com/s/ndfpf3c5wemnlg7vjdcs93mfxl6oyt87), [Function approximation notebook](https://observablehq.com/@mattberger/aml-2024-function-approximations)"
   wednesday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 2 - 4"
+  thursday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa1/) **Posted**"
 
 - week-title: "Topics on gradient descent"
   week-date: "September 2"
@@ -23,6 +24,7 @@
   monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 2.3, Ch. 3.2, Ch. 15.2.1 - 15.2.4"
   wednesday-title: "Gaussian processes, Bayesian model selection"
   wednesday-reading: "[GP](https://gaussianprocess.org/gpml/chapters/) Ch. 2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 3.7 - 3.8"
+  friday-assignment: "[Assignment 1](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa1/) **Due**"
 
 - week-title: "Approximate inference, variational inference"
   week-date: "September 16"

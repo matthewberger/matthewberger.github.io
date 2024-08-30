@@ -54,3 +54,5 @@ As part of your submissions, please provide instructions on how to run your code
 Please submit all of the code pertaining to programming assignments as archived files (zip, tar, etc..) to Brightspace.
 
 # Assignments
+
+[Programming Assignment 1](/teaching/aml/fall2024/assignments/pa1)
