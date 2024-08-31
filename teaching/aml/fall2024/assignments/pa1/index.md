@@ -187,5 +187,5 @@ Each of the experiments are equally weighted (15 points a piece).
 # Implementation Tips
 
 * [matplotlib is your well-documented friend](https://matplotlib.org/). Please feel free to modify any of the accompanying plotting code as you see fit, in order to clearly communicate your experimental results.
-* The code for this assignment utilizes closures. In particular, for certain closures, if you would like to access variables from outside of the scope, then you will need to use the `nonlocal` syntax in Python.
+* The code for this assignment utilizes closures. In particular, for certain closures, if you would like to access variables from outside of the inner function, then you will need to use the `nonlocal` syntax in Python.
 * **JAX** has _most_ of the functionality of NumPy. Using JAX is as simple as replacing your `import numpy as np` code with `import jax.numpy as np`. The **big difference** between NumPy arrays, and JAX arrays, is that JAX arrays are **immutable**. That is, you cannot slice existing arrays to assign new values. This will be relevant for the SAGA implementation. In particular, I recommend representing the list of gradients not as a JAX array, but, as ... a list of gradients. Then, you can easily assign new data to items of the list.
