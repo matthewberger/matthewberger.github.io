@@ -139,7 +139,7 @@ Specifically, you will consider the following schemes:
 1. Stochastic gradient descent, with standard update, with diminishing step size.
 2. Stochastic gradient descent, with standard update, and constant step size.
 3. The SAGA update, with constant step size.
-4. Gradient descent with momentum, with diminishing step size.
+4. Stochastic gradient descent with momentum, with diminishing step size.
 
 What you will show for this experiment is very similar to the previous (same datasets, line plots, accuracy), but show **validation loss** rather than training loss. Moreover, the x-axis should simply correspond to the iteration number in SGD. Report your findings in the notebook as separate Markdown cells. Note: SAGA uses a constant step size; how does this compare with a constant step size in SGD?
 
