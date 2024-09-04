@@ -16,7 +16,7 @@
   week-date: "September 2"
   monday-title: "Noise reduction [slides](https://vanderbilt.box.com/s/mw420s2bo5482kc0u2xqycyrg6744x2a), [build slides](https://vanderbilt.box.com/s/ko3f58is3w5iqwujl1pw7xnkw58hvx5v)"
   monday-reading: "[LSML](https://epubs.siam.org/doi/10.1137/16M1080173) Sec. 5 - 7"
-  wednesday-title: "Neural tangent kernel"
+  wednesday-title: "Neural tangent kernel [slides](https://vanderbilt.box.com/s/l6cu0v2nng9pez34087im0txkgrejk1p), [build slides](https://vanderbilt.box.com/s/sfxzjrz88566iv4njrgpwjg8wzb8xgb6)"
   wednesday-reading: "[MML](https://mml-book.github.io/) Ch. 12.4, [Neural tangent kernel](https://arxiv.org/abs/1806.07572), [Fourier features](https://arxiv.org/pdf/2006.10739), [Tangent space task arithmetic](https://arxiv.org/abs/2305.12827)"
 
 - week-title: "Bayesian inference: basics, parametric and nonparametric methods"
