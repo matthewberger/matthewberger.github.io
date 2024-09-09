@@ -21,7 +21,7 @@
 
 - week-title: "Bayesian inference: basics, parametric and nonparametric methods"
   week-date: "September 9"
-  monday-title: "Bayesian statistics, linear regression"
+  monday-title: "Bayesian statistics, linear regression [slides](https://vanderbilt.box.com/s/xnmtu20fyw72qjc8e3msf95w19rol3ru), [build slides](https://vanderbilt.box.com/s/ktcxbln99svjtq4t52vrgs3sc2wdzvxw)"
   monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 2.3, Ch. 3.2, Ch. 15.2.1 - 15.2.4"
   wednesday-title: "Gaussian processes, Bayesian model selection"
   wednesday-reading: "[GP](https://gaussianprocess.org/gpml/chapters/) Ch. 2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 3.7 - 3.8"
