@@ -53,7 +53,7 @@ email: <a href="mailto:matthew.berger@vanderbilt.edu">matthew.berger@vanderbilt.
 
 Office: Sony building, Rm 4028
 
-Office hours: TR 2:00-3:00
+Office hours: TF 10:00-11:00
 
 ## Lectures
 
