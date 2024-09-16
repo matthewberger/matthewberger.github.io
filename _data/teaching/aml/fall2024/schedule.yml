@@ -30,7 +30,7 @@
 
 - week-title: "Approximate inference, variational inference"
   week-date: "September 16"
-  monday-title: "Model selection, Laplace approximation, information theory basics, ELBO"
+  monday-title: "Model selection, Laplace approximation, information theory basics, ELBO [slides](https://vanderbilt.box.com/s/c46hjc15xua717bh8gdhl5nt4n5bi0mt), [build slides](https://vanderbilt.box.com/s/85z6xiypicdt0scu9y4f6fno40ib9xj0)"
   monday-reading: "[PML-1](https://probml.github.io/pml-book/book1.html) Ch. 6.1 - 6.2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 5.1, Ch. 7.4, Ch. 10.1"
   wednesday-title: "Gradient-based variational inference"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
@@ -49,6 +49,8 @@
 
 - week-title: "Neural network posteriors, out-of-distribution detection"
   week-date: "October 7"
+  friday-title: ""
+  friday-assignment: "Project proposals **Due**"
 
 - week-title: "Domain adaptation, active learning"
   week-date: "October 14"
