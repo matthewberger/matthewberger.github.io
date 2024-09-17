@@ -78,7 +78,7 @@ The second function will evaluate the negative log of the posterior predictive d
 
 ## Covariance functions
 
-You will implement two types of covariance functions.
+You will implement two types of covariance functions. In what follows, the noise variance should _only_ be added when considering the covariance function over training inputs.
 
 ### Squared exponential kernel
 
