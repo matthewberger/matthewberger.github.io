@@ -96,7 +96,7 @@ For a more expressive covariance function, you will modify the squared Euclidean
 
 $cov(\mathbf{x}_ i , \mathbf{x}_ j) = \delta_ {ij} \sigma^2_ n + \sigma^2_ f \exp( -(\mathbf{x}_ i - \mathbf{x}_ j)^T \mathbf{L}^{-1} (\mathbf{x}_ i - \mathbf{x}_ j) )$,
 
-where we have replaced a single shared length scale $l$ with a _set_ of length scales, represented in the diagonal matrix $\mathbf{L} \in \mathbb{R}^{D \times D}$. For instance, $\mathbf{L}_ i$ contains the length scale for feature indexed by $i$ in input vector $\mathbf{x} \in \mathbb{R}^D$.
+where we have replaced a single shared length scale $l$ with a _set_ of length scales, represented in the diagonal matrix $\mathbf{L} \in \mathbb{R}^{D \times D}$. For instance, $\mathbf{L}_ {i,i}$ contains the length scale for feature indexed by $i$ in input vector $\mathbf{x} \in \mathbb{R}^D$.
 
 Once again, this needs to be computed efficiently. You should not simply implement the equation as stated above. Think through a more efficient way to compute this for all pairs of provided points.
 
