@@ -63,8 +63,8 @@ Moreover, if we design our covariance functions in a particular way, then Bayesi
 In this assignment you will implement and test out model selection for Gaussian process regression. Your implementation should support the following:
 * An implementation of Gaussian process (GP) regression. Your implementation should be independent of the choice of covariance function for the GP. This should give us (1) the posterior mean, (2) posterior variance, and (3) predictive density (for measuring error).
 * Different types of covariance functions.
-* Computation of the (log) marginal likelihood.
-* Performing gradient ascent on the marginal likelihood with respect to the GP hyperparameters. Or, equivalently, descending the negative marginal likelihood (choice is yours).
+* Computation of the log marginal likelihood.
+* Performing gradient ascent on the log marginal likelihood with respect to the GP hyperparameters. Or, equivalently, descending the negative log marginal likelihood (choice is yours).
 
 The code for this assignment can be [found here](https://vanderbilt.box.com/s/1siy79lbe0b8jvxs3u4iek03bsupwn5p).
 
