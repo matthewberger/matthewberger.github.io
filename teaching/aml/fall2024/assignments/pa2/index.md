@@ -132,7 +132,7 @@ In this experiment you will run empirical Bayes multiple times, over different r
 
 For each run, you should collect (1) the negative log probability at initialization, (2) the negative log probability on conclusion of optimization, and (3) the log marginal likelihood.
 
-After collecting all of the data, you should first verify that the negative log probability was consistently improved over the hyperparameters used at initialization, across all runs.
+After collecting all of the data, you should first verify that the averaged negative log probability was consistently improved over the hyperparameters used at initialization, across all runs.
 
 Afterwards, we want to better understand the following: is the marginal likelihood a good indicator of generalization? To this end, draw a scatterplot where the x-axis is the log marginal likelihood, the y-axis is the negative log probability, and each point is a unique run. Ideally, we should see a clear inverse relationship. Report your findings in the notebook in a Markdown-formatted cell.
 
