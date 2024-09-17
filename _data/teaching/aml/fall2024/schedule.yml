@@ -32,6 +32,7 @@
   week-date: "September 16"
   monday-title: "Model selection, Laplace approximation, information theory basics, ELBO [slides](https://vanderbilt.box.com/s/c46hjc15xua717bh8gdhl5nt4n5bi0mt), [build slides](https://vanderbilt.box.com/s/85z6xiypicdt0scu9y4f6fno40ib9xj0)"
   monday-reading: "[PML-1](https://probml.github.io/pml-book/book1.html) Ch. 6.1 - 6.2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 5.1, Ch. 7.4, Ch. 10.1"
+  monday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa2/) **Posted**"
   wednesday-title: "Gradient-based variational inference"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
 
@@ -41,6 +42,8 @@
   monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 11.1 - 11.4, Ch. 12.1 - 12.2"
   wednesday-title: "Gibbs sampling, Hamiltonian Monte Carlo"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 12.3 - 12.5, [Conceptual introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434.pdf)"
+  friday-title: ""
+  friday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa2/) **Due**"
 
 - week-title: "Project introductions, midterm"
   week-date: "September 30"
