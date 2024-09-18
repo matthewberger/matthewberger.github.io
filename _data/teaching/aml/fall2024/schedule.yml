@@ -33,7 +33,7 @@
   monday-title: "Model selection, Laplace approximation, information theory basics, ELBO [slides](https://vanderbilt.box.com/s/c46hjc15xua717bh8gdhl5nt4n5bi0mt), [build slides](https://vanderbilt.box.com/s/85z6xiypicdt0scu9y4f6fno40ib9xj0)"
   monday-reading: "[PML-1](https://probml.github.io/pml-book/book1.html) Ch. 6.1 - 6.2, [PML-2](https://probml.github.io/pml-book/book2.html) Ch. 5.1, Ch. 7.4, Ch. 10.1"
   monday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa2/) **Posted**"
-  wednesday-title: "Gradient-based variational inference"
+  wednesday-title: "Gradient-based variational inference [slides](https://vanderbilt.box.com/s/w1uby2vobhny702toinsjvb3idy9wpx4), [build slides](https://vanderbilt.box.com/s/5saqqapxluosignbh5bp9o3jpn1ea7zm)"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
 
 - week-title: "Approximate inference: MCMC"
