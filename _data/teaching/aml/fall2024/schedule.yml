@@ -36,12 +36,12 @@
   wednesday-title: "Gradient-based variational inference [slides](https://vanderbilt.box.com/s/w1uby2vobhny702toinsjvb3idy9wpx4), [build slides](https://vanderbilt.box.com/s/5saqqapxluosignbh5bp9o3jpn1ea7zm)"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
 
-- week-title: "Approximate inference: MCMC"
+- week-title: "Variational inference, MCMC"
   week-date: "September 23"
-  monday-title: "Monte Carlo, Markov chains, Metropolis-Hastings"
-  monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 11.1 - 11.4, Ch. 12.1 - 12.2"
-  wednesday-title: "Gibbs sampling, Hamiltonian Monte Carlo"
-  wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 12.3 - 12.5, [Conceptual introduction to Hamiltonian Monte Carlo](https://arxiv.org/pdf/1701.02434.pdf)"
+  monday-title: "Variational inference continued [slides](https://vanderbilt.box.com/s/q9ch9l3orx0nvrp5jh4ugsdyzvh9sbwq), [build slides](https://vanderbilt.box.com/s/83d3rv1zcfh95cb4fqdz9m9q2jny4egx)"
+  monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 6.3.5, Ch. 10.2, [MCGE](https://www.jmlr.org/papers/volume21/19-346/19-346.pdf)"
+  wednesday-title: "Monte Carlo, Markov chains, Metropolis-Hastings"
+  wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 11.1 - 11.4, Ch. 12.1 - 12.2"
   friday-title: ""
   friday-assignment: "[Assignment 2](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa2/) **Due**"
 
