@@ -50,11 +50,11 @@
   monday-title: "Project introductions"
   wednesday-title: "Midterm"
 
-- week-title: "MCMC, neural network posteriors"
+- week-title: "MCMC"
   week-date: "October 7 [slides](https://vanderbilt.box.com/s/d7if0daivdknbz0mnrs43ezq6aeqjip8), [build slides](https://vanderbilt.box.com/s/q56namunt7qee98tj4lb276weyc6dvn3)"
   monday-title: "MCMC: Metropolis-Hastings, Gibbs sampling, mixture models"
   monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 12.1 - 12.3, 12.5"
-  wednesday-title: "HMC, Bayesian neural networks"
+  wednesday-title: "Gibbs sampling continued, HMC [slides](https://vanderbilt.box.com/s/c1nyog4uqcx8up927f6k9wcp4fmpibw8), [build slides](https://vanderbilt.box.com/s/irlohjfirh8yqlhpm62fhgy1j3fhf5nz)"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 17.1 - 17.4"
 
 - week-title: "Out-of-distribution detection, domain adaptation"
