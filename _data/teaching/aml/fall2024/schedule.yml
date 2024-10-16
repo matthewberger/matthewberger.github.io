@@ -62,7 +62,7 @@
   monday-title: "Bayesian neural networks [slides](https://vanderbilt.box.com/s/s9u9m3zts6ieckz2083pud2fjqfssv9o), [build slides](https://vanderbilt.box.com/s/auq90x7rsy11eautcdjx3jv0kli0ry6a)"
   monday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 17.1 - 17.4"
   monday-assignment: "[Assignment 3](https://matthewberger.github.io/teaching/aml/fall2024/assignments/pa3/) **Posted**"
-  wednesday-title: "Out-of-distribution detection, domain adaptation"
+  wednesday-title: "Out-of-distribution detection, domain adaptation [slides](https://vanderbilt.box.com/s/u90rrrxiw3ispxgfwqgujqyhxy1wmvt7), [build slides](https://vanderbilt.box.com/s/7rz0643aqc5ct30zzgw5idp9d7e8b028)"
   wednesday-reading: "[PML-2](https://probml.github.io/pml-book/book2.html) Ch. 19.1 - 19.7"
 
 - week-title: "Active learning, few-shot learning"
