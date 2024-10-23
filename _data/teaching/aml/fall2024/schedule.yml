@@ -69,7 +69,7 @@
   week-date: "October 21"
   monday-title: "(Bayesian) Active learning [slides](https://vanderbilt.box.com/s/6upiizbva13jjic5jb2a6bv0m6u4skql), [build slides](https://vanderbilt.box.com/s/pttwtvuwwwe8lgse5qww91e0xknlk9be)"
   monday-reading: "(PML-2) Ch. 34.7, [Bayesian active learning](http://mlg.eng.cam.ac.uk/pub/pdf/HouHusGha11a.pdf), [Deep Bayesian Active Learning](https://proceedings.mlr.press/v70/gal17a/gal17a.pdf)"
-  wednesday-title: "Few-shot learning"
+  wednesday-title: "Few-shot learning [slides](https://vanderbilt.box.com/s/e2zfl6q0nut8gyidg012o2gn55d3ao4w), [build slides](https://vanderbilt.box.com/s/dmopjzy46gl0664q86woxzz4d0wt9t78)"
   wednesday-reading: "[MAML](https://arxiv.org/pdf/1703.03400), [Learning to compare](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sung_Learning_to_Compare_CVPR_2018_paper.pdf), [ANIL](https://arxiv.org/pdf/1909.09157)"
 
 - week-title: "Generative models: variational autoencoders"
