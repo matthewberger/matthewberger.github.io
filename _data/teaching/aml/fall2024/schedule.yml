@@ -80,7 +80,7 @@
   wednesday-title: "Variational autoencoders: disentanglement, discrete latents [slides](https://vanderbilt.box.com/s/nu6v3tk5wuef9f6uzycapeii4zafrwqp), [build slides](https://vanderbilt.box.com/s/ixnn1qpsgmumzr9m81t9mokbi0nx8men)"
   wednesday-reading: "(PML-2) Ch. 21.3, 21.5 - 21.6"
 
-- week-title: "Generative models: normalizing flows, score matching"
+- week-title: "Generative models: normalizing flows"
   week-date: "November 4"
   monday-title: "Normalizing flows: basics, discrete flows [slides](https://vanderbilt.box.com/s/o9eebu9ci7y3oxzv8s2liuisqafg7w9h), [build slides](https://vanderbilt.box.com/s/9dxcb58hhfbido2xvyt2qrnxck3yqwg5)"
   monday-reading: "(PML-2) Ch. 23"
@@ -89,7 +89,7 @@
   friday-title: ""
   friday-assignment: "Project midway report **Due**"
 
-- week-title: "Generative models: diffusion models"
+- week-title: "Generative models: score matching, diffusion models"
   week-date: "November 11"
 
 - week-title: "Unsupervised learning"
