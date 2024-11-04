@@ -82,6 +82,10 @@
 
 - week-title: "Generative models: normalizing flows, score matching"
   week-date: "November 4"
+  monday-title: "Normalizing flows: basics, discrete flows [slides](https://vanderbilt.box.com/s/o9eebu9ci7y3oxzv8s2liuisqafg7w9h), [build slides](https://vanderbilt.box.com/s/9dxcb58hhfbido2xvyt2qrnxck3yqwg5)"
+  monday-reading: "(PML-2) Ch. 23"
+  wednesday-title: "Normalizing flows: continuous-time flows"
+  wednesday-reading: "(PML-2) Ch. 23"
   friday-title: ""
   friday-assignment: "Project midway report **Due**"
 
