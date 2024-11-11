@@ -91,7 +91,7 @@
 
 - week-title: "Generative models: score matching, diffusion models"
   week-date: "November 11"
-  monday-title: "Energy-based models"
+  monday-title: "Energy-based models [slides](https://vanderbilt.box.com/s/yj8agg6vhtjt7s70bcmh4lhkg3u779jk), [build slides](https://vanderbilt.box.com/s/ww386wnr44clkp7anoizwznksktz2u2u)"
   monday-reading: "(PML-2) Ch. 24"
   wednesday-title: "Diffusion models"
   wednesday-reading: "(PML-2) Ch. 25"
