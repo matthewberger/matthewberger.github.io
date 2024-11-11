@@ -91,6 +91,10 @@
 
 - week-title: "Generative models: score matching, diffusion models"
   week-date: "November 11"
+  monday-title: "Energy-based models"
+  monday-reading: "(PML-2) Ch. 24"
+  wednesday-title: "Diffusion models"
+  wednesday-reading: "(PML-2) Ch. 25"
 
 - week-title: "Unsupervised learning"
   week-date: "November 18"
