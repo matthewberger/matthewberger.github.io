@@ -12,7 +12,7 @@
 
 - week-title: "Mechanics: Observable, JavaScript, SVG, D3"
   week-date: "January 13"
-  monday-title: "Observable, JavaScript, SVG"
+  monday-title: "Observable, JavaScript, SVG [slides](https://vanderbilt.box.com/s/n36y3u8egdzx5scezy7bbh0omxofzizw), [build slides](https://vanderbilt.box.com/s/hvg88d5dekl1k85k6n57o1e699sf9gun)"
   monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on JavaScript, Observable, SVG"
   monday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2025/assignments/critique1/)"
   wednesday-title: "Creating graphics with SVG and D3"
