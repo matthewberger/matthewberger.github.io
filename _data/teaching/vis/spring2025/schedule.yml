@@ -15,7 +15,7 @@
   monday-title: "Observable, JavaScript, SVG [slides](https://vanderbilt.box.com/s/n36y3u8egdzx5scezy7bbh0omxofzizw), [build slides](https://vanderbilt.box.com/s/hvg88d5dekl1k85k6n57o1e699sf9gun)"
   monday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on JavaScript, Observable, SVG"
   monday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2025/assignments/critique1/)"
-  wednesday-title: "Creating graphics with SVG and D3"
+  wednesday-title: "Creating graphics with SVG and D3 [slides](https://vanderbilt.box.com/s/tuy5xc36s2gn9ee1e8dsqi7q4y3ya4qp), [build slides](https://vanderbilt.box.com/s/2y7uldj4n68jwi7sl1wqb350cwil8txs), [Observable, JS notebook](https://observablehq.com/d/ec729e34b974c125)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on SVG"
   friday-title: "D3: selections, data join"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on D3 joins"
