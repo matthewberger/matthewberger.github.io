@@ -17,8 +17,9 @@
   monday-assignment: "[Design Critique 1 due](https://matthewberger.github.io/teaching/vis/spring2025/assignments/critique1/)"
   wednesday-title: "Creating graphics with SVG and D3 [slides](https://vanderbilt.box.com/s/tuy5xc36s2gn9ee1e8dsqi7q4y3ya4qp), [build slides](https://vanderbilt.box.com/s/2y7uldj4n68jwi7sl1wqb350cwil8txs), [Observable, JS notebook](https://observablehq.com/d/ec729e34b974c125)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on SVG"
-  friday-title: "D3: selections, data join"
+  friday-title: "D3: selections, data join [notebook](https://observablehq.com/d/e95124e882b6616c)"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on D3 joins"
+  friday-assignment: "[Programming Assignment 1 posted](https://observablehq.com/d/02161ee58695fb3d)"
 
 - week-title: "D3 mechanics, scales, axes, shapes"
   week-date: "January 20"
@@ -27,6 +28,7 @@
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on D3 scales"
   friday-title: "Advanced D3: grouping data, nested data joins"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
+  friday-assignment: "[Programming Assignment 1 due](https://observablehq.com/d/02161ee58695fb3d)"
 
 - week-title: "Perception & color"
   week-date: "January 27"
