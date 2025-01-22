@@ -24,7 +24,7 @@
 - week-title: "D3 mechanics, scales, axes, shapes"
   week-date: "January 20"
   monday-title: "Martin Luther King Jr. Day, no class"
-  wednesday-title: "Authoring visualizations with D3: data, scales, axes"
+  wednesday-title: "Authoring visualizations with D3: data, scales, axes [notebook](https://observablehq.com/d/7b469014f0f00c04)"
   wednesday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on D3 scales"
   friday-title: "Advanced D3: grouping data, nested data joins"
   friday-required-reading: "see [resources](https://matthewberger.github.io/teaching/vis/spring2025/resources/) on Arrays and grouping with D3, [nested selections](https://bost.ocks.org/mike/nest/)"
