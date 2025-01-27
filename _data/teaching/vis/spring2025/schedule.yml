@@ -32,7 +32,8 @@
 
 - week-title: "Perception & color"
   week-date: "January 27"
-  monday-title: "Gestalt principles, graphical perception"
+  monday-title: "Gestalt principles, graphical perception [slides](https://vanderbilt.box.com/s/iqwoes1ge4rvmmdg727wvijrqm1dl2nl), [build slides](https://vanderbilt.box.com/s/ip3qzqk4sfzcv0gobcx4w7mv2nn2nar2)"
+  monday-assignment: "[Programming Assignment 2 posted](https://observablehq.com/d/b06b27244e8eece3)"
   wednesday-title: "Preattentive processing, ensemble coding, change blindness"
   friday-title: "Color spaces, principles for design"
 
@@ -41,6 +42,7 @@
   monday-title: "Designing color scales"
   wednesday-title: "Tasks and design"
   friday-title: "Single-view arrangements: layouts, stacking, compositing"
+  friday-assignment: "[Programming Assignment 2 due](https://observablehq.com/d/b06b27244e8eece3)"
 
 - week-title: "Single & multiple-view arrangements"
   week-date: "February 10"
