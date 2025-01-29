@@ -33,9 +33,12 @@
 - week-title: "Perception & color"
   week-date: "January 27"
   monday-title: "Gestalt principles, graphical perception [slides](https://vanderbilt.box.com/s/iqwoes1ge4rvmmdg727wvijrqm1dl2nl), [build slides](https://vanderbilt.box.com/s/ip3qzqk4sfzcv0gobcx4w7mv2nn2nar2)"
+  monday-required-reading: "**Ware** Ch. 3, **Munzner** Ch. 5.4 -- 5.6, [Graphical Perception](https://www.jstor.org/stable/2288400)"
   monday-assignment: "[Programming Assignment 2 posted](https://observablehq.com/d/b06b27244e8eece3)"
-  wednesday-title: "Preattentive processing, ensemble coding, change blindness"
+  wednesday-required-reading: "**Munzner** Ch. 6.5, [Four types of ensemble coding](https://jov.arvojournals.org/article.aspx?articleid=2504104)"
+  wednesday-title: "Preattentive processing, ensemble coding, change blindness [slides](https://vanderbilt.box.com/s/7g9bz5x2de7qz8mfa0vx4oq53m5pcv2d), [build slides](https://vanderbilt.box.com/s/mpde3rqkm4rkht5zu3oc8gdsgken6jml)"
   friday-title: "Color spaces, principles for design"
+  friday-required-reading: "**Ware** Ch. 4, **Munzner** Ch. 10.1 -- 10.3"
 
 - week-title: "Color, tasks and design, single-view arrangements"
   week-date: "February 3"
