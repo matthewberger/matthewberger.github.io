@@ -43,8 +43,13 @@
 - week-title: "Color, tasks and design, single-view arrangements"
   week-date: "February 3"
   monday-title: "Designing color scales"
+  monday-required-reading: "**Ware** Ch. 4"
+  monday-recommended-reading: "[Somewhere over the rainbow](https://idl.cs.washington.edu/files/2018-QuantitativeColor-CHI.pdf), [Rainbows revisited](https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/798b92fa-5932-4848-92e5-441b900f9c84/content), [Color binning](https://users.cs.utah.edu/~miriah/publications/binning-study.pdf)"
   wednesday-title: "Tasks and design"
+  wednesday-required-reading: "**Munzner** Ch. 3, 4"
+  wednesday-recommended-reading: "[Design Study Methodology](https://www.cs.ubc.ca/labs/imager/tr/2012/dsm/dsm.pdf)"
   friday-title: "Single-view arrangements: layouts, stacking, compositing"
+  friday-required-reading: "**Munzner** Ch. 7, [Stacking geometry](https://www.cg.tuwien.ac.at/courses/InfoVis/papers/InfoVis2008%20Stacked%20Graphs%20-%20Geometry%20&%20Aesthetics%20%5bByron%5d.pdf), [Horizon graphs](http://idl.cs.washington.edu/files/2009-TimeSeries-CHI.pdf)"
   friday-assignment: "[Programming Assignment 2 due](https://observablehq.com/d/b06b27244e8eece3)"
 
 - week-title: "Single & multiple-view arrangements"
