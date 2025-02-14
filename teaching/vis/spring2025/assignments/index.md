@@ -96,3 +96,5 @@ Further note that notebooks are time-stamped. I will use the date at the top of 
 [Programming Assignment 1](https://observablehq.com/d/02161ee58695fb3d)
 
 [Programming Assignment 2](https://observablehq.com/d/b06b27244e8eece3)
+
+Programming Assignment 3 [undergrads](https://observablehq.com/d/25f048b7fa5230af) [grad students](https://observablehq.com/d/df0d7921f87e5cc0)

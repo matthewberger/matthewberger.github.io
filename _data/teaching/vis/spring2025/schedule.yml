@@ -63,7 +63,7 @@
   friday-title: "Mutiple-view arrangements: design considerations"
   friday-required-reading: "[Design space of composite visualizations](https://ieeexplore.ieee.org/abstract/document/6183556)"
   friday-recommended-reading: "[Domino](https://data.jku-vds-lab.at/papers/2014_infovis_domino.pdf)"
-  friday-assignment: "[Design Critique 2 due](https://observablehq.com/d/0d7c43eb1c3a84f5)"
+  friday-assignment: "[Design Critique 2 due](https://observablehq.com/d/0d7c43eb1c3a84f5), Programming Assignment 3 posted [undergrads](https://observablehq.com/d/25f048b7fa5230af), [grad students](https://observablehq.com/d/df0d7921f87e5cc0)"
 
 - week-title: "Interaction"
   week-date: "February 17"
@@ -75,6 +75,7 @@
   week-date: "February 24"
   monday-title: "Geographic visualization: projections, geometric shapes and scales"
   wednesday-title: "Choropleths, cartograms, and origin-destination flows"
+  wednesday-assignment: "Programming Assignment 3 due [undergrads](https://observablehq.com/d/25f048b7fa5230af), [grad students](https://observablehq.com/d/df0d7921f87e5cc0)"
   friday-title: "Spatiotemporal visualization"
 
 - week-title: "Hierarchies"
