@@ -68,8 +68,12 @@
 - week-title: "Interaction"
   week-date: "February 17"
   monday-title: "Selection"
+  monday-required-reading: "**Munzner** Ch. 11.1 - 11.4, [Defining interaction for data visualization](https://hal.science/hal-02197062/file/What_is_interaction_preprint%20(1).pdf)"
   wednesday-title: "Changing and navigating views"
+  wednesday-required-reading: "**Munzner** Ch. 11.5"
+  wednesday-recommended-reading: "[Smooth and efficient zooming and panning](https://vanwijk.win.tue.nl/zoompan.pdf)"
   friday-title: "Linked and coordinated multiple-view visualization design"
+  friday-recommended-reading: "[MyBrush](https://hal.science/hal-01617001/document)"
 
 - week-title: "Geographic visualization"
   week-date: "February 24"
