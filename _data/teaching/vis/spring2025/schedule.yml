@@ -80,7 +80,7 @@
   monday-title: "Area-based hierarchical visualization [slides](https://vanderbilt.box.com/s/ij4wq7dx9kmne6o0naqipuwfc85he4my), [build slides](https://vanderbilt.box.com/s/3rtckuz07g25yctqj7phh7raes5tkf6x)"
   monday-required-reading: "**Munzner** Ch. 9.5, [Treemaps](https://drum.lib.umd.edu/bitstream/handle/1903/370/CS-TR-2657.pdf), [Squarified Treemaps](https://www.win.tue.nl/~vanwijk/stm.pdf)"
   monday-recommended-reading: "[Voronoi Treemaps](https://graphics.uni-konstanz.de/publikationen/Balzer2005VoronoiTreemaps/Balzer2005VoronoiTreemaps.pdf), [Perception of Treemaps](https://idl.cs.washington.edu/files/2010-Treemaps-InfoVis.pdf)"
-  wednesday-title: "Node-link tree layouts"
+  wednesday-title: "Node-link tree layouts [slides](https://vanderbilt.box.com/s/hkjtm3c8lyt00n8j7h3j0v1rofwr30yy), [build slides](https://vanderbilt.box.com/s/7yek9c70x133yjufblzd86iii4b4m56b)"
   wednesday-required-reading: "[Tidier Tree Drawings](https://reingold.co/tidier-drawings.pdf), [Tulip](https://tulip.labri.fr/publi_tulip/auberChapterTulipGDSBook.pdf)"
   wednesday-assignment: "Programming Assignment 3 due [undergrads](https://observablehq.com/d/25f048b7fa5230af), [grad students](https://observablehq.com/d/df0d7921f87e5cc0)"
   friday-title: "Composite hierarchy-graph layouts, curve drawing"
