@@ -83,6 +83,8 @@
   wednesday-title: "Node-link tree layouts [slides](https://vanderbilt.box.com/s/hkjtm3c8lyt00n8j7h3j0v1rofwr30yy), [build slides](https://vanderbilt.box.com/s/7yek9c70x133yjufblzd86iii4b4m56b)"
   wednesday-required-reading: "[Tidier Tree Drawings](https://reingold.co/tidier-drawings.pdf), [Tulip](https://tulip.labri.fr/publi_tulip/auberChapterTulipGDSBook.pdf)"
   wednesday-assignment: "Programming Assignment 3 due [undergrads](https://observablehq.com/d/25f048b7fa5230af), [grad students](https://observablehq.com/d/df0d7921f87e5cc0)"
+  thursday-title: ""
+  thursday-assignment: "[Programming Assignment 4 posted](https://observablehq.com/d/9db03f8394740c94)"
   friday-title: "Composite hierarchy-graph layouts, curve drawing"
   friday-required-reading: "[Hierarchical Edge Bundles](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)"
 
@@ -103,6 +105,7 @@
   week-date: "March 17"
   monday-title: "Edge bundling for graph layouts"
   wednesday-title: "Linear dimensionality reduction: PCA, MDS"
+  wednesday-assignment: "[Programming Assignment 4 due](https://observablehq.com/d/9db03f8394740c94)"
   friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP"
 
 - week-title: "Scalar, vector, and tensor fields"
