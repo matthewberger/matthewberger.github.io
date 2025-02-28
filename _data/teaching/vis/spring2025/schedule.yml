@@ -85,8 +85,9 @@
   wednesday-assignment: "Programming Assignment 3 due [undergrads](https://observablehq.com/d/25f048b7fa5230af), [grad students](https://observablehq.com/d/df0d7921f87e5cc0)"
   thursday-title: ""
   thursday-assignment: "[Programming Assignment 4 posted](https://observablehq.com/d/9db03f8394740c94)"
-  friday-title: "Composite hierarchy-graph layouts, curve drawing"
+  friday-title: "Composite hierarchy-graph layouts, curve drawing [slides](https://vanderbilt.box.com/s/bdt2ur32ixwg8vmxqmxxieeibsmttq46), [build slides](https://vanderbilt.box.com/s/4z9r60v4p6ti3wtocm7ncx3z5f697dre)"
   friday-required-reading: "[Hierarchical Edge Bundles](https://aviz.fr/wiki/uploads/Teaching2014/bundles_infovis.pdf)"
+  friday-recommended-reading: "[Survey on edge bundling](https://pure.rug.nl/ws/portalfiles/portal/97126982/Lhuillier_et_al_2017_Computer_Graphics_Forum.pdf)"
 
 - week-title: "Graphs"
   week-date: "March 3"
