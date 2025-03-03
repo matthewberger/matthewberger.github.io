@@ -91,7 +91,7 @@
 
 - week-title: "Graphs"
   week-date: "March 3"
-  monday-title: "Graph drawing considerations, layered graph drawing"
+  monday-title: "Graph drawing considerations, layered graph drawing [slides](https://vanderbilt.box.com/s/dkf231aug6j73a99tpjsfju8cdn0cjoe), [build slides](https://vanderbilt.box.com/s/lhsntx7fai3iglnk0lty8k4ihs05tmye)"
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   wednesday-title: "Force-directed graph layouts, stress majorization"
   wednesday-required-reading: "[Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Graph drawing by stress majorization](https://graphviz.org/documentation/GKN04.pdf)"
