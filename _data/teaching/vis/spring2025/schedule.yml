@@ -95,7 +95,7 @@
   monday-required-reading: "**Munzner** Ch. 9.1 -- 9.4, [Layered graph drawing](https://www.emis.de/journals/JGAA/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf)"
   wednesday-title: "Force-directed graph layouts, stress-based optimization [slides](https://vanderbilt.box.com/s/k8wsocpo4u29s1j3n1kphoww945cccow), [build slides](https://vanderbilt.box.com/s/u018dw4au3b0w7vy3ekomvidc0gnev7x)"
   wednesday-required-reading: "[Force-directed graph layouts](http://www.mathe2.uni-bayreuth.de/axel/papers/reingold:graph_drawing_by_force_directed_placement.pdf), [Graph drawing by stress majorization](https://graphviz.org/documentation/GKN04.pdf)"
-  friday-title: "Ordering in graph layouts: arc diagrams, matrix views"
+  friday-title: "Ordering in graph layouts: arc diagrams, matrix views [slides](https://vanderbilt.box.com/s/zr6nvdlnazqjszb0a98f6xavyknvp0mh), [build slides](https://vanderbilt.box.com/s/1sednatbk5c5k814c4rt49kpb454dewx)"
   friday-required-reading: "[Spectral graph drawing](http://www.mathe2.uni-bayreuth.de/axel/papers/koren:on_spectral_graph_drawing.pdf)"
   friday-recommended-reading: "[Comparing node-link and matrix views](https://hal.archives-ouvertes.fr/hal-00343819/file/ghoniem-infovis-04.pdf)"
 
