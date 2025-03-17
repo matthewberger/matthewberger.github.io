@@ -104,7 +104,7 @@
 
 - week-title: "Graphs continued, dimensionality reduction"
   week-date: "March 17"
-  monday-title: "Edge bundling for graph layouts"
+  monday-title: "Edge bundling for graph layouts [slides](https://vanderbilt.box.com/s/sqh3tvym47x1wfa3iccng6y4ezp02l2e), [build slides](https://vanderbilt.box.com/s/yxahgv3lupjl9lbm9lw9vgkwwqacnh64)"
   monday-required-reading: "[Force-directed edge bundling](https://classes.engineering.wustl.edu/cse557/readings/holten-edgebundling.pdf), [Edge-path bundling](https://arxiv.org/abs/2108.05467)"
   wednesday-title: "Linear dimensionality reduction: PCA, MDS"
   wednesday-required-reading: "**Munzner** Ch. 13.4.3"
