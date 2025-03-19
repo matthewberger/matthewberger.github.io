@@ -121,6 +121,7 @@
   wednesday-recommended-reading: "[Image-Guided Streamline Placement](http://cs.brown.edu/courses/cs237/2000/1999/turk.pdf), [Line Integral Convolution](https://users.soe.ucsc.edu/~pang/161/w09/prog3/cabral.pdf)"
   friday-title: "Tensor fields"
   friday-recommended-reading: "[Introduction to visualization of diffusion tensor imaging](http://people.cs.uchicago.edu/~glk/pubs/pdf/Vilanova-IntroVisualizationOfDTI-MnV-2006.pdf)"
+  friday-assignment: "Programming Assignment 5 due [undergrads](https://observablehq.com/d/ab175a4ef99c6c6f), [grad students](https://observablehq.com/d/c20a33e40788d1ca)"
 
 - week-title: "Geographic visualization"
   week-date: "March 31"
