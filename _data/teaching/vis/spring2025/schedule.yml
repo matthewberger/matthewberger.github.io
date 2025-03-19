@@ -106,9 +106,9 @@
   week-date: "March 17"
   monday-title: "Edge bundling for graph layouts [slides](https://vanderbilt.box.com/s/sqh3tvym47x1wfa3iccng6y4ezp02l2e), [build slides](https://vanderbilt.box.com/s/yxahgv3lupjl9lbm9lw9vgkwwqacnh64)"
   monday-required-reading: "[Force-directed edge bundling](https://classes.engineering.wustl.edu/cse557/readings/holten-edgebundling.pdf), [Edge-path bundling](https://arxiv.org/abs/2108.05467)"
-  wednesday-title: "Linear dimensionality reduction: PCA, MDS"
+  wednesday-title: "Linear dimensionality reduction: PCA [slides](https://vanderbilt.box.com/s/ubc3tifnx5gegczjas85d3grh4neq0zn), [build slides](https://vanderbilt.box.com/s/v9mgrf3tm3wnf9j64xl8umhn9eg31n8e)"
   wednesday-required-reading: "**Munzner** Ch. 13.4.3"
-  wednesday-assignment: "[Programming Assignment 4 due](https://observablehq.com/d/9db03f8394740c94)"
+  wednesday-assignment: "[Programming Assignment 4 due](https://observablehq.com/d/9db03f8394740c94), Programming Assignment 5 posted [undergrads](https://observablehq.com/d/ab175a4ef99c6c6f), [grad students](https://observablehq.com/d/c20a33e40788d1ca)"
   friday-title: "Nonlinear dimensionality reduction: tSNE, UMAP"
   friday-required-reading: "[tSNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), [UMAP](https://arxiv.org/pdf/1802.03426.pdf)"
 
