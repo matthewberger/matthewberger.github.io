@@ -125,7 +125,7 @@
 
 - week-title: "Geographic visualization"
   week-date: "March 31"
-  monday-title: "Cartograms"
+  monday-title: "Cartograms [slides](https://vanderbilt.box.com/s/j035stmopiaew16dzk0x7gnxlp95y15s), [build slides](https://vanderbilt.box.com/s/oatim23clzg33ercn3ratkm1rp3d1ucq)"
   monday-required-reading: "[Area cartograms](https://www.dannydorling.org/wp-content/files/dannydorling_publication_id1448.pdf), [Spatially ordered treemaps](https://openaccess.city.ac.uk/id/eprint/536/1/wood_spatially_2008.pdf)"
   wednesday-title: "Origin-destination flows"
   wednesday-required-reading: "[Flow map layout](https://graphics.stanford.edu/papers/flow_map_layout/flow_map_layout.pdf), [OD maps](https://openaccess.city.ac.uk/id/eprint/537/1/wood_visualization_2010.pdf), [MapTrix](https://ialab.it.monash.edu/~dwyer/papers/maptrix.pdf)"
