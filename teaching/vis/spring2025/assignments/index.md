@@ -102,3 +102,5 @@ Programming Assignment 3 [undergrads](https://observablehq.com/d/25f048b7fa5230a
 [Programming Assignment 4](https://observablehq.com/d/9db03f8394740c94)
 
 Programming Assignment 5 [undergrads](https://observablehq.com/d/ab175a4ef99c6c6f) [grad students](https://observablehq.com/d/c20a33e40788d1ca)
+
+Programming Assignment 6 [undergrads](https://observablehq.com/d/d4d186c66e4eb3cb) [grad students](https://observablehq.com/d/805ad84b65cdcb21)
