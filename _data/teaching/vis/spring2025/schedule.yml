@@ -133,7 +133,7 @@
   wednesday-required-reading: "[Flow map layout](https://graphics.stanford.edu/papers/flow_map_layout/flow_map_layout.pdf), [OD maps](https://openaccess.city.ac.uk/id/eprint/537/1/wood_visualization_2010.pdf), [MapTrix](https://ialab.it.monash.edu/~dwyer/papers/maptrix.pdf)"
   friday-title: "Spatiotemporal visualization"
   friday-required-reading: "[Flowstrates](https://diuf.unifr.ch/people/lalanned/Articles/j.1467-8659.2011.01946.x.pdf)"
-  friday-recommended-reading: "[MobilityGraphs](https://core.ac.uk/download/pdf/76981358.pdf)"
+  friday-recommended-reading: "[MobilityGraphs](https://core.ac.uk/download/pdf/76981358.pdf), [MotionRugs](https://bib.dbvis.de/uploadedFiles/MotionRugsPreprint.pdf)"
 
 - week-title: "Uncertainty visualization"
   week-date: "April 7"
