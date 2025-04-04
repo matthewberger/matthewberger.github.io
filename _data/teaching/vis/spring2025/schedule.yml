@@ -131,8 +131,8 @@
   tuesday-assignment: "Programming Assignment 6 posted [undergrads](https://observablehq.com/d/d4d186c66e4eb3cb), [grad students](https://observablehq.com/d/805ad84b65cdcb21)"
   wednesday-title: "Origin-destination flows [slides](https://vanderbilt.box.com/s/v81s95us424qmtp22ls39yg54i00fwtz), [build slides](https://vanderbilt.box.com/s/am58i3aizbel1g2y47stl9b2fjofwhab)"
   wednesday-required-reading: "[Flow map layout](https://graphics.stanford.edu/papers/flow_map_layout/flow_map_layout.pdf), [OD maps](https://openaccess.city.ac.uk/id/eprint/537/1/wood_visualization_2010.pdf), [MapTrix](https://ialab.it.monash.edu/~dwyer/papers/maptrix.pdf)"
-  friday-title: "Spatiotemporal visualization"
-  friday-required-reading: "[Flowstrates](https://diuf.unifr.ch/people/lalanned/Articles/j.1467-8659.2011.01946.x.pdf)"
+  friday-title: "Spatiotemporal visualization [slides](https://vanderbilt.box.com/s/2chkhh1wj4ir76m0alijmtr286est5n2), [build slides](https://vanderbilt.box.com/s/zfnsqbgs5zrk29thend3mmgfds7znwtj)"
+  friday-required-reading: "[Flowstrates](https://ilya.boyandin.me/assets/flowstrates-eurovis11-fin.pdf)"
   friday-recommended-reading: "[MobilityGraphs](https://core.ac.uk/download/pdf/76981358.pdf), [MotionRugs](https://bib.dbvis.de/uploadedFiles/MotionRugsPreprint.pdf)"
 
 - week-title: "Uncertainty visualization"
