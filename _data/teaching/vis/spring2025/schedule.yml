@@ -139,7 +139,7 @@
   week-date: "April 7"
   monday-title: "Probability & statistics refresher, explicit encoding of distributions [slides](https://vanderbilt.box.com/s/maueo0t4d242hwouq1nqm0c7opeycx7z), [build slides](https://vanderbilt.box.com/s/r78k4632x4062whgz4776gs83mvvr6ny)"
   monday-required-reading: "[Visualizing summary statistics and uncertainty](http://www.sci.utah.edu/~kpotter/publications/potter-2010-VSSU.pdf), [Error bars considered harmful](https://graphics.cs.wisc.edu/Papers/2014/CG14/Preprint.pdf)"
-  wednesday-title: "Visualization-supported probabilistic queries"
+  wednesday-title: "Visualization-supported probabilistic queries [slides](https://vanderbilt.box.com/s/ximkrjtxc0ci8yy95xq8pnlcsnwa34wp), [build slides](https://vanderbilt.box.com/s/gol0itkst2th4njia8t6xevnlp5uz3ko)"
   wednesday-required-reading: "[Dot Plots](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf), [Quantile Dot Plots](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf), [Hypothetical Outcome Plots](https://idl.cs.washington.edu/files/2015-HOPs-PLOS.pdf)"
   wednesday-recommended-reading: "[Graphical Inference](http://vita.had.co.nz/papers/inference-infovis.pdf)"
   friday-title: "Encoding uncertainty across visual channels"
