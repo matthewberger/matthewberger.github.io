@@ -142,8 +142,8 @@
   wednesday-title: "Visualization-supported probabilistic queries [slides](https://vanderbilt.box.com/s/ximkrjtxc0ci8yy95xq8pnlcsnwa34wp), [build slides](https://vanderbilt.box.com/s/gol0itkst2th4njia8t6xevnlp5uz3ko)"
   wednesday-required-reading: "[Dot Plots](https://www.cs.uic.edu/~wilkinson/Publications/dotplots.pdf), [Quantile Dot Plots](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf), [Hypothetical Outcome Plots](https://idl.cs.washington.edu/files/2015-HOPs-PLOS.pdf)"
   wednesday-recommended-reading: "[Graphical Inference](http://vita.had.co.nz/papers/inference-infovis.pdf)"
-  friday-title: "Encoding uncertainty across visual channels"
-  friday-recommended-reading: "[Value-suppressing uncertainty palettes](http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf), [Surprise maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf), [Geospatial uncertainty](https://link.springer.com/article/10.1186/s41235-017-0076-1)"
+  friday-title: "Encoding uncertainty across visual channels [slides](https://vanderbilt.box.com/s/6ksede9qqj9mzscwww3v9x8f2z5qv6wl), [build slides](https://vanderbilt.box.com/s/6alr4yb5m0zjjz3kkfkvb73zbixq0ll5)"
+  friday-recommended-reading: "[Value-suppressing uncertainty palettes](http://idl.cs.washington.edu/files/2018-UncertaintyPalettes-CHI.pdf), [Contour boxplots](https://users.cs.utah.edu/~kirby/Publications/Kirby-82.pdf)"
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 14"
