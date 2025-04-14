@@ -147,7 +147,9 @@
 
 - week-title: "Special topics in visual analytics"
   week-date: "April 14"
-  monday-title: "Dimensionality reduction"
+  monday-title: "Dimensionality reduction [slides](https://vanderbilt.box.com/s/wu2tirw7tgvrs5qakqm94eui6x1wimlk), [build slides](https://vanderbilt.box.com/s/fbva4hn8h2u601gaii55zrl5sw8qhyo2)"
+  monday-required-reading: "[InterAxis](https://faculty.cc.gatech.edu/~aendert3/resources/kim-vast-2015.pdf), [iPCA](https://www.cs.tufts.edu/~remco/publications/2009/Eurovis2009-iPCA.pdf)"
+  monday-recommended-reading: "[t-viSNE](https://arxiv.org/pdf/2002.06910.pdf), [DimReader](https://arxiv.org/pdf/1710.00992)"
   wednesday-title: "DR & Clustering"
   friday-title: "Model understanding and steering"
   friday-assignment: "Programming Assignment 6 due [undergrads](https://observablehq.com/d/d4d186c66e4eb3cb), [grad students](https://observablehq.com/d/805ad84b65cdcb21)"
